@@ -1,0 +1,26 @@
+* Tag Migration Steps
+
+* TODO collect active PIDS
+
+* TODO write script to dump data
+
+* Components dependant on mongo
+
+* TODO Onping 1.0 Server (Windows)
+
+* TODO Onping 1.0 PHP
+  
+* TODO Onping 2.0 Server
+
+* TODO AlarmDB
+
+* TODO swdb
+
+* TODO tish stuff
+
+* TODO dynamic-report-query
+
+* TODO ReportRunner (on service)
+
+
+* New IP (10.84.207.136)
