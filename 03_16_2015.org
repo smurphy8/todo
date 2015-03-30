@@ -2,12 +2,8 @@
 
 * DONE Finish Form Upgrade
 
-* TODO get c# migration server running
-
-* TODO get c# migration client started
-
 * DONE update form with constant time
 
-* TODO update ticket to have location/well name
+* DONE update ticket to have location/well name
 
 * DONE update ticket to have "acid" field

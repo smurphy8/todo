@@ -1,20 +1,20 @@
 * Tag Migration Steps
 
-* TODO collect active PIDS
+* DONE collect active PIDS
 
-* TODO write script to dump data
+* DONE write script to dump data
 
 * Components dependant on mongo
 
-* TODO Onping 1.0 Server (Windows)
+* DONE Onping 1.0 Server (Windows)
 
-* TODO Onping 1.0 PHP
+* DONE Onping 1.0 PHP
   
-* TODO Onping 2.0 Server
+* DONE Onping 2.0 Server
 
-* TODO AlarmDB
+* DONE AlarmDB
 
-* TODO swdb
+* DONE swdb
 
 * TODO tish stuff
 
@@ -22,5 +22,11 @@
 
 * TODO ReportRunner (on service)
 
+* DONE Server Mongo Watchdog
 
 * New IP (10.84.207.136)
+
+
+(* (* 240 300000) 17)
+
+
