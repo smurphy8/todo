@@ -16,11 +16,11 @@
 
 * DONE swdb
 
-* TODO tish stuff
+* DONE tish stuff
 
 * TODO dynamic-report-query
 
-* TODO ReportRunner (on service)
+* DONE ReportRunner (on service)
 
 * DONE Server Mongo Watchdog
 
