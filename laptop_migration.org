@@ -1,0 +1,9 @@
+
+* TODO add tagthis binary
+
+* TODO make dotemacs config
+
+* TODO map keyboard
+
+* TODO add this todo repo
+* TODO add neil
