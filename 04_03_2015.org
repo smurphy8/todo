@@ -1,4 +1,4 @@
 
 * TODO Look over documentation of onping data gatherer
 
-* TODO Specify carefully what we want the new poller in c# to do 
+* TODO Specify carefully what we want the new polxler in c# to do 
