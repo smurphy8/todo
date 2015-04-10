@@ -1,0 +1,6 @@
+* TODO Start the process of adding schema to the cobalt backend
+
+* TODO Look over documentation of onping data gatherer
+
+* DONE compile cobalt kiosk backend
+
