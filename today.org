@@ -1,6 +1,5 @@
 
 * TODO Get ghcjs 
 
-* TODO Create
 * TODO write an overview of the ghcjs stuff from Kevin
-* TODO Start the process of adding schema to the cobalt 
+* TODO Start the process of adding schema to the cobalt *
