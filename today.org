@@ -1,5 +1,6 @@
-
+* TODO Start the process of adding schema to the cobalt *
+  CLOCK: [2015-04-10 Fri 00:00]
 * TODO Get ghcjs 
 
 * TODO write an overview of the ghcjs stuff from Kevin
-* TODO Start the process of adding schema to the cobalt *
+ 
