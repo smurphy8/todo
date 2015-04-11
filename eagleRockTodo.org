@@ -1,0 +1,7 @@
+* Maclemore
+* Brown 
+* Ranch
+
+Water Tank, Oil Tank, Current Flow Rate.
+
+Spot levels 8:00 & 6:00 eve. 
