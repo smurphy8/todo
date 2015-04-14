@@ -1,8 +1,8 @@
-* DONE Pick up mali
-* TODO Go by bank
-* DONE Look over netsuite stuff
-* DONE Start the process of adding schema to the cobalt *
+
+* TODO Talk to James about edit mode 
+
+* TODO Move date format to data-template
+
 * TODO Get ghcjs 
   
-* DONE write an overview of the ghcjs stuff from Kevin
  
