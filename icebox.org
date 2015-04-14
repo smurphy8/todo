@@ -1,10 +1,6 @@
-
 * TODO get c# migration server running
-
 * TODO get c# migration client started
-
 * TODO consolodate to uuid package only!
-
 * TODO More Automation for tish report
 * TODO rename filterDataTemplateEntry
 * TODO Add broadcast handling
