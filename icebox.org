@@ -4,3 +4,4 @@
 * TODO More Automation for tish report
 * TODO rename filterDataTemplateEntry
 * TODO Add broadcast handling
+* TODO Get ghcjs 

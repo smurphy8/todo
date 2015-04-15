@@ -1,8 +1,15 @@
 
-* DONE Talk to James about edit mode 
 
-* DONE Move date format to data-template
+* TODO get invoice to lady at slater
 
-* TODO Get ghcjs 
-  
- 
+* TODO go by bank and drop off checks
+
+* TODO pick up mail 
+
+* TODO write tests for form-template (including new date stuff)
+
+* TODO update data-template
+
+* TODO write tests for data-template
+
+* TODO update backend 
