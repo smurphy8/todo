@@ -1,3 +1,9 @@
+* DONE get invoice to lady at slater
+
+* DONE go by bank and drop off checks
+
+* DONE pick up mail 
+
 * TODO write tests for form-template (including new date stuff)
   CLOCK: [2015-04-15 Wed 09:05]--[2015-04-15 Wed 10:19] =>  1:14
 
@@ -11,12 +17,4 @@
   CLOCK: [2015-04-15 Wed 10:24]--[2015-04-15 Wed 10:31] =>  0:07
 * TODO Look over Steve's stuff
 
-* TODO extract permissions
-* DONE get c# migration server running
-* DONE get c# migration client started
-* DONE consolodate to uuid package only!
-** This turned out to be an unwise thing for now  
-* TODO More Automation for tish report
-* TODO rename filterDataTemplateEntry
-* TODO Add broadcast handling
-* DONE Get ghcjs 
+
