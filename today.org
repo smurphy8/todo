@@ -1,3 +1,8 @@
 
+* TODO Finish refactoring saveDashboard
 
+* TODO Finish quote on flow meter for steve
 
+* TODO make meetings repo available on github
+
+* TODO follow up with Kevin to make sure he responds to Luite
