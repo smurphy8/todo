@@ -1,3 +1,4 @@
+* TODO extract permissions
 * TODO get c# migration server running
 * TODO get c# migration client started
 * TODO consolodate to uuid package only!

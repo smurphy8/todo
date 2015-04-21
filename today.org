@@ -7,9 +7,27 @@
 * TODO pick up mail 
 
 * TODO write tests for form-template (including new date stuff)
+  CLOCK: [2015-04-15 Wed 09:05]--[2015-04-15 Wed 10:19] =>  1:14
 
 * TODO update data-template
 
 * TODO write tests for data-template
 
 * TODO update backend 
+  CLOCK: [2015-04-15 Wed 14:00]--[2015-04-15 Wed 14:00] =>  0:00
+
+* TODO Get onping working 
+  CLOCK: [2015-04-15 Wed 16:40]
+  CLOCK: [2015-04-15 Wed 10:31]--[2015-04-15 Wed 13:59] =>  3:28
+  CLOCK: [2015-04-15 Wed 10:31]--[2015-04-15 Wed 10:31] =>  0:00
+ 
+* TODO Get dynamic report working 
+  CLOCK: [2015-04-15 Wed 10:31]--[2015-04-15 Wed 10:31] =>  0:00
+
+* TODO Get reports configured with an email option 
+
+* TODO Look over Jennifer Walkers stuff
+  CLOCK: [2015-04-15 Wed 10:24]--[2015-04-15 Wed 10:31] =>  0:07
+* TODO Look over Steve's stuff
+
+
