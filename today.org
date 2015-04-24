@@ -1,8 +1,10 @@
+Friday April 24, 2015 
 
-* TODO Finish refactoring saveDashboard
+* TODO Finish writing Spot Server
+* TODO Look over netsuite
+* TODO Make Labels for github issues more explicit
+  CLOCK: [2015-04-24 Fri 09:35]--[2015-04-24 Fri 11:19] =>  1:44
 
-* TODO Finish quote on flow meter for steve
+* TODO Take Daniel to a well site
 
-* TODO make meetings repo available on github
 
-* TODO follow up with Kevin to make sure he responds to Luite

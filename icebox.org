@@ -12,9 +12,6 @@
 * TODO Look over Steve's stuff
 
 * TODO extract permissions
-* DONE get c# migration server running
-* DONE get c# migration client started
-* DONE consolodate to uuid package only!
 ** This turned out to be an unwise thing for now  
 * TODO More Automation for tish report
 * TODO rename filterDataTemplateEntry
