@@ -1,10 +1,8 @@
 Friday April 24, 2015 
 
 * TODO Finish writing Spot Server
+* TODO Look over contract 
+* TODO Add Issues to rest of projects
 * TODO Look over netsuite
-* TODO Make Labels for github issues more explicit
-  CLOCK: [2015-04-24 Fri 09:35]--[2015-04-24 Fri 11:19] =>  1:44
-
-* TODO Take Daniel to a well site
 
 
