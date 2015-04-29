@@ -1,8 +1,8 @@
 Friday April 24, 2015 
 
-* TODO Finish writing Spot Server
-* TODO Look over contract 
-* TODO Add Issues to rest of projects
+* DONE Finish writing Spot Server
 * TODO Look over netsuite
+* TODO Look over contract 
+* DONE Add Issues to rest of projects
 
 
