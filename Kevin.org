@@ -1,0 +1,13 @@
+* Notes on Netsuite
+
+* TODO Get the Customers linked with users
+* TODO Get Truck parts added to Truck inventories
+* TODO Get quantities in for various parts (might as well if slow)
+* TODO Try out expense system 
+
+
+* Questions
+** On field ticket: What is Units?
+** What is order priority
+** What is Options
+** How do we configure a custom dashboard
