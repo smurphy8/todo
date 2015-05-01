@@ -1,5 +1,7 @@
+
+* TODO Add issue creator which can parse an org-mode file and add issues from it
+  CLOCK: [2015-05-01 Fri 17:48]
 * TODO Look over Jennifer Walkers stuff
   CLOCK: [2015-04-15 Wed 10:24]--[2015-04-15 Wed 10:31] =>  0:07
 * TODO Look over netsuite
 * TODO Look over contract 
-
