@@ -4,7 +4,6 @@
 ** Look in issues for features needed  
 * TODO Look over goals and see what progress we have made.  
 * TODO update data-template 
-* TODO 
 * TODO write tests for data-template
 
 * TODO Get reports configured with an email option 
