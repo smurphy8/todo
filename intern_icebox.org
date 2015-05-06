@@ -1,0 +1,8 @@
+
+* TODO Automated parsing and rendering of Panel View
+
+* TODO Stakeout project re-initiation 
+
+* TODO Get reports configured with an email option 
+
+* TODO Sandbox configured

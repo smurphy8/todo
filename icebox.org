@@ -6,8 +6,6 @@
 * TODO update data-template 
 * TODO write tests for data-template
 
-* TODO Get reports configured with an email option 
-
 * TODO Look over Steve's stuff
 ** I sent this off for Daniel to look for
    
@@ -18,3 +16,4 @@
 ** This turned out to be an unwise thing for now  
 * TODO Add broadcast handling
 * TODO More Automation for tish report
+
