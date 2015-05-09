@@ -39,7 +39,6 @@
 ** Kevin
 
 ** TODO Per foot price on Cable
-
 * DONE Fix service.aacs-us.com
   CLOCK: [2015-05-07 Thu 10:58]--[2015-05-07 Thu 11:35] =>  0:37
 * DONE Try and build new 2013 with old 2010
