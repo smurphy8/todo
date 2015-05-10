@@ -1,4 +1,4 @@
-* TODO David Baldwin
+Pre* TODO David Baldwin
 * TODO Look up camera pricing 
   CLOCK: [2015-05-06 Wed 14:38]--[2015-05-06 Wed 14:48] =>  0:10
   CLOCK: [2015-05-06 Wed 11:26]--[2015-05-06 Wed 11:35] =>  0:09
