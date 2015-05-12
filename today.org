@@ -1,20 +1,26 @@
-* DONE Add Done to issue-add
-  CLOCK: [2015-05-09 Sat 21:51]--[2015-05-09 Sat 23:31] =>  1:40
+* DONE Finish getting backoffice to compile
+  CLOCK: [2015-05-11 Mon 13:18]--[2015-05-11 Mon 13:20] =>  0:02
+  
+* DONE Solve problem of hanging compiles
+  CLOCK: [2015-05-11 Mon 21:13]--[2015-05-12 Tue 11:33] => 14:20
+
+* DONE Fixing navId problem
+  CLOCK: [2015-05-12 Tue 11:34]--[2015-05-12 Tue 13:40] =>  2:06
+* TODO Get warnings out of the code
 * TODO David Baldwin
+  CLOCK: [2015-05-11 Mon 13:16]--[2015-05-11 Mon 13:17] =>  0:01
   CLOCK: [2015-05-10 Sun 09:48]--[2015-05-10 Sun 09:48] =>  0:00
 ** INFO Need to know which parameter to use  
-* TODO Look over Jennifer Walkers stuff
-  CLOCK: [2015-04-15 Wed 10:24]--[2015-04-15 Wed 10:31] =>  0:07
-   
-* TODO Look over contract 
 * TODO look up router pricing 
   CLOCK: [2015-05-06 Wed 13:15]--[2015-05-06 Wed 14:37] =>  1:22
   CLOCK: [2015-05-06 Wed 11:35]--[2015-05-06 Wed 11:50] =>  0:15
+
 * TODO Get Stratix 8300 info
   CLOCK: [2015-05-06 Wed 16:36]--[2015-05-06 Wed 19:55] =>  3:19
 
+* TODO Look over Kevin Howze's 5300 proposal
+  CLOCK: [2015-05-11 Mon 13:20]--[2015-05-11 Mon 13:50] =>  0:30
 * TODO look over timelne for Rockwell Vmonitor
-* TODO Check that Modbus TCP is good
 * TODO Look over netsuite
 
 ** Chad
@@ -42,21 +48,4 @@
 
 ** TODO Per foot price on Cable
 
-* DONE Fix service.aacs-us.com
-  CLOCK: [2015-05-07 Thu 10:58]--[2015-05-07 Thu 11:35] =>  0:37
-* DONE Try and build new 2013 with old 2010
-  CLOCK: [2015-05-06 Wed 14:48]--[2015-05-06 Wed 14:48] =>  0:00
-** This fixed nothing  
-* DONE Finish getting mass issue thing ready
-  CLOCK: [2015-05-05 Tue 20:43]--[2015-05-06 Wed 11:26] => 14:43
-  CLOCK: [2015-05-04 Mon 20:57]--[2015-05-04 Mon 20:57] =>  0:00
-  CLOCK: [2015-05-04 Mon 15:50]--[2015-05-04 Mon 20:57] =>  5:07
-* DONE Look up camera pricing 
-  CLOCK: [2015-05-07 Thu 08:55]--[2015-05-07 Thu 10:58] =>  2:03
-  CLOCK: [2015-05-06 Wed 14:38]--[2015-05-06 Wed 14:48] =>  0:10
-  CLOCK: [2015-05-06 Wed 11:26]--[2015-05-06 Wed 11:35] =>  0:09
 
-* NOTDOING Add Site number info to debug on onping c#
-  CLOCK: [2015-05-06 Wed 19:55]--[2015-05-06 Wed 19:55] =>  0:00
-
-** I don't think this will help  
