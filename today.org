@@ -1,16 +1,4 @@
-* DONE Finish getting backoffice to compile
-  CLOCK: [2015-05-11 Mon 13:18]--[2015-05-11 Mon 13:20] =>  0:02
-  
-* DONE Solve problem of hanging compiles
-  CLOCK: [2015-05-11 Mon 21:13]--[2015-05-12 Tue 11:33] => 14:20
-
-* DONE Fixing navId problem
-  CLOCK: [2015-05-12 Tue 11:34]--[2015-05-12 Tue 13:40] =>  2:06
 * TODO Get warnings out of the code
-* TODO David Baldwin
-  CLOCK: [2015-05-11 Mon 13:16]--[2015-05-11 Mon 13:17] =>  0:01
-  CLOCK: [2015-05-10 Sun 09:48]--[2015-05-10 Sun 09:48] =>  0:00
-** INFO Need to know which parameter to use  
 * TODO look up router pricing 
   CLOCK: [2015-05-06 Wed 13:15]--[2015-05-06 Wed 14:37] =>  1:22
   CLOCK: [2015-05-06 Wed 11:35]--[2015-05-06 Wed 11:50] =>  0:15
@@ -47,5 +35,17 @@
 ** Kevin
 
 ** TODO Per foot price on Cable
+  CLOCK: [2015-05-10 Sun 09:48]--[2015-05-10 Sun 09:48] =>  0:00
+* DONE Finish getting backoffice to compile
+  CLOCK: [2015-05-11 Mon 13:18]--[2015-05-11 Mon 13:20] =>  0:02
+  
+* DONE Solve problem of hanging compiles
+  CLOCK: [2015-05-11 Mon 21:13]--[2015-05-12 Tue 11:33] => 14:20
 
+* DONE Fixing navId problem
+  CLOCK: [2015-05-12 Tue 11:34]--[2015-05-12 Tue 13:40] =>  2:06
 
+* DONE More Nav Id work... stupid Part
+  CLOCK: [2015-05-12 Tue 14:05]--[2015-05-12 Tue 14:15] =>  0:10
+* DONE David Baldwin
+  CLOCK: [2015-05-11 Mon 13:16]--[2015-05-11 Mon 13:17] =>  0:01
