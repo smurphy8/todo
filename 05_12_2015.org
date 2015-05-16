@@ -1,12 +1,4 @@
-
-* TODO Fix Issue Assignee so that it is a standalone heading
-* TODO Fix milestone so that it isn't referred to as issue number
-  CLOCK: [2015-05-16 Sat 11:04]
-* TODO Add Issues -> Document and Document -> Issues
-* TODO Fix inventory Search in backoffice
-  CLOCK: [2015-05-13 Wed 13:26]--[2015-05-13 Wed 13:56] =>  0:30
-* TODO Networking Report
-  CLOCK: [2015-05-13 Wed 10:57]--[2015-05-13 Wed 13:26] =>  2:29
+* TODO Get warnings out of the code
 * TODO look up router pricing 
   CLOCK: [2015-05-06 Wed 13:15]--[2015-05-06 Wed 14:37] =>  1:22
   CLOCK: [2015-05-06 Wed 11:35]--[2015-05-06 Wed 11:50] =>  0:15
@@ -44,4 +36,16 @@
 
 ** TODO Per foot price on Cable
   CLOCK: [2015-05-10 Sun 09:48]--[2015-05-10 Sun 09:48] =>  0:00
+* DONE Finish getting backoffice to compile
+  CLOCK: [2015-05-11 Mon 13:18]--[2015-05-11 Mon 13:20] =>  0:02
   
+* DONE Solve problem of hanging compiles
+  CLOCK: [2015-05-11 Mon 21:13]--[2015-05-12 Tue 11:33] => 14:20
+
+* DONE Fixing navId problem
+  CLOCK: [2015-05-12 Tue 11:34]--[2015-05-12 Tue 13:40] =>  2:06
+
+* DONE More Nav Id work... stupid Part
+  CLOCK: [2015-05-12 Tue 14:05]--[2015-05-12 Tue 14:15] =>  0:10
+* DONE David Baldwin
+  CLOCK: [2015-05-11 Mon 13:16]--[2015-05-11 Mon 13:17] =>  0:01
