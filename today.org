@@ -1,47 +1,9 @@
+* TODO Get with James about testing the report fixtures
+* TODO Gather all quote info into a real quote
+* TODO Make sure enbt is compatable with switch
+* TODO Make sure switch is compatable with 7+1 and 4+1 unmanaged
+* TODO Check if quote should include Fiber cabling
+* TODO Furnish Steve his quote
+* TODO Follow up with VMonitor
+  CLOCK: [2015-05-18 Mon 18:35]--[2015-05-18 Mon 18:35] =>  0:00
 
-* TODO Fix Issue Assignee so that it is a standalone heading
-* TODO Fix milestone so that it isn't referred to as issue number
-  CLOCK: [2015-05-16 Sat 11:04]
-* TODO Add Issues -> Document and Document -> Issues
-* TODO Fix inventory Search in backoffice
-  CLOCK: [2015-05-13 Wed 13:26]--[2015-05-13 Wed 13:56] =>  0:30
-* TODO Networking Report
-  CLOCK: [2015-05-13 Wed 10:57]--[2015-05-13 Wed 13:26] =>  2:29
-* TODO look up router pricing 
-  CLOCK: [2015-05-06 Wed 13:15]--[2015-05-06 Wed 14:37] =>  1:22
-  CLOCK: [2015-05-06 Wed 11:35]--[2015-05-06 Wed 11:50] =>  0:15
-
-* TODO Get Stratix 8300 info
-  CLOCK: [2015-05-06 Wed 16:36]--[2015-05-06 Wed 19:55] =>  3:19
-
-* TODO Look over Kevin Howze's 5300 proposal
-  CLOCK: [2015-05-11 Mon 13:20]--[2015-05-11 Mon 13:50] =>  0:30
-* TODO look over timelne for Rockwell Vmonitor
-* TODO Look over netsuite
-
-** Chad
-** TODO Assign all customers
-
-
-** Yvonne
-
-** TODO Forecast Type -remove
-
-** TODO Opportunity 
-
-** TODO Try to add Cost next to Sales Price
-
-** TODO Find out what 'exclude from rate request'
-
-** TODO Non-default available in the customer center
-
-** TODO Maybe make it responsive
-
-** TODO Workflow
-
-   
-** Kevin
-
-** TODO Per foot price on Cable
-  CLOCK: [2015-05-10 Sun 09:48]--[2015-05-10 Sun 09:48] =>  0:00
-  

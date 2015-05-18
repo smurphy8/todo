@@ -26,3 +26,4 @@
 * TODO More Automation for tish report
 * TODO Look over contract 
 * TODO Check that Modbus TCP is good
+* TODO MODBUS on IPAD
