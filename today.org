@@ -1,9 +1,15 @@
+* TODO Furnish Steve his quote
+  CLOCK: [2015-05-19 Tue 15:34]--[2015-05-19 Tue 16:28] =>  0:54
+  I put a hold on this until I get things in proper condition to actually add the report and driver info
 * TODO Get with James about testing the report fixtures
 * TODO Gather all quote info into a real quote
+  CLOCK: [2015-05-19 Tue 11:17]--[2015-05-19 Tue 14:07] =>  2:50
 * TODO Make sure enbt is compatable with switch
 * TODO Make sure switch is compatable with 7+1 and 4+1 unmanaged
 * TODO Check if quote should include Fiber cabling
-* TODO Furnish Steve his quote
 * TODO Follow up with VMonitor
   CLOCK: [2015-05-18 Mon 18:35]--[2015-05-18 Mon 18:35] =>  0:00
 
+---
+
+* Christ the King Catholic Church
