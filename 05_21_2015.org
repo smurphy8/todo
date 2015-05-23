@@ -1,6 +1,5 @@
 
 
-* TODO Work on C# driver
 * TODO Add button 'all-reports' for onping kiosk
 * TODO Get with James about testing the report fixtures
 * TODO Gather all quote info into a real quote
@@ -9,3 +8,8 @@
   CLOCK: [2015-05-19 Tue 15:34]--[2015-05-19 Tue 16:28] =>  0:54
   I put a hold on this until I get things in proper condition to actually add the report and driver info
 
+
+* DONE fix circle CI build for cobalt-kiosk
+  CLOCK: [2015-05-21 Thu 09:23]--[2015-05-21 Thu 09:24] =>  0:01
+
+* DONE Fix dependency problems in onping (again)

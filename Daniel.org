@@ -1,0 +1,7 @@
+* Notes on planning
+
+* Restarting
+Restarting nodes won't restart automatically.
+Long query stuff
+Nothing Restriction
+
