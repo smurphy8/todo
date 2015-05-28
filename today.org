@@ -20,6 +20,8 @@
 
 
 * TODO Cobalt Form Features and Tasks
-** DONE Get correct input types parsing from xml
 ** TODO Add some way of culling fields unwanted for display
+** TODO Add excel spreadsheet output
 ** TODO Add some form of type to prepare an invoice
+* TODO update data-template
+** TODO write tests for data-template  
