@@ -1,28 +1,20 @@
 * TODO write tests for form-template (including new date stuff)
   CLOCK: [2015-04-15 Wed 09:05]--[2015-04-15 Wed 10:19] =>  1:14
-
 * TODO Look over Jennifer Walkers stuff
   CLOCK: [2015-04-15 Wed 10:24]--[2015-04-15 Wed 10:31] =>  0:07
 * TODO Finish Writing Spot Server
 ** Look in issues for features needed  
 
 * TODO Look over goals and see what progress we have made.  
-
 * TODO update data-template 
-
 * TODO write tests for data-template
-
 * TODO Look over Steve's stuff
-** I sent this off for Daniel to look for
-   
+** I sent this off for Daniel to look for  
 * TODO rename filterDataTemplateEntry
-
 ** TODO I need to investigate why this was needed soon                 :what:
 * TODO extract permissions
 ** This turned out to be an unwise thing for now  
-
 * TODO Add broadcast handling
-
 * TODO More Automation for tish report
 * TODO Look over contract 
 * TODO Check that Modbus TCP is good
