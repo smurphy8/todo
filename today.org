@@ -1,27 +1,23 @@
-* TODO Finish render Heading in issue-add
-  CLOCK: [2015-05-23 Sat 00:05]--[2015-05-23 Sat 00:25] =>  0:20
-** TODO Render section
-   CLOCK: [2015-05-23 Sat 00:25]--[2015-05-23 Sat 00:35] =>  0:10
+* TODO Call about a credit card
 * TODO Gather all quote info into a real quote
   CLOCK: [2015-05-19 Tue 11:17]--[2015-05-19 Tue 14:07] =>  2:50
-* TODO Furnish Steve his quote
-  CLOCK: [2015-05-19 Tue 15:34]--[2015-05-19 Tue 16:28] =>  0:54
-  I put a hold on this until I get things in proper condition to actually add the report and driver info
-
-* TODO Figure out projects for Darren
-** TODO Sandbox minimal build
-** TODO Saucelabs project ??
-
+* TODO Review server info  
+* TODO Review MSA 
+  CLOCK: [2015-05-28 Thu 11:45]--[2015-05-28 Thu 11:45] =>  0:00
+** TODO Understand Insurance
+** TODO Understand Intellectual Property   
+* TODO update data-template
+** TODO write tests for data-template  
 * TODO Fix cobalt kiosk backend to use forms for indexing
-** TODO fix input-type thing
+* TODO fix input-type thing
    CLOCK: [2015-05-28 Thu 01:12]--[2015-05-28 Thu 01:12] =>  0:00
    CLOCK: [2015-05-26 Tue 20:47]--[2015-05-27 Wed 06:47] => 10:00
    CLOCK: [2015-05-25 Mon 23:22]--[2015-05-25 Mon 23:52] =>  0:30
-
-
+* TODO Figure out projects for Darren
+** TODO Sandbox minimal build
+** TODO Saucelabs project ??
 * TODO Cobalt Form Features and Tasks
 ** TODO Add some way of culling fields unwanted for display
 ** TODO Add excel spreadsheet output
 ** TODO Add some form of type to prepare an invoice
-* TODO update data-template
-** TODO write tests for data-template  
+* DONE Why aren't angular widgets
