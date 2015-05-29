@@ -1,36 +1,10 @@
-* TODO Call about a credit card
-* TODO Gather all quote info into a real quote
-  CLOCK: [2015-05-19 Tue 11:17]--[2015-05-19 Tue 14:07] =>  2:50
-* TODO Review Alarm DB Code  
-** TODO Is AlarmDB staging using folding alarms   
-** DONE Why is the staging version not calling out 
-   CLOCK: [2015-05-28 Thu 20:03]--[2015-05-28 Thu 20:03] =>  0:00
-   CLOCK: [2015-05-28 Thu 13:37]--[2015-05-28 Thu 14:37] =>  1:00
-   CLOCK: [2015-05-28 Thu 11:48]--[2015-05-28 Thu 13:37] =>  1:49
-   AlarmDB node config needs to be fixed   
+* TODO Call about a credit card  
+* TODO Find out about setting up a user agreement for onping
+* TODO Is AlarmDB staging using folding alarms ?
 * TODO Fix cobalt kiosk backend to use forms for indexing
 * TODO Cobalt Form Features and Tasks
 ** TODO Add some way of culling fields unwanted for display
 ** TODO Add excel spreadsheet output
 ** TODO Add some form of type to prepare an invoice
-* DONE Review MSA 
-  CLOCK: [2015-05-28 Thu 11:45]--[2015-05-28 Thu 11:45] =>  0:00
-** DONE Understand Insurance
-Insurance requirements are fine   
-** DONE Understand Intellectual Property
-I need to look at editing this with an onping-terms-of-service agreement   
-* DONE Review server info
-I Think I want the E2000 server system  
-* DONE update data-template
-** DONE write tests for data-template
-I didn't really write any new tests, but did make sure the ones that there seemed adequate   
-** DONE Make sure data-template works with all the new Form stuff
-   CLOCK: [2015-05-28 Thu 20:07]--[2015-05-28 Thu 20:07] =>  0:00
-* DONE fix input-type  
-   CLOCK: [2015-05-28 Thu 01:12]--[2015-05-28 Thu 01:12] =>  0:00
-   CLOCK: [2015-05-26 Tue 20:47]--[2015-05-27 Wed 06:47] => 10:00
-   CLOCK: [2015-05-25 Mon 23:22]--[2015-05-25 Mon 23:52] =>  0:30
-At the point I am sitting around goin what is the input type thing...   
-* DONE Figure out projects for Darren
-Spot Report Project
-* DONE Why aren't angular widgets
+* TODO Gather all quote info into a real quote
+  CLOCK: [2015-05-19 Tue 11:17]--[2015-05-19 Tue 14:07] =>  2:50
