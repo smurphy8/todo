@@ -1,6 +1,4 @@
-
-
-* TODO Look at James' C code
+* DONE Look at James' C code
   CLOCK: [2015-05-29 Fri 10:09]--[2015-05-29 Fri 10:18] =>  0:09
 * DONE Call about a credit card  
   CLOCK: [2015-05-29 Fri 10:01]--[2015-05-29 Fri 10:08] =>  0:07
