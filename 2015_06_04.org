@@ -1,6 +1,3 @@
-* DONE Look over Edwards code
-  CLOCK: [2015-05-30 Sat 20:33]--[2015-05-30 Sat 20:33] =>  0:00
-* DONE Prepare all Contraption info
 * TODO Cobalt Form Features and Tasks
 ** TODO Add some way of culling fields unwanted for display
 ** TODO Add excel spreadsheet output

@@ -1,7 +1,5 @@
 * TODO Find out about setting up a user agreement for onping
 * TODO Fix cobalt kiosk backend to use forms for indexing
-* TODO Gather all quote info into a real quote
-  CLOCK: [2015-05-19 Tue 11:17]--[2015-05-19 Tue 14:07] =>  2:50
 * TODO Finish Writing Spot Server
 ** Look in issues for features needed  
 
