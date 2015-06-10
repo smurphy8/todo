@@ -1,6 +1,3 @@
 * TODO Cobalt Form Features and Tasks
 ** TODO Add some way of culling fields unwanted for display
-** DONE Add excel spreadsheet output
 ** TODO Add some form of type to prepare an invoice
-* DONE Gather all quote info into a real quote
-  CLOCK: [2015-05-19 Tue 11:17]--[2015-05-19 Tue 14:07] =>  2:50

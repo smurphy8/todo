@@ -1,8 +1,5 @@
 * TODO Find out about setting up a user agreement for onping
 * TODO Fix cobalt kiosk backend to use forms for indexing
-* TODO Finish Writing Spot Server
-** Look in issues for features needed  
-
 * TODO Look over goals and see what progress we have made.  
 * TODO Look over Steve's stuff
 ** I sent this off for Daniel to look for  

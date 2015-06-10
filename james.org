@@ -1,3 +1,0 @@
-* TODO rebuild onping fix issues 
-  CLOCK: [2015-05-05 Tue 16:09]--[2015-05-05 Tue 20:43] =>  4:34
-** REASSIGNED to James

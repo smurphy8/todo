@@ -1,1 +1,3 @@
 * TODO Turn Spot Report into a web-api
+* TODO Add a cron tab style interface
+* TODO Get reports configured with an email option 
