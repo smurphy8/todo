@@ -1,11 +1,4 @@
-
-* TODO Cobalt Form Features and Tasks
-** TODO Add some way of culling fields unwanted for display
-   CLOCK: [2015-06-10 Wed 18:36]
-** TODO Add some form of type to prepare an invoice
 * TODO MODBUS on IPAD
-* TODO Check that Modbus TCP is good
-** Assigned to jeremy <2015-06-10 Wed>
-
-
-   
+* DONE Template system on cobalt backend
+  CLOCK: [2015-06-15 Mon 15:34]
+  Template system now builds 'all companies' report
