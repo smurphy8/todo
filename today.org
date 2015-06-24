@@ -1,5 +1,8 @@
 
+* TODO Contact Rein
+* TODO make new companies for cobalt
 
+* TODO update patrick
 * TODO Contact Netsuite, ask them to fix
 ** Search problem
 We can't find a way to set up parts to search easily by description
