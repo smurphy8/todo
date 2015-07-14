@@ -1,3 +1,5 @@
+* TODO Auth piece for servant implemented in something
+* TODO Better answer for authentication
 * TODO Find out about setting up a user agreement for onping
 * TODO Fix cobalt kiosk backend to use forms for indexing
 * TODO Look over goals and see what progress we have made.  

@@ -1,3 +1,4 @@
-* TODO Check that Modbus TCP is good
+* DONE Check that Modbus TCP is good
 * TODO Server manager integration of single-well
 * TODO Reverse lookup
+* TODO Writes for Single Well Poll

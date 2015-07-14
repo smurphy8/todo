@@ -1,0 +1,20 @@
+
+* TODO Update on stakeout
+* TODO Contact Netsuite, ask them to fix
+** Search problem
+We can't find a way to set up parts to search easily by description
+** Workflow
+When we talked about our workflow before I had mentioned wanting to
+create a trail for a part but I am not sure how to do it right now.
+** Tickets
+We have to be able to separate the parts portion of the ticket from the
+labor portion in order to hand this to customers.
+* TODO Give Yvonne sample search
+* TODO Review candidtates
+* TODO Write review procedure
+* DONE Contact Rein
+* DONE make new companies for cobalt
+
+* DONE update patrick
+* DONE Get update on QuickBooks stuff
+* DONE Folds alarms
