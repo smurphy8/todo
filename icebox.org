@@ -1,10 +1,11 @@
+* TODO Masks need to be separated from persist-mongo-template
+* TODO Mask default code needs an overhaul with documentation
 * TODO Auth piece for servant implemented in something
 * TODO Better answer for authentication
 * TODO Find out about setting up a user agreement for onping
 * TODO Fix cobalt kiosk backend to use forms for indexing
-* TODO Look over goals and see what progress we have made.  
 * TODO rename filterDataTemplateEntry
-** TODO I need to investigate why this was needed soon                 :what:
+** TODO I need to investigate why this was needed soon :what:
 * TODO extract permissions
 ** This turned out to be an unwise thing for now  
 * TODO Add broadcast handling

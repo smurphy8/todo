@@ -1,4 +1,6 @@
-* DONE Check that Modbus TCP is good
-* TODO Server manager integration of single-well
-* TODO Reverse lookup
-* TODO Writes for Single Well Poll
+* DONE Server manager integration of single-well
+I am assuming ab it here  
+* DONE Reverse lookup
+Impossible without hardware
+* DONE Writes for Single Well Poll
+THis is ready

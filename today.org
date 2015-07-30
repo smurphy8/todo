@@ -1,3 +1,1 @@
-* TODO Look over questions for Cassie
-* TODO Get an answer from Midstates
-* TODO Figure out why C# driver is sending bs values
+* TODO Check in with Luite
