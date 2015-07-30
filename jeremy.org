@@ -1,6 +1,1 @@
-* DONE Server manager integration of single-well
-I am assuming ab it here  
-* DONE Reverse lookup
-Impossible without hardware
-* DONE Writes for Single Well Poll
-THis is ready
+* TODO Kepware Fit For use

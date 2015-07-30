@@ -2,7 +2,6 @@
 * TODO Mask default code needs an overhaul with documentation
 * TODO Auth piece for servant implemented in something
 * TODO Better answer for authentication
-* TODO Find out about setting up a user agreement for onping
 * TODO Fix cobalt kiosk backend to use forms for indexing
 * TODO rename filterDataTemplateEntry
 ** TODO I need to investigate why this was needed soon :what:
@@ -10,7 +9,6 @@
 ** This turned out to be an unwise thing for now  
 * TODO Add broadcast handling
 * TODO More Automation for tish report
-* TODO Look over contract 
 * TODO Finish render Heading in issue-add
   CLOCK: [2015-05-23 Sat 00:05]--[2015-05-23 Sat 00:25] =>  0:20
 ** TODO Render section
