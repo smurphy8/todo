@@ -1,3 +1,4 @@
-* TODO Turn Spot Report into a web-api
-* TODO Add a cron tab style interface
-* TODO Get reports configured with an email option 
+* TODO NodeManager might need to be updated
+* DONE Turn Spot Report into a web-api
+* DONE Add a cron tab style interface
+* DONE Get reports configured with an email option 

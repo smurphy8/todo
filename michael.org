@@ -1,2 +1,2 @@
-* TODO Sauce Labs Testing
+* DONE Sauce Labs Testing
 ** Got Sauce labs base working
