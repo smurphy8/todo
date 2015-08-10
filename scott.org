@@ -4,8 +4,7 @@
 ** TODO Find out about setting up a user agreement for onping
 ** TODO Netsuite
 ** TODO Check with Steve about payment
-** TODO Notary thing
-   
+** TODO Notary thing   
 ** TODO Get Tag for Brad
 * Cold
 ** TODO Masks need to be separated from persist-mongo-template
