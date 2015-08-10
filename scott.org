@@ -6,6 +6,8 @@
 ** TODO Check with Steve about payment
 ** TODO Notary thing   
 ** TODO Get Tag for Brad
+** TODO look over onping onboarding stuff that james wrote
+** TODO Redo ad for field service to more obviously emphasize elect.
 * Cold
 ** TODO Masks need to be separated from persist-mongo-template
 ** TODO Mask default code needs an overhaul with documentation
@@ -24,4 +26,4 @@
    CLOCK: [2015-05-23 Sat 00:05]--[2015-05-23 Sat 00:25] =>  0:20
 *** TODO Render section
     CLOCK: [2015-05-23 Sat 00:25]--[2015-05-23 Sat 00:35] =>  0:10
-* TODO Parts Delivery Ad
+** TODO Parts Delivery Ad
