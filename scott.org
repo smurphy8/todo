@@ -1,9 +1,12 @@
 * Hot
-** TODO Check in with Luite
+** TODO Finish Alarms
+   CLOCK: [2015-08-07 Fri 09:33]--[2015-08-10 Mon 08:21] => 70:48
 ** TODO Find out about setting up a user agreement for onping
 ** TODO Netsuite
 ** TODO Check with Steve about payment
-
+** TODO Notary thing
+   
+** TODO Get Tag for Brad
 * Cold
 ** TODO Masks need to be separated from persist-mongo-template
 ** TODO Mask default code needs an overhaul with documentation
@@ -22,3 +25,4 @@
    CLOCK: [2015-05-23 Sat 00:05]--[2015-05-23 Sat 00:25] =>  0:20
 *** TODO Render section
     CLOCK: [2015-05-23 Sat 00:25]--[2015-05-23 Sat 00:35] =>  0:10
+* TODO Parts Delivery Ad

@@ -1,19 +1,31 @@
 * Hot
+  
 ** TODO Get tax for Indiana 
 ** TODO Badger
 *** TODO ARP
+    CLOCK: [2015-08-10 Mon 08:26]--[2015-08-10 Mon 08:26] =>  0:00
++ Calling ARP
 *** TODO Concord
+    CLOCK: [2015-08-10 Mon 08:26]--[2015-08-10 Mon 08:26] =>  0:00
++ Waiting for email    
 *** TODO Range  
-*** TODO Tish
-    
-** TODO First of the month Data For Kirstin
-
+    CLOCK: [2015-08-10 Mon 08:26]--[2015-08-10 Mon 08:27] =>  0:01
++ call
+*** TODO Tish    
+** DONE First of the month Data For Kirstin
 ** TODO James, Ticket and Air b&b
-
+   CLOCK: [2015-08-10 Mon 08:21]--[2015-08-10 Mon 08:21] =>  0:00
+First place never responded, try again today 
+   
 * Cold
+
+** DONE Register for conference
+
 ** TODO Get Sales Tax set up Texas and Kansas
 
+
 ** TODO Vin # and Tag # 
+Tobi is the only one left
 
 ** TODO Find Rental In Lindsay
 
@@ -22,5 +34,3 @@
 ** TODO Sell Truck
 
 ** TODO Neosho Collections
-
-** TODO Register for conference
