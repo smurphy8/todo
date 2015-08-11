@@ -1,12 +1,11 @@
 * Hot
 ** TODO Redo ad for field service to more obviously emphasize elect.
+** TODO Parts Delivery Ad
 ** TODO Finish Alarms
    CLOCK: [2015-08-07 Fri 09:33]--[2015-08-10 Mon 08:21] => 70:48
+
 ** TODO Netsuite
-** DONE Check with Steve about payment
 ** TODO Notary thing   
-** DONE Get Tag for Brad
-** DONE look over onping onboarding stuff that james wrote   
 * Cold
 ** TODO Find out about setting up a user agreement for onping
 Waiting on Steve to get back with me  
@@ -22,9 +21,7 @@ Waiting on Steve to get back with me
 *** This turned out to be an unwise thing for now  
 ** TODO Add broadcast handling
 ** TODO More Automation for tish report
-** TODO Look over contract 
 ** TODO Finish render Heading in issue-add
    CLOCK: [2015-05-23 Sat 00:05]--[2015-05-23 Sat 00:25] =>  0:20
 *** TODO Render section
     CLOCK: [2015-05-23 Sat 00:25]--[2015-05-23 Sat 00:35] =>  0:10
-** TODO Parts Delivery Ad
