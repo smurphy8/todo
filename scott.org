@@ -1,19 +1,19 @@
 * ALL TODO
 ** Hot
+*** TODO Alarm Log Report for Matt
+*** TODO Camera stuff for Shea
 *** TODO Finish Alarms
     CLOCK: [2015-08-07 Fri 09:33]--[2015-08-10 Mon 08:21] => 70:48
-*** DONE MSA look
-*** DONE Notary thing   
-*** TODO Redo ad for field service to more obviously emphasize elect.
 *** TODO Netsuite
 *** TODO Enter Tims Request
 + Call Order Interface Change
 + Alarm Call Route and Location Assignment screen
-
 *** TODO Tag Report for Tim
 *** TODO Total Flow 
 
 ** Cold
+*** TODO Redo ad for field service to more obviously emphasize elect.
+
 *** TODO Find out about setting up a user agreement for onping
 Waiting on Steve to get back with me  
 *** TODO Masks need to be separated from persist-mongo-template
