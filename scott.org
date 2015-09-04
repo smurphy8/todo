@@ -1,21 +1,18 @@
 * ALL TODO
 ** Hot
+*** TODO Array Report Update
+*** TODO Update Graphs which are displaying wrong data
 *** TODO Update Milestones
-*** DONE Update persist-mongo-template
 *** TODO Alarm Log Report for Matt
 *** TODO Camera stuff for Shea
 *** TODO Finish Alarms
     CLOCK: [2015-08-07 Fri 09:33]--[2015-08-10 Mon 08:21] => 70:48
 *** TODO Netsuite
-*** DONE Enter Tims Request
 *** TODO Tag Report for Tim
 *** TODO Total Flow 
-*** TODO Virtual Parameters
-*** TODO Issues to add that were found while building alarm log report
-1. no authentication on postJsonAlarmKeysListerR
-** Cold
 *** TODO Redo ad for field service to more obviously emphasize elect.
-
+** TODO Figure out date problem in data config
+** Cold
 *** TODO Find out about setting up a user agreement for onping
 Waiting on Steve to get back with me  
 *** TODO Masks need to be separated from persist-mongo-template
