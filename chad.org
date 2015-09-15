@@ -1,43 +1,27 @@
-* Hot  
-** TODO Cell Modem Bill 
-** TODO Sep IRA
-+ emailed david waiting on list from David
+* All TODO
+** Hot  
+*** TODO End of Month Numbers (Kirsten)
+*** TODO Payroll Numbers
+*** TODO Open Enrollment
+*** TODO Deliver Sep stuff to charles schwab
 + Charles Schwab 
-** TODO Badger
-*** TODO ARP
-    CLOCK: [2015-08-17 Mon 08:23]--[2015-08-17 Mon 08:23] =>  0:00
-    CLOCK: [2015-08-11 Tue 09:06]--[2015-08-11 Tue 09:06] =>  0:00
-    CLOCK: [2015-08-10 Mon 08:26]--[2015-08-10 Mon 08:26] =>  0:00
-+ Calling ARP
-+ No response from them as of yet
 *** TODO Concord
-    CLOCK: [2015-08-17 Mon 08:24]--[2015-08-17 Mon 08:24] =>  0:00
-    CLOCK: [2015-08-10 Mon 08:26]--[2015-08-10 Mon 08:26] =>  0:00
-+ Waiting for email    
-+ sending followup email 
+**** Contact next week (as of Sept 15, 2015)        
 *** TODO Range  
-    SCHEDULED: <2015-08-18 Tue>
-    CLOCK: [2015-08-17 Mon 08:24]
-    Check up 
-    CLOCK: [2015-08-10 Mon 08:26]--[2015-08-10 Mon 08:27] =>  0:01
-+ call
-+ should be paid out in a few days
-+ still waiting 
+**** Waiting to hear from Shea
 *** TODO Tish    
-+ waiting on payment
-** TODO Tag For Andrew
-** TODO Phone for Michael
-** TODO ATT Bill
-** TODO Breeze Trademark
-** TODO Plow Trademark
-* Cold
-** TODO Personal Financial statements
-** DONE James, Ticket and Air b&b
+**** waiting on payment
+*** TODO Trey Resources
+**** email on disputed.
+*** TODO Cell Modem Bill 
+** Cold
+*** TODO Personal Financial statements
+*** DONE James, Ticket and Air b&b
    CLOCK: [2015-08-11 Tue 09:08]--[2015-08-11 Tue 09:08] =>  0:00
    CLOCK: [2015-08-10 Mon 08:21]--[2015-08-10 Mon 08:21] =>  0:00
 + First place never responded, try again today 
-** TODO Get Sales Tax set up Texas and Kansas
-** DONE Vin # and Tag # 
+*** TODO Get Sales Tax set up Texas and Kansas
+*** DONE Vin # and Tag # 
 Tobi is the only one left
-** TODO Find Rental In Lindsay
-** TODO Neosho Collections
+*** TODO Find Rental In Lindsay
+*** TODO Neosho Collections

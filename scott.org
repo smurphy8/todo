@@ -2,17 +2,12 @@
 ** Hot
 *** TODO Array Report Update
 *** TODO Update Graphs which are displaying wrong data
-*** TODO Update Milestones
-*** TODO Alarm Log Report for Matt
-*** TODO Camera stuff for Shea
-*** TODO Finish Alarms
-    CLOCK: [2015-08-07 Fri 09:33]--[2015-08-10 Mon 08:21] => 70:48
-*** TODO Netsuite
-*** TODO Tag Report for Tim
-*** TODO Total Flow 
-*** TODO Redo ad for field service to more obviously emphasize elect.
-** TODO Figure out date problem in data config
+*** TODO Camera stuff for Shea & Jonathan
+*** DONE Netsuite
+*** TODO Finish undoing 32-bit stuff
 ** Cold
+*** TODO Tag Report for Tim
+
 *** TODO Find out about setting up a user agreement for onping
 Waiting on Steve to get back with me  
 *** TODO Masks need to be separated from persist-mongo-template
@@ -23,11 +18,11 @@ Waiting on Steve to get back with me
 *** TODO Fix cobalt kiosk backend to use forms for indexing
 *** TODO rename filterDataTemplateEntry
 **** TODO I need to investigate why this was needed soon               :what:
-*** TODO extract permissions
-**** This turned out to be an unwise thing for now  
 *** TODO Add broadcast handling
 *** TODO More Automation for tish report
 *** TODO Finish render Heading in issue-add
     CLOCK: [2015-05-23 Sat 00:05]--[2015-05-23 Sat 00:25] =>  0:20
 **** TODO Render section
      CLOCK: [2015-05-23 Sat 00:25]--[2015-05-23 Sat 00:35] =>  0:10
+*** TODO Finish Alarms
+    CLOCK: [2015-08-07 Fri 09:33]--[2015-08-10 Mon 08:21] => 70:48
