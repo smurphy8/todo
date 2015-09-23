@@ -1,10 +1,11 @@
 * ALL TODO
 ** Hot
-*** TODO Array Report Update
+
 *** TODO Update Graphs which are displaying wrong data
 *** TODO Camera stuff for Shea & Jonathan
 *** DONE Netsuite
-*** TODO Finish undoing 32-bit stuff
+*** DONE Finish undoing 32-bit stuff
+
 ** Cold
 *** TODO Tag Report for Tim
 

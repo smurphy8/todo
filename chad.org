@@ -1,27 +1,29 @@
 * All TODO
 ** Hot  
-*** TODO End of Month Numbers (Kirsten)
-*** TODO Payroll Numbers
-*** TODO Open Enrollment
-*** TODO Deliver Sep stuff to charles schwab
-+ Charles Schwab 
+
+*** TODO ATT Bill
 *** TODO Concord
 **** Contact next week (as of Sept 15, 2015)        
-*** TODO Range  
-**** Waiting to hear from Shea
-*** TODO Tish    
-**** waiting on payment
-*** TODO Trey Resources
-**** email on disputed.
-*** TODO Cell Modem Bill 
+*** TODO Clean Books
+*** TODO Long AR
+**** TODO Argent (332.00)
++ find out who did work at Argent have them get involved <2015-09-23 Wed>
+**** TODO Kirpatrick (1314.00)
++ Emailed but not called 
+**** TODO Sullivan Wildcreek (631.00)
++ Trying to figure out what company is supposed to be paying <2015-09-23 Wed>
+**** TODO Town of Maysville
++ Find invoice of who did work and get contact info <2015-09-18 Fri>
+**** TODO Trey Resources (4991.00)
++ waiting on decision maker <2015-09-18 Fri>
++ getting payment approval <2015-09-23 Wed>
+**** TODO Cobalt 
++ LaVena needs to respond <2015-09-16 Wed>
++ Jonathan called, wanting all invoices <2015-09-22 Mon>
+
+
 ** Cold
 *** TODO Personal Financial statements
-*** DONE James, Ticket and Air b&b
-   CLOCK: [2015-08-11 Tue 09:08]--[2015-08-11 Tue 09:08] =>  0:00
-   CLOCK: [2015-08-10 Mon 08:21]--[2015-08-10 Mon 08:21] =>  0:00
 + First place never responded, try again today 
 *** TODO Get Sales Tax set up Texas and Kansas
-*** DONE Vin # and Tag # 
-Tobi is the only one left
-*** TODO Find Rental In Lindsay
 *** TODO Neosho Collections
