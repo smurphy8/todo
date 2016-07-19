@@ -1,29 +1,9 @@
 * ALL TODO
 ** Hot
-
-*** TODO Update Graphs which are displaying wrong data
-*** TODO Camera stuff for Shea & Jonathan
-*** DONE Netsuite
-*** DONE Finish undoing 32-bit stuff
-
+*** DONE Check on TE onping fail
+*** TODO Sonke's PR
+*** TODO Worth BOM
+*** TODO send email to travis
+*** TODO check on static IPs
+*** TODO write note about effective comms
 ** Cold
-*** TODO Tag Report for Tim
-
-*** TODO Find out about setting up a user agreement for onping
-Waiting on Steve to get back with me  
-*** TODO Masks need to be separated from persist-mongo-template
-*** TODO Mask default code needs an overhaul with documentation
-*** TODO Auth piece for servant implemented in something
-*** TODO Better answer for authentication
-*** TODO Find out about setting up a user agreement for onping
-*** TODO Fix cobalt kiosk backend to use forms for indexing
-*** TODO rename filterDataTemplateEntry
-**** TODO I need to investigate why this was needed soon               :what:
-*** TODO Add broadcast handling
-*** TODO More Automation for tish report
-*** TODO Finish render Heading in issue-add
-    CLOCK: [2015-05-23 Sat 00:05]--[2015-05-23 Sat 00:25] =>  0:20
-**** TODO Render section
-     CLOCK: [2015-05-23 Sat 00:25]--[2015-05-23 Sat 00:35] =>  0:10
-*** TODO Finish Alarms
-    CLOCK: [2015-08-07 Fri 09:33]--[2015-08-10 Mon 08:21] => 70:48
