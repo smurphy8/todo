@@ -1,9 +1,10 @@
 * ALL TODO
 ** Hot
-*** DONE Check on TE onping fail
-*** TODO Sonke's PR
-*** TODO Worth BOM
 *** TODO send email to travis
-*** TODO check on static IPs
-*** TODO write note about effective comms
+*** TODO Look over issues
+
+
+    
+
 ** Cold
+*** TODO write note about effective comms
