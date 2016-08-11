@@ -1,6 +1,8 @@
 * ALL TODO
 ** Hot
 *** TODO send email to travis
+*** TODO send email about notes from meetings
+*** TODO Work on new markdown version of site
 *** TODO Look over issues
 
 
