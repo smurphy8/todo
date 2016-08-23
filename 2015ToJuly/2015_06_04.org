@@ -1,4 +1,0 @@
-* TODO Cobalt Form Features and Tasks
-** TODO Add some way of culling fields unwanted for display
-** TODO Add excel spreadsheet output
-** TODO Add some form of type to prepare an invoice

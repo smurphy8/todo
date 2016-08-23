@@ -4,9 +4,7 @@
 *** TODO send email about notes from meetings
 *** TODO Work on new markdown version of site
 *** TODO Look over issues
-
-
-    
-
+*** DONE Respond to Shea
+*** DONE Respond to CTO
 ** Cold
 *** TODO write note about effective comms

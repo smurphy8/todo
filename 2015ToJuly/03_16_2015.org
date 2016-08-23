@@ -1,8 +1,0 @@
-* DONE Launch Well Pilot
-* DONE Finish Form Upgrade
-
-* DONE update form with constant time
-
-* DONE update ticket to have location/well name
-
-* DONE update ticket to have "acid" field

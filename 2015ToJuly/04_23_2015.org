@@ -1,3 +1,0 @@
-* TODO Finish writing Spot Server
-
-* TODO Look over netsuite

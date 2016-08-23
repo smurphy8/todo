@@ -1,8 +1,0 @@
-
-* DONE Finish refactoring saveDashboard
-
-* DONE Finish quote on flow meter for steve
-
-* DONE make meetings repo available on github
-
-* DONE follow up with Kevin to make sure he responds to Luite

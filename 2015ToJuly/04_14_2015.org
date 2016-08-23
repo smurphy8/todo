@@ -1,8 +1,0 @@
-
-* DONE Talk to James about edit mode 
-
-* DONE Move date format to data-template
-
-* TODO Get ghcjs 
-  
- 

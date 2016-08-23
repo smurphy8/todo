@@ -1,9 +1,0 @@
-Friday April 24, 2015 
-
-* DONE Finish writing Spot Server
-* DONE Look over netsuite
-  CLOCK: [2015-04-29 Wed 21:06]--[2015-04-29 Wed 21:48] =>  0:42
-* TODO Look over contract 
-* DONE Add Issues to rest of projects
-
-

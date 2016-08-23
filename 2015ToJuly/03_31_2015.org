@@ -1,5 +1,0 @@
-* DONE Launch data-template to hackage
-* DONE move table definitions to cobalt backend
-* TODO consolodate to uuid package only!
-* TODO get c# migration server running
-* TODO get c# migration client started
