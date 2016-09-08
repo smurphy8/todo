@@ -1,10 +1,6 @@
 * ALL TODO
-** Hot
-*** TODO send email to travis
-*** TODO send email about notes from meetings
-*** TODO Work on new markdown version of site
-*** TODO Look over issues
-*** DONE Respond to Shea
-*** DONE Respond to CTO
-** Cold
-*** TODO write note about effective comms
+** DONE review onping2.0 pr for audit
+** DONE review plowtech authentication server for audit
+** TODO build business box thing for midland
+** TODO build business box thing for okc
+** TODO RTU Client work
