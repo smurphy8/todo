@@ -1,7 +1,0 @@
-
-* TODO Add Parameterization to Cobalt.Kiosk
-
-* TODO Automatic Onping Form manager
-
-* TODO zero out onping forms
-

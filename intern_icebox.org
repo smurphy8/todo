@@ -1,4 +1,0 @@
-* TODO Automated parsing and rendering of Panel View
-** Michael Starting on this   
-* TODO Sandbox configured
-* TODO Intern Bugs

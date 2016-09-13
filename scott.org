@@ -1,6 +1,5 @@
 * ALL TODO
-** DONE review onping2.0 pr for audit
-** DONE review plowtech authentication server for audit
+** TODO Send Poseidon email
 ** TODO build business box thing for midland
 ** TODO build business box thing for okc
 ** TODO RTU Client work
