@@ -1,5 +1,5 @@
 * ALL TODO
-** TODO Send Poseidon email
-** TODO build business box thing for midland
-** TODO build business box thing for okc
 ** TODO RTU Client work
+** TODO Murica Review, finish up and add notes 1 pomodoro!
+** TODO Send Poseidon email
+
