@@ -1,4 +1,11 @@
 * ALL TODO
+** TODO Murica Review, finish up and add notes 1 pomodoro!
+** TODO Intern Review 2 pomodoro!
+** TODO Marketing review 1 pomodoro!
+** TODO Track Kristin for expected deadline
+** TODO RTU Client work 2 Pomodoro
+** TODO OnPing News Letter <2016-09-23 Fri>
+** DONE Send progress report
 ** DONE Emails 2 Pomodoro
 *** DONE Email Julian
 *** DONE Email Lindsay
@@ -8,9 +15,4 @@
 *** DONE Email Brent
 *** DONE Email Vern
 *** DONE Email code 4 okc
-** TODO Send progress report
-** TODO Murica Review, finish up and add notes 1 pomodoro!
-** TODO Intern Review 2 pomodoro!
-** TODO Marketing review 1 pomodoro!
-** TODO RTU Client work 2 Pomodoro
 ** DONE James TMobile 1 pomodoro!
