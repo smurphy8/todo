@@ -1,9 +1,13 @@
 * ALL TODO
-** TODO Emails 2 Pomodoro
-*** TODO Email Julian
-*** TODO Email Lindsay
-*** TODO Email Jvilla
-*** TODO Email code 4 okc
+** DONE Emails 2 Pomodoro
+*** DONE Email Julian
+*** DONE Email Lindsay
+*** DONE Email Jvilla
+*** DONE Email Kevin Oleo (antenna)
+*** DONE Email Jeff
+*** DONE Email Brent
+*** DONE Email Vern
+*** DONE Email code 4 okc
 ** TODO Send progress report
 ** TODO Murica Review, finish up and add notes 1 pomodoro!
 ** TODO Intern Review 2 pomodoro!
