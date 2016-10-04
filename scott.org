@@ -1,14 +1,9 @@
 * ALL TODO
-** TODO RTU Client work 2 Pomodoro
-*** TODO Add new module for network disruption
-*** TODO Simulate network disruption
-** TODO Marketing review 1 pomodoro!
-** TODO OnPing News Letter <2016-09-23 Fri>
-** DONE Track Kristin for expected deadline
-** DONE Intern Review 2 pomodoro!
-** DONE Emails 2 Pomodoro
-*** DONE Email Chris
-*** DONE Email Jonathan
-*** DONE Email Jeff
-*** DONE Email Lindsay
-*** DONE Email Julian
+** TODO Get Spectrum Analyzer Ready
+** TODO Fix terrible bug in Roc
+** TODO Get Camera Info for Brad
+** TODO Order Other Parts for Brad
+** TODO Respond to Rebellion
+** TODO Draft Quote for Pump Off Controller
+** TODO Fix SimpleStore fsync problem
+** TODO Email Darren, Duncan and Rob
