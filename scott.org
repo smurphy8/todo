@@ -1,9 +1,6 @@
 * ALL TODO
-** TODO Fix SimpleStore fsync problem - 1 Pomodoro
-** TODO Order Other Parts for Brad - 1 Pomodoro
-** TODO Email Darren, Duncan and Rob - 1 Pomodoro
-** TODO Get Camera Info for Brad - 2 Pomodoro
-** TODO Respond to Rebellion - 3 Pomodoro
-** TODO Get Spectrum Analyzer Ready - 3 Pomodoro
-** TODO Draft Quote for Pump Off Controller - 3 Pomodoro
-** DONE Fix terrible bug in Roc - 3 Pomodoro
+** DONE Draft Quote for Pump Off Controller - 3 Pomodoro
+** DONE Vancouver guy - 1 Pom
+** DONE Order Other Parts for Brad - 1 Pomodoro
+** DONE Get Camera Info for Brad - 2 Pomodoro
+** DONE Get Spectrum Analyzer Ready - 3 Pomodoro
