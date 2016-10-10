@@ -1,6 +1,7 @@
 * ALL TODO
-** DONE Draft Quote for Pump Off Controller - 3 Pomodoro
-** DONE Vancouver guy - 1 Pom
-** DONE Order Other Parts for Brad - 1 Pomodoro
-** DONE Get Camera Info for Brad - 2 Pomodoro
-** DONE Get Spectrum Analyzer Ready - 3 Pomodoro
+** TODO PR Check and progress report      - 1 P
+** TODO Respond to Inquiries from Mujahid - 1 P
+** TODO Respond to Rebellion              - 1 P
+** TODO Work on EULA                      - 1 P
+** TODO Read over Murica                  - 1 P
+** TODO Work on =rtu-client=              - 1 P
