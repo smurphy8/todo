@@ -1,13 +1,8 @@
 * ALL TODO
-** TODO Work on =rtu-client=              - 1 P
+** TODO Work on =rtu-client=              - 4 P
+*** TODO see if any timing changes hclose behavior
+*** TODO Can I change some other property of sync to make things behave
+** TODO email Tamur
 ** TODO Read over Murica                  - 1 P
 ** TODO Read POC papers                   - 1 P
 ** TODO Finish Camera                     - 1 P
-** DONE Ricki's issue                     - 1 P
-** DONE Work on EULA                      - 1 P
-** DONE Respond to Inquiries from Mujahid - 1 P
-** DONE Respond to Paul Mariano           - 1 P
-** DONE Respond to Rebellion              - 1 P
-** DONE Slate Screen Print Email          - .5 P
-** DONE 4 Site Call                       - .5 P
-** DONE PR Check and progress report      - 1 P
