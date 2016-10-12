@@ -1,8 +1,11 @@
 * ALL TODO
-** TODO Work on =rtu-client=              - 4 P
-*** TODO see if any timing changes hclose behavior
-*** TODO Can I change some other property of sync to make things behave
-** TODO email Tamur
 ** TODO Read over Murica                  - 1 P
 ** TODO Read POC papers                   - 1 P
 ** TODO Finish Camera                     - 1 P
+** DONE email Tamur                        
+** DONE Work on =rtu-client=              - 4 P
+*** DONE see if any timing changes hclose behavior
+Changing the timing to 1m definitely fixes the hclose problem
+which means the fsync is just not completing.  yet things aren't blocked...
+Whyyyy!
+*** DONE Can I change some other property of sync to make things behave
