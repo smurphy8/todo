@@ -1,7 +1,9 @@
 * ALL TODO
-** TODO Read over Murica                  - 1 P
-** TODO Read POC papers                   - 1 P
-** TODO Finish Camera                     - 1 P
+** TODO Read over Murica                  -  1 P
+** TODO Email James' Candidate            - .5 P
+** TODO Email Tamur (second response)     - .5 P
+** TODO Read POC papers                   -  1 P
+** TODO Finish Camera                     -  1 P
 ** DONE email Tamur                        
 ** DONE Work on =rtu-client=              - 4 P
 *** DONE see if any timing changes hclose behavior
