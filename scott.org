@@ -1,7 +1,7 @@
 * ALL TODO
-** TODO Micrologix fix to use new simple store -  1 P
-** TODO POC doc review                         -  4 P
 ** TODO Email James' Candidate                 - .5 P
 ** TODO Email Tamur (second response)          - .5 P
-** TODO Read POC papers                        -  1 P
-** TODO Finish Camera                          -  1 P
+** DONE Micrologix fix to use new simple store -  1 P
+** DONE POC doc review                         -  4 P
+** DONE Read POC papers                        -  1 P
+** DONE Finish Camera                          -  1 P
