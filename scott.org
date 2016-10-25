@@ -1,7 +1,7 @@
 * ALL TODO
+** TODO Email Rebellion - 1 P
+** TODO Email Ankita Kota - .5 P
+** TODO Review PRs - 1 P
+** TODO Finish FD solver for finite difference - 2 P
+** TODO Remove open.lock - 1 P 
 ** TODO Email James' Candidate                 - .5 P
-** TODO Email Tamur (second response)          - .5 P
-** DONE Micrologix fix to use new simple store -  1 P
-** DONE POC doc review                         -  4 P
-** DONE Read POC papers                        -  1 P
-** DONE Finish Camera                          -  1 P
