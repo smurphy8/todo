@@ -1,4 +1,11 @@
 * ALL TODO
 ** TODO Finish FD solver for finite difference  -  2   P
+*** TODO Add Test Data for forcing function
+*** TODO Write grid generator
+*** TODO Write boundary condtion functions
+*** TODO Find some sort of Validation data
+*** TODO Verification tests
+**** TODO Numerical fitness tests
+**** TODO CS completeness tests
 ** TODO Email James' Candidate                  -  0.5 P
 ** TODO Email Darren intern                     -  1   P
