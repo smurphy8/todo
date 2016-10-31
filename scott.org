@@ -1,7 +1,11 @@
 * ALL TODO
-** TODO Email Rebellion - 1 P
-** TODO Email Ankita Kota - .5 P
-** TODO Review PRs - 1 P
-** TODO Finish FD solver for finite difference - 2 P
-** TODO Remove open.lock - 1 P 
-** TODO Email James' Candidate                 - .5 P
+** TODO Finish FD solver for finite difference  -  2   P
+** TODO Email James' Candidate                  -  0.5 P
+** TODO Email Darren intern                     -  1   P
+** DONE Visit Star Space                        -  
+** DONE Midfirst luncheon                       -
+** DONE Find Turck supplier                     -
+** DONE Get solid works installed               -
+** DONE Get Altium installed                    -
+** DONE Fill out progress report                -  1   P
+** DONE Clean Email                             -  1   P
