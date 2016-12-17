@@ -1,35 +1,20 @@
 * ALL TODO
-** TODO Review onping-ghcjs problem 2 P 
-** TODO Micrologix problems  3P
-** TODO Review Mujahid 1P
-** TODO Review PRs 1P
-*** DONE Edward PR
-** TODO rtu-client more closed 3P
+** TODO Finish onping-shake updates
+** DONE Check on swmicro writes
+** TODO Add choate dashboard stuff
+** DONE Review Bonus information and calculate new bonuses
+** DONE Email Rebellion
+** DONE Review Mujahid 1P
+** DONE Check on Julian stuff
 ** TODO POC Project
 *** TODO Email for quotes on inclinometer
 *** TODO Finish FD solver for finite difference  -  2   P
-**** TODO Add Test Data for forcing function
+**** TODO Verification tests
+**** TODO Debug wave equation
 **** TODO Write grid generator
+**** TODO CS completeness tests
+**** TODO Numerical fitness tests
 **** TODO Write boundary condtion functions
 **** TODO Find some sort of Validation data
-**** TODO Verification tests
-**** TODO Numerical fitness tests
-**** TODO CS completeness tests
-** TODO 
+**** TODO Add Test Data for forcing function
 
-* Bring these things
-** TODO Mat
-** TODO Robot
-** TODO Robot Charger
-** TODO Chicken
-** TODO side hook
-** TODO trident
-** TODO tall crane
-** TODO horns
-** TODO bee
-** TODO bee holder
-** TODO laptop
-** TODO laptop charger
-** TODO scout & jimmy
-** TODO Poop
-** TODO Shirts
