@@ -1,11 +1,7 @@
 * ALL TODO
 ** TODO Finish onping-shake updates
-** DONE Check on swmicro writes
+** TODO Add onping comm fail stuff to vitruvian
 ** TODO Add choate dashboard stuff
-** DONE Review Bonus information and calculate new bonuses
-** DONE Email Rebellion
-** DONE Review Mujahid 1P
-** DONE Check on Julian stuff
 ** TODO POC Project
 *** TODO Email for quotes on inclinometer
 *** TODO Finish FD solver for finite difference  -  2   P
