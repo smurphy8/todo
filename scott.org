@@ -1,6 +1,6 @@
 * ALL TODO
-** TODO Rebase master into onping-shake
-** TODO Fix global plow-stack stuff for onping-shake branch
+** DONE Rebase master into onping-shake
+** DONE Fix global plow-stack stuff for onping-shake branch
 ** TODO Work on Mask problem 
 ** TODO Review Julians Contract
 ** DONE Review Rebellion MSA
