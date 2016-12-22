@@ -1,6 +1,12 @@
 * ALL TODO
-** TODO Finish onping-shake updates
-** TODO Add onping comm fail stuff to vitruvian
+** TODO Rebase master into onping-shake
+** TODO Fix global plow-stack stuff for onping-shake branch
+** TODO Work on Mask problem 
+** TODO Review Julians Contract
+** DONE Review Rebellion MSA
+** DONE Scott Fleischman offer letter.
+** TODO Review POC schematics
+** TODO Review email call text
 ** TODO Add choate dashboard stuff
 ** TODO POC Project
 *** TODO Email for quotes on inclinometer
