@@ -1,11 +1,9 @@
 * ALL TODO
-** DONE Rebase master into onping-shake
-** DONE Fix global plow-stack stuff for onping-shake branch
-** DONE Work on Mask problem (On Hold for Daniel)
-** DONE Review Julians Contract
-** DONE Review Rebellion MSA
-** DONE Scott Fleischman offer letter.
-** DONE Review POC schematics
+** DONE Order Scott's Laptop
+** DONE Fix bookie
+** DONE Figure out distributions
+** DONE Figure out payments
+** TODO Figure out new Salary for Michael
 ** TODO Review email call text
 ** TODO Add choate dashboard stuff
 ** TODO POC Project
