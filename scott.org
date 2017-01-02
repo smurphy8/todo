@@ -1,13 +1,8 @@
 * ALL TODO
-** DONE Order Scott's Laptop
-** DONE Fix bookie
-** DONE Figure out distributions
-** DONE Figure out payments
-** TODO Figure out new Salary for Michael
+** TODO Add choate dashboard stuff 
 ** TODO Review email call text
-** TODO Add choate dashboard stuff
 ** TODO POC Project
-*** TODO Email for quotes on inclinometer
+*** DONE Email for quotes on inclinometer
 *** TODO Finish FD solver for finite difference  -  2   P
 **** TODO Verification tests
 **** TODO Debug wave equation
@@ -17,4 +12,9 @@
 **** TODO Write boundary condtion functions
 **** TODO Find some sort of Validation data
 **** TODO Add Test Data for forcing function
+** DONE Order Scott's Laptop
+** DONE Fix bookie
+** DONE Figure out distributions
+** DONE Figure out payments
+** DONE Figure out new Salary for Michael
 
