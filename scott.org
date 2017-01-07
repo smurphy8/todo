@@ -1,8 +1,31 @@
 * ALL TODO
-** TODO Add choate dashboard stuff 
+
+** TODO Float fix for Masks
+
 ** TODO Review email call text
+
+** TODO Read Mike's email (For onping
+
+** TODO Ticketing System Specification for James
+
+** TODO Puzzle out Plunger Lift App
+
+** TODO Comm fail on George
+
+** TODO Add choate dashboard stuff
+
+** TODO Review on again off again cell modem settings
+
+** TODO Current test on raven ls300
+
+** TODO Current test on cal amp radio
+
+** TODO Review Parts list for Mujahid
+
+** TODO Check about epic POC stuff
+
 ** TODO POC Project
-*** DONE Email for quotes on inclinometer
+*** TODO Review Board for POC
 *** TODO Finish FD solver for finite difference  -  2   P
 **** TODO Verification tests
 **** TODO Debug wave equation
@@ -12,9 +35,29 @@
 **** TODO Write boundary condtion functions
 **** TODO Find some sort of Validation data
 **** TODO Add Test Data for forcing function
-** DONE Order Scott's Laptop
-** DONE Fix bookie
-** DONE Figure out distributions
-** DONE Figure out payments
-** DONE Figure out new Salary for Michael
+*** DONE Email for quotes on inclinometer
+
+** TODO Presentation write example shakespeare text thing
+
+** DONE Comm fail on Skaggs
+
+** DONE Build Onping Virtual Parameter Requirements
+
+** DONE Get PCCU working
+
+** DONE Comm fail on sofia
+
+** DONE Buy software for rebellion
+
+** DONE Check on Combustor Status, find what needs done
+
+** DONE Get Plunger Lift registers added
+** DONE Double check about insurance
+** DONE Review Tickets
+** DONE Presentation get rid of 'all' and 'only'
+** DONE Check Revenue
+** DONE Find out about battery boxes at the Toydarrow
+** DONE Get Checks Signed
+
+** DONE Make sure Roc stuff is all coming together
 
