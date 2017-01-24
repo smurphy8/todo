@@ -1,4 +1,5 @@
 * ALL TODO
+** TODO Review email call text
 ** TODO Dario email and tag count
 ** TODO Dewey Email and tag count
 ** TODO BLINK
@@ -13,7 +14,6 @@
 ** TODO Puzzle out Plunger Lift App
 ** TODO Dover POC look over
 ** TODO Add choate dashboard stuff
-** TODO Review email call text
 ** TODO POC Project
 *** TODO Review Board for POC
 *** TODO Finish FD solver for finite difference  -  2   P
@@ -27,10 +27,3 @@
 **** TODO Add Test Data for forcing function
 *** DONE Email for quotes on inclinometer
 ** TODO Presentation write example shakespeare text thing
-** DONE Oakes Site
-** DONE Read Mike's email 
-** DONE Current test on raven ls300
-** DONE Current test on cal amp radio
-** DONE Check about epic POC stuff
-Project is a no go
-
