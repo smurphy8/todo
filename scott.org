@@ -1,29 +1,19 @@
 * ALL TODO
-
-** TODO Float fix for Masks
-
-** TODO Review email call text
-
-** TODO Read Mike's email (For onping
-
-** TODO Ticketing System Specification for James
+** TODO Dario email and tag count
+** TODO Dewey Email and tag count
+** TODO BLINK
+*** TODO Check over BLE Protobuf
+*** TODO Check status of ble project
+*** DONE Review BOM for Kevin
+*** DONE Check on Proto case shipment - Wednesday
+*** DONE Check on dev kit shipment    - Tuesday
+*** TODO Support Requirements
+*** TODO Offer letters
 
 ** TODO Puzzle out Plunger Lift App
-
-** TODO Comm fail on George
-
+** TODO Dover POC look over
 ** TODO Add choate dashboard stuff
-
-** TODO Review on again off again cell modem settings
-
-** TODO Current test on raven ls300
-
-** TODO Current test on cal amp radio
-
-** TODO Review Parts list for Mujahid
-
-** TODO Check about epic POC stuff
-
+** TODO Review email call text
 ** TODO POC Project
 *** TODO Review Board for POC
 *** TODO Finish FD solver for finite difference  -  2   P
@@ -36,28 +26,11 @@
 **** TODO Find some sort of Validation data
 **** TODO Add Test Data for forcing function
 *** DONE Email for quotes on inclinometer
-
 ** TODO Presentation write example shakespeare text thing
-
-** DONE Comm fail on Skaggs
-
-** DONE Build Onping Virtual Parameter Requirements
-
-** DONE Get PCCU working
-
-** DONE Comm fail on sofia
-
-** DONE Buy software for rebellion
-
-** DONE Check on Combustor Status, find what needs done
-
-** DONE Get Plunger Lift registers added
-** DONE Double check about insurance
-** DONE Review Tickets
-** DONE Presentation get rid of 'all' and 'only'
-** DONE Check Revenue
-** DONE Find out about battery boxes at the Toydarrow
-** DONE Get Checks Signed
-
-** DONE Make sure Roc stuff is all coming together
+** DONE Oakes Site
+** DONE Read Mike's email 
+** DONE Current test on raven ls300
+** DONE Current test on cal amp radio
+** DONE Check about epic POC stuff
+Project is a no go
 
