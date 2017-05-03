@@ -1,20 +1,7 @@
 * ALL TODO
 
-** DONE Email Mujahid
-
-** DONE Email Andrej
-
-** DONE Pay Invoice for Next Thing Co
-
-** DONE Email Next Thing Co
-
-** DONE Fix Laser Cutter
-
 ** TODO Blink
 
-*** DONE Add wifi settings
-
-*** DONE Investigate timeout times
-
 *** TODO Add license
+
 
