@@ -6,13 +6,3 @@
 ** TODO Lorenzo finish and send out
 ** TODO Example JSON
 ** TODO Tower for CP
-** DONE Update Blink issues
-** DONE FSO App
-** DONE Dover
-** DONE Run through numbers
-** DONE Check with Andrej
-** DONE Intern follow up
-** DONE Look over Mujahid stuff
-** DONE Truck for Seth
-** DONE Calendar check
-** DONE Checks to bank   
