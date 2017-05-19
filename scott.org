@@ -1,12 +1,18 @@
 * ALL TODO
 ** TODO Call CJ about panels
-** TODO Checks to bank
 ** TODO Invoice for blinks
-** TODO Calendar check
 ** TODO Get Lid cuts
-** TODO Run through numbers
-** TODO Look over Mujahid stuff
-** TODO Check with Andrej
-** TODO Intern follow up
 ** TODO Check in on Tag Info project
-** TODO Lorenzo finish and send out 
+** TODO Lorenzo finish and send out
+** TODO Example JSON
+** TODO Tower for CP
+** DONE Update Blink issues
+** DONE FSO App
+** DONE Dover
+** DONE Run through numbers
+** DONE Check with Andrej
+** DONE Intern follow up
+** DONE Look over Mujahid stuff
+** DONE Truck for Seth
+** DONE Calendar check
+** DONE Checks to bank   
