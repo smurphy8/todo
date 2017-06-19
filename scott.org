@@ -1,8 +1,8 @@
 * ALL TODO
-** TODO Call CJ about panels
+** DONE Tower for CP
+** DONE Call CJ about panels
 ** TODO Invoice for blinks
-** TODO Get Lid cuts
+** DONE Get Lid cuts
 ** TODO Check in on Tag Info project
-** TODO Lorenzo finish and send out
-** TODO Example JSON
-** TODO Tower for CP
+** DONE Lorenzo finish and send out
+** DONE Example JSON
