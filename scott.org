@@ -1,8 +1,6 @@
 * ALL TODO
-** DONE Tower for CP
-** DONE Call CJ about panels
-** TODO Invoice for blinks
-** DONE Get Lid cuts
-** TODO Check in on Tag Info project
-** DONE Lorenzo finish and send out
-** DONE Example JSON
+** TODO HSSE Paperwork from Lance and Dee Dee
+   SCHEDULED: <2017-06-21 Wed>
+   DEADLINE: <2017-06-22 Thu>
+** TODO Microload Device
+** TODO Shirts and Hats
