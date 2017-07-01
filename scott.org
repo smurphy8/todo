@@ -4,4 +4,4 @@
 * TODO Do hello world and guessing game tutorial :Rust:
 * TODO Do some proof theory examples :MATH:
 * TODO Tensor Flow install :MachineLearning:
-
+* TODO Get an image of the chip-pro with bluetooth public.
