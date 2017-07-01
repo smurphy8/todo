@@ -1,11 +1,7 @@
-* ALL TODO
-** DONE HSSE Paperwork from Lance and Dee Dee
-   SCHEDULED: <2017-06-21 Wed>
-   DEADLINE: <2017-06-22 Thu>
-** TODO Email Stone bridge
-   SCHEDULED: <2017-06-21 Wed>
-   DEADLINE: <2017-06-21 Wed>
-   PERSON: Jeremy.Funk@sbti.com
-** TODO Microload Device
-** TODO Shirts and Hats
+* DONE implement swap in ATS                                            :ATS:
+* TODO Look at website :Marketing:
+* TODO figure out how to use swap in ATS! :ATS:
+* TODO Do hello world and guessing game tutorial :Rust:
+* TODO Do some proof theory examples :MATH:
+* TODO Tensor Flow install :MachineLearning:
 
