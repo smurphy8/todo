@@ -1,0 +1,7 @@
+* Doctor
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=NmNybThjMzM2OHNqNGI5bjZ0Z202YjlrNm9vMzhiYjJjZ3NtYWI5bGNsajM4ZTlpNjRvMzRlMzQ2MCBzY290dG11cnBoeTA5QG0][Go to gcal web page]]
+  :ID: 6crm8c3368sj4b9n6tgm6b9k6oo38bb2cgsmab9lclj38e9i64o34e3460
+  :END:
+
+  <2017-07-10 Mon 13:00-14:00>
