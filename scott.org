@@ -1,7 +1,80 @@
-* DONE implement swap in ATS                                            :ATS:
-* TODO Look at website :Marketing:
-* TODO figure out how to use swap in ATS! :ATS:
-* TODO Do hello world and guessing game tutorial :Rust:
-* TODO Do some proof theory examples :MATH:
-* TODO Tensor Flow install :MachineLearning:
-* TODO Get an image of the chip-pro with bluetooth public.
+
+* DONE Make sketch of poster
+  DEADLINE: <2017-08-22 Tue>
+
+* DONE Write descripton of Job (Technical Writer). 
+  DEADLINE: <2017-08-21 Mon>
+
+* TODO Ticket for Tyler 
+  DEADLINE: <2017-08-24 Thu>
+
+* TODO Look over POC Acquisition board
+  DEADLINE: <2017-08-24 Thu>
+
+* TODO Look at haskell weekly stuff 
+  DEADLINE: <2017-08-26 Sat>
+
+* TODO Release Onping
+  DEADLINE: <2017-08-24 Thu>
+
+* TODO Run tests 
+  DEADLINE: <2017-08-24 Thu>
+
+* TODO Run swap in ATS
+* TODO Do hello world and guessing game tutorial                       :Rust:
+* TODO Do some proof theory examples                                   :MATH:
+* TODO Tensor Flow install                                  :MachineLearning:
+* Notes on Spotfire
+** TODO Web Services. 
+** TODO API Services (R, Python)
+** TODO Email links on Add On
+* Notes on Onping improvements
+* TODO Code efficient [[https://en.wikipedia.org/wiki/Cornish%E2%80%93Fisher_expansion][Cornish Fisher]]
+* TODO 2 Blue XL's for Shea and Shane
+** TODO make sure this is getting done   
+   DEADLINE: <2017-08-31 Thu>
+
+* TODO Copy in evaluations 
+  DEADLINE: <2017-08-24 Thu>
+
+* TODO Finish evaluations 
+  DEADLINE: <2017-08-25 Fri>
+
+* TODO Respond to LS 
+  DEADLINE: <2017-08-24 Thu>
+
+* TODO Review Terry Writing
+  DEADLINE: <2017-08-25 Fri>
+
+
+* TODO Plunger App Stuff
+* TODO Call Will at Big Spring
+* TODO Review Bank Proposal
+  DEADLINE: <2017-08-24 Thu>
+* TODO Possible people to hire
+** Jacob Holt
++ Solids Controls Technician
++ Wind Tech
++ Mud Crew
+** Colton Lavielle
++ Parts Specialist
++ Forklift certified
+** Brandon Melkus
++ Pumper 
++ Lease Operator
+** Thomas King 
++ Currently Self Employed
+** Michael Bennet
++ In Oklahoma
++ I & E Tech
+** Steve Coutee
++ Leak Survey Tech
+** Charles Fuller 
++ Mostly IT guy
+** Mark Boardman
++ Service Technician (Construction)
+** Christopher Bowen
++ Top Golf
+* TODO Create Call Order for Vern
+* TODO Find out about hardesty
+

@@ -1,3 +1,17 @@
+* Terry Meeting
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=NTI3NGo1ZGVraGdpMmk5Yjh1OWE1MHEzMjIgc2NvdHRtdXJwaHkwOUBt][Go to gcal web page]]
+  :ID: 5274j5dekhgi2i9b8u9a50q322
+  :END:
+
+  <2017-07-06 Thu 14:00-15:00>
+* Respond to david
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=YzlqNmNwajQ3NG9qZ2I5bTY5aGpjYjlrNzFpajZiOXA2b3E2MmI5aTZncDY2ZGhnY2tzajhwMzJjOCBzY290dG11cnBoeTA5QG0][Go to gcal web page]]
+  :ID: c9j6cpj474ojgb9m69hjcb9k71ij6b9p6oq62b9i6gp66dhgcksj8p32c8
+  :END:
+
+  <2017-07-10 Mon 09:00-10:00>
 * Doctor
   :PROPERTIES:
   :LINK: [[https://www.google.com/calendar/event?eid=NmNybThjMzM2OHNqNGI5bjZ0Z202YjlrNm9vMzhiYjJjZ3NtYWI5bGNsajM4ZTlpNjRvMzRlMzQ2MCBzY290dG11cnBoeTA5QG0][Go to gcal web page]]
@@ -5,3 +19,105 @@
   :END:
 
   <2017-07-10 Mon 13:00-14:00>
+* Tyler laxton
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=Y2txamVwOWk2OWozMmI5bmNncWphYjlrNmhpM2NiOW83NHEzZ2JiNjY1aTZjZWI0NzBwbTZjYjJjNCBzY290dG11cnBoeTA5QG0][Go to gcal web page]]
+  :ID: ckqjep9i69j32b9ncgqjab9k6hi3cb9o74q3gbb665i6ceb470pm6cb2c4
+  :END:
+
+  <2017-07-12 Wed 10:00-11:00>
+* Jordan Brim Meeting
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=NTVpNTNhc2p2Y2ZiNzlqOGdpcG12MTZiYTEgc2NvdHRtdXJwaHkwOUBt][Go to gcal web page]]
+  :ID: 55i53asjvcfb79j8gipmv16ba1
+  :END:
+
+  <2017-07-13 Thu 14:00-15:00>
+* Anniversary
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=NGFqOWFhczI5M21ycTNvOWJvZmFudDJycW4gc2NvdHRtdXJwaHkwOUBt][Go to gcal web page]]
+  :ID: 4aj9aas293mrq3o9bofant2rqn
+  :END:
+
+  <2017-07-14 Fri>
+* Lsis
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=Y3BpM2djOWdjOHBqNGI5bWM0cDNnYjlrY2tzajRiOXBjNG9qNmI5b2NkaDZhcGhvY2txajRjMzM3NCBzY290dG11cnBoeTA5QG0][Go to gcal web page]]
+  :ID: cpi3gc9gc8pj4b9mc4p3gb9kcksj4b9pc4oj6b9ocdh6aphockqj4c3374
+  :END:
+
+  <2017-07-18 Tue 16:00-17:00>
+* Call Plow - Stack Builders
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=cjliMWY4bDEwdGdjcHJkamxvZjc1ODFoNGsgc2NvdHRtdXJwaHkwOUBt][Go to gcal web page]]
+  :ID: r9b1f8l10tgcprdjlof7581h4k
+  :END:
+
+  <2017-07-20 Thu 15:00-15:25>
+
+Call using Hangouts https://plus.google.com/hangouts/_/stackbuilders.com/lnaranjo?authuser=0
+* James
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=NmNwM2FkajRjcGhqNGJiNDZjc20yYjlrNmxobWFiOXA2c3FtNGI5aGNwajZjY2htNzVobWFvYjNjOCBzY290dG11cnBoeTA5QG0][Go to gcal web page]]
+  :ID: 6cp3adj4cphj4bb46csm2b9k6lhmab9p6sqm4b9hcpj6cchm75hmaob3c8
+  :END:
+
+  <2017-07-24 Mon 09:00-10:00>
+* Akka Actors
+  :PROPERTIES:
+  :LOCATION: StarSpace 46, 1141 W Sheridan Ave, Oklahoma City, OK, us, 73106
+  :LINK: [[https://www.google.com/calendar/event?eid=XzZ0bG5hcXJsZTVwNmNwYjRkaG1qNHBocGVnc21vcTNkZGdvNm1wYmFjOHNtc3EzbGUxbGphcTM3NmdvMzZvcmpjcG42NmRwZ2M5bW04czFoY3RqamFyOWxlMXA2cWRwcGNwcDZ1b2pmZTlnajAgc2NvdHRtdXJwaHkwOUBt][Go to gcal web page]]
+  :ID: _6tlnaqrle5p6cpb4dhmj4phpegsmoq3ddgo6mpbac8smsq3le1ljaq376go36orjcpn66dpgc9mm8s1hctjjar9le1p6qdppcpp6uojfe9gj0
+  :END:
+
+  <2017-07-25 Tue 11:30-12:30>
+
+To see detailed information for automatically created events like this one, use the official Google Calendar app. https://g.co/calendar
+
+This event was created from an email you received in Gmail. https://mail.google.com/mail?extsrc=cal&plid=ACUX6DPIGEyX7Ivfh7qkltbabitrNQcy-H6DFMU
+
+* Meeting with Mack
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=ZTY2YmgyOGhvYzB0MW5rYjM1ZXVsc3FibjAgc2NvdHRtdXJwaHkwOUBt][Go to gcal web page]]
+  :ID: e66bh28hoc0t1nkb35eulsqbn0
+  :END:
+
+  <2017-08-04 Fri>
+
+  DEADLINE: <2017-08-04 Fri>
+* Apache Spark: Functional Programming Applied to Big Data
+  :PROPERTIES:
+  :LOCATION: StarSpace 46, 1141 W Sheridan Ave, Oklahoma City, OK, us, 73106
+  :LINK: [[https://www.google.com/calendar/event?eid=XzZ0bG5hcXJsZTVwNmNwYjRkaG1qNHBocGVobjY0dDM4ZDRvNjZwYmllbG9qYXEzbGVsazNlcHBsZGRrbjBycG9jbGkzMnE5aWNjcDZxZGprNzRxM2lvampjcGxqZXNwamR0bDZpZGo2ZTlsbWUgc2NvdHRtdXJwaHkwOUBt][Go to gcal web page]]
+  :ID: _6tlnaqrle5p6cpb4dhmj4phpehn64t38d4o66pbielojaq3lelk3epplddkn0rpocli32q9iccp6qdjk74q3iojjcpljespjdtl6idj6e9lme
+  :END:
+
+  <2017-08-29 Tue 11:30-12:30>
+
+To see detailed information for automatically created events like this one, use the official Google Calendar app. https://g.co/calendar
+
+This event was created from an email you received in Gmail. https://mail.google.com/mail?extsrc=cal&plid=ACUX6DM6Z7QtH0F3ZMzP3ccKUmqH5kqpjbq4E08
+* Charity
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=Mzh0cTEwaThhNzI3cmxxNWxxcXJyYmpvaG9fMjAxNzA5MTAgc2NvdHRtdXJwaHkwOUBt][Go to gcal web page]]
+  :ID: 38tq10i8a727rlq5lqqrrbjoho_20170910
+  :END:
+
+  <2017-09-10 Sun>
+* Combuster Project Last Day.
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=MTQ5NzYyMzUwMzIyMCBzY290dG11cnBoeTA5QG0][Go to gcal web page]]
+  :ID: 1497623503220
+  :END:
+
+  <2017-09-15 Fri>
+* Rotate Tires
+  :PROPERTIES:
+  :LOCATION: Freddies Tires
+  :LINK: [[https://www.google.com/calendar/event?eid=bDZvYzYwMHM0NmY3anAxN3E4bmRzaWhuZ2tfMjAxNzA5MTZUMTcwMDAwWiBzY290dG11cnBoeTA5QG0][Go to gcal web page]]
+  :ID: l6oc600s46f7jp17q8ndsihngk_20170916T170000Z
+  :END:
+
+  <2017-09-16 Sat 12:00-13:00>
+
+Rotate Brooke's Tires
