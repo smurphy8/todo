@@ -1,123 +1,480 @@
-* Terry Meeting
+* Onping Training Session
   :PROPERTIES:
-  :LINK: [[https://www.google.com/calendar/event?eid=NTI3NGo1ZGVraGdpMmk5Yjh1OWE1MHEzMjIgc2NvdHRtdXJwaHkwOUBt][Go to gcal web page]]
-  :ID: 5274j5dekhgi2i9b8u9a50q322
+  :LOCATION: Claremore, OK, USA
+  :LINK: [[https://www.google.com/calendar/event?eid=N2drdTVjbW5mbTdpaGhidGNoazlmY3B1OWcgc2NvdHRtdXJwaHkwOUBt][Go to gcal web page]]
+  :ID: 7gku5cmnfm7ihhbtchk9fcpu9g
   :END:
 
-  <2017-07-06 Thu 14:00-15:00>
-* Respond to david
+  <2017-09-27 Wed 08:00-15:00>
+* Finish 401k plan
   :PROPERTIES:
-  :LINK: [[https://www.google.com/calendar/event?eid=YzlqNmNwajQ3NG9qZ2I5bTY5aGpjYjlrNzFpajZiOXA2b3E2MmI5aTZncDY2ZGhnY2tzajhwMzJjOCBzY290dG11cnBoeTA5QG0][Go to gcal web page]]
-  :ID: c9j6cpj474ojgb9m69hjcb9k71ij6b9p6oq62b9i6gp66dhgcksj8p32c8
+  :LINK: [[https://www.google.com/calendar/event?eid=NmhoamFjaGw2b3MzMmI5bjZwZ2phYjlrY2NwNmNiOW82cGgzMGJiMWNoajNhbzlqNmRoM2VwOWs2MCBzY290dG11cnBoeTA5QG0][Go to gcal web page]]
+  :ID: 6hhjachl6os32b9n6pgjab9kccp6cb9o6ph30bb1chj3ao9j6dh3ep9k60
   :END:
 
-  <2017-07-10 Mon 09:00-10:00>
-* Doctor
+  <2017-09-29 Fri 10:00-11:00>
+* internship interview
   :PROPERTIES:
-  :LINK: [[https://www.google.com/calendar/event?eid=NmNybThjMzM2OHNqNGI5bjZ0Z202YjlrNm9vMzhiYjJjZ3NtYWI5bGNsajM4ZTlpNjRvMzRlMzQ2MCBzY290dG11cnBoeTA5QG0][Go to gcal web page]]
-  :ID: 6crm8c3368sj4b9n6tgm6b9k6oo38bb2cgsmab9lclj38e9i64o34e3460
+  :LINK: [[https://www.google.com/calendar/event?eid=MDM4cmJuaWlpZDUyc21zYXN1dDRydnZrbDUgc2NvdHRtdXJwaHkwOUBt][Go to gcal web page]]
+  :ID: 038rbniiid52smsasut4rvvkl5
   :END:
 
-  <2017-07-10 Mon 13:00-14:00>
-* Tyler laxton
+  <2017-10-05 Thu 15:00-16:00>
+* Qianyun, Zhu (Chanyoon)
   :PROPERTIES:
-  :LINK: [[https://www.google.com/calendar/event?eid=Y2txamVwOWk2OWozMmI5bmNncWphYjlrNmhpM2NiOW83NHEzZ2JiNjY1aTZjZWI0NzBwbTZjYjJjNCBzY290dG11cnBoeTA5QG0][Go to gcal web page]]
-  :ID: ckqjep9i69j32b9ncgqjab9k6hi3cb9o74q3gbb665i6ceb470pm6cb2c4
+  :LINK: [[https://www.google.com/calendar/event?eid=MHFoaW12c3FnbHF1YXNpazMzYmVhdjJhZjkgc2NvdHRtdXJwaHkwOUBt][Go to gcal web page]]
+  :ID: 0qhimvsqglquasik33beav2af9
   :END:
 
-  <2017-07-12 Wed 10:00-11:00>
-* Jordan Brim Meeting
-  :PROPERTIES:
-  :LINK: [[https://www.google.com/calendar/event?eid=NTVpNTNhc2p2Y2ZiNzlqOGdpcG12MTZiYTEgc2NvdHRtdXJwaHkwOUBt][Go to gcal web page]]
-  :ID: 55i53asjvcfb79j8gipmv16ba1
-  :END:
-
-  <2017-07-13 Thu 14:00-15:00>
-* Anniversary
-  :PROPERTIES:
-  :LINK: [[https://www.google.com/calendar/event?eid=NGFqOWFhczI5M21ycTNvOWJvZmFudDJycW4gc2NvdHRtdXJwaHkwOUBt][Go to gcal web page]]
-  :ID: 4aj9aas293mrq3o9bofant2rqn
-  :END:
-
-  <2017-07-14 Fri>
-* Lsis
-  :PROPERTIES:
-  :LINK: [[https://www.google.com/calendar/event?eid=Y3BpM2djOWdjOHBqNGI5bWM0cDNnYjlrY2tzajRiOXBjNG9qNmI5b2NkaDZhcGhvY2txajRjMzM3NCBzY290dG11cnBoeTA5QG0][Go to gcal web page]]
-  :ID: cpi3gc9gc8pj4b9mc4p3gb9kcksj4b9pc4oj6b9ocdh6aphockqj4c3374
-  :END:
-
-  <2017-07-18 Tue 16:00-17:00>
-* Call Plow - Stack Builders
-  :PROPERTIES:
-  :LINK: [[https://www.google.com/calendar/event?eid=cjliMWY4bDEwdGdjcHJkamxvZjc1ODFoNGsgc2NvdHRtdXJwaHkwOUBt][Go to gcal web page]]
-  :ID: r9b1f8l10tgcprdjlof7581h4k
-  :END:
-
-  <2017-07-20 Thu 15:00-15:25>
-
-Call using Hangouts https://plus.google.com/hangouts/_/stackbuilders.com/lnaranjo?authuser=0
-* James
-  :PROPERTIES:
-  :LINK: [[https://www.google.com/calendar/event?eid=NmNwM2FkajRjcGhqNGJiNDZjc20yYjlrNmxobWFiOXA2c3FtNGI5aGNwajZjY2htNzVobWFvYjNjOCBzY290dG11cnBoeTA5QG0][Go to gcal web page]]
-  :ID: 6cp3adj4cphj4bb46csm2b9k6lhmab9p6sqm4b9hcpj6cchm75hmaob3c8
-  :END:
-
-  <2017-07-24 Mon 09:00-10:00>
-* Akka Actors
-  :PROPERTIES:
-  :LOCATION: StarSpace 46, 1141 W Sheridan Ave, Oklahoma City, OK, us, 73106
-  :LINK: [[https://www.google.com/calendar/event?eid=XzZ0bG5hcXJsZTVwNmNwYjRkaG1qNHBocGVnc21vcTNkZGdvNm1wYmFjOHNtc3EzbGUxbGphcTM3NmdvMzZvcmpjcG42NmRwZ2M5bW04czFoY3RqamFyOWxlMXA2cWRwcGNwcDZ1b2pmZTlnajAgc2NvdHRtdXJwaHkwOUBt][Go to gcal web page]]
-  :ID: _6tlnaqrle5p6cpb4dhmj4phpegsmoq3ddgo6mpbac8smsq3le1ljaq376go36orjcpn66dpgc9mm8s1hctjjar9le1p6qdppcpp6uojfe9gj0
-  :END:
-
-  <2017-07-25 Tue 11:30-12:30>
-
-To see detailed information for automatically created events like this one, use the official Google Calendar app. https://g.co/calendar
-
-This event was created from an email you received in Gmail. https://mail.google.com/mail?extsrc=cal&plid=ACUX6DPIGEyX7Ivfh7qkltbabitrNQcy-H6DFMU
-
-* Meeting with Mack
-  :PROPERTIES:
-  :LINK: [[https://www.google.com/calendar/event?eid=ZTY2YmgyOGhvYzB0MW5rYjM1ZXVsc3FibjAgc2NvdHRtdXJwaHkwOUBt][Go to gcal web page]]
-  :ID: e66bh28hoc0t1nkb35eulsqbn0
-  :END:
-
-  <2017-08-04 Fri>
-
-  DEADLINE: <2017-08-04 Fri>
-* Apache Spark: Functional Programming Applied to Big Data
-  :PROPERTIES:
-  :LOCATION: StarSpace 46, 1141 W Sheridan Ave, Oklahoma City, OK, us, 73106
-  :LINK: [[https://www.google.com/calendar/event?eid=XzZ0bG5hcXJsZTVwNmNwYjRkaG1qNHBocGVobjY0dDM4ZDRvNjZwYmllbG9qYXEzbGVsazNlcHBsZGRrbjBycG9jbGkzMnE5aWNjcDZxZGprNzRxM2lvampjcGxqZXNwamR0bDZpZGo2ZTlsbWUgc2NvdHRtdXJwaHkwOUBt][Go to gcal web page]]
-  :ID: _6tlnaqrle5p6cpb4dhmj4phpehn64t38d4o66pbielojaq3lelk3epplddkn0rpocli32q9iccp6qdjk74q3iojjcpljespjdtl6idj6e9lme
-  :END:
-
-  <2017-08-29 Tue 11:30-12:30>
-
-To see detailed information for automatically created events like this one, use the official Google Calendar app. https://g.co/calendar
-
-This event was created from an email you received in Gmail. https://mail.google.com/mail?extsrc=cal&plid=ACUX6DM6Z7QtH0F3ZMzP3ccKUmqH5kqpjbq4E08
+  <2017-10-06 Fri 11:00-12:00>
 * Charity
   :PROPERTIES:
-  :LINK: [[https://www.google.com/calendar/event?eid=Mzh0cTEwaThhNzI3cmxxNWxxcXJyYmpvaG9fMjAxNzA5MTAgc2NvdHRtdXJwaHkwOUBt][Go to gcal web page]]
-  :ID: 38tq10i8a727rlq5lqqrrbjoho_20170910
+  :LINK: [[https://www.google.com/calendar/event?eid=Mzh0cTEwaThhNzI3cmxxNWxxcXJyYmpvaG9fMjAxNzEwMDggc2NvdHRtdXJwaHkwOUBt][Go to gcal web page]]
+  :ID: 38tq10i8a727rlq5lqqrrbjoho_20171008
   :END:
 
-  <2017-09-10 Sun>
-* Combuster Project Last Day.
+  <2017-10-08 Sun>
+* Montello 330
   :PROPERTIES:
-  :LINK: [[https://www.google.com/calendar/event?eid=MTQ5NzYyMzUwMzIyMCBzY290dG11cnBoeTA5QG0][Go to gcal web page]]
-  :ID: 1497623503220
+  :LINK: [[https://www.google.com/calendar/event?eid=NzByajRjOWtjNG82NmI5bzc0cm0yYjlrNjloajZiOW82NHEzNmI5bjc1aTNhY2I0Y3BoamdkcG82ZyBzY290dG11cnBoeTA5QG0][Go to gcal web page]]
+  :ID: 70rj4c9kc4o66b9o74rm2b9k69hj6b9o64q36b9n75i3acb4cphjgdpo6g
   :END:
 
-  <2017-09-15 Fri>
+  <2017-10-11 Wed 15:00-16:00>
+* Edward
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=NWo0OGV2aTFobWkybjB1djI3aHFwMXU1NHQgc2NvdHRtdXJwaHkwOUBt][Go to gcal web page]]
+  :ID: 5j48evi1hmi2n0uv27hqp1u54t
+  :END:
+
+  <2017-10-12 Thu 14:00-15:00>
+* Control the world with text!: making CLI tools with Node
+  :PROPERTIES:
+  :LOCATION: 1141 W Sheridan Ave, Oklahoma City, OK
+  :LINK: [[https://www.google.com/calendar/event?eid=NjlqMzhjMWpjNHJtYWI5aWNjb202YjlrNm9ybTZiOW83NWhqZ2JiMTY4cTNlZGo1NzVobWFwYjU2cyBzY290dG11cnBoeTA5QG0][Go to gcal web page]]
+  :ID: 69j38c1jc4rmab9iccom6b9k6orm6b9o75hjgbb168q3edj575hmapb56s
+  :END:
+
+  <2017-10-17 Tue 11:30-12:30>
+
+About 'Control the world with text!: making CLI tools with Node':
+
+Let's make a CLI in node! In this talk we'll take a simple app and make a CLI tool for it. We'll cover everything from making it executable, distribution, testing, and best practices.
+
+More details coming soon!
+
+About Ryan LaBouve:
+
+Product engineer at Envoy. Last seen on the internet. Usually spotted wearing a black shirt with jeans. Loves talking to people and having coffee with strangers.
+
+Follow Ryan at @RyanLaBouve (https://twitter.com/RyanLaBouve)
+
+Details: https://www.meetup.com/OKC-js/events/244051442/
+* Control the world with text!: making CLI tools with Node
+  :PROPERTIES:
+  :LOCATION: StarSpace46, 1141 W Sheridan Ave, Oklahoma City, OK, us, 73106
+  :LINK: [[https://www.google.com/calendar/event?eid=XzZ0bG5hcXJsZTVwNmNwYjRkaG1qNHBocGVncDZhYzltZTVvbWFvcGllb3FtMnRiMzY1a202czNtZGhyNzZkMXBla3A3NnBwZzZwaDcyc2o1YzVqajhxamJkc3JqYXNqamNwcDZjcTFtNjVrMzAgc2NvdHRtdXJwaHkwOUBt][Go to gcal web page]]
+  :ID: _6tlnaqrle5p6cpb4dhmj4phpegp6ac9me5omaopieoqm2tb365km6s3mdhr76d1pekp76ppg6ph72sj5c5jj8qjbdsrjasjjcpp6cq1m65k30
+  :END:
+
+  <2017-10-17 Tue 11:30-12:30>
+
+To see detailed information for automatically created events like this one, use the official Google Calendar app. https://g.co/calendar
+
+This event was created from an email you received in Gmail. https://mail.google.com/mail?extsrc=cal&plid=ACUX6DPxiXPZr6EjI3m0FYJJmTcq73fcwA2azhk
+* Tulsa Meeting Scout
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=NmMzaDI4MDNnYTRqc2lvdDdpcHE4djRyY3Mgc2NvdHRtdXJwaHkwOUBt][Go to gcal web page]]
+  :ID: 6c3h2803ga4jsiot7ipq8v4rcs
+  :END:
+
+  <2017-10-18 Wed 07:30-10:30>
+* Stay at Four Points by Sheraton Charleston
+  :PROPERTIES:
+  :LOCATION: 600 Kanawha Boulevard East, Charleston, WV 25301, USA
+  :LINK: [[https://www.google.com/calendar/event?eid=XzZ0bG5hcXJsZTVwNmNwYjRkaG1qNHBocGVobjcwcWI4Y3RyN2Fwcm1lZ3NtdWQxZ2NrcDM4b3BnZWRvamdjM2xla3FtZ3FiamVsbW4wY3BoZTByNzBjcmNla3FqY29yZjY1b21tZTlqNzFrNmUgc2NvdHRtdXJwaHkwOUBt][Go to gcal web page]]
+  :ID: _6tlnaqrle5p6cpb4dhmj4phpehn70qb8ctr7aprmegsmud1gckp38opgedojgc3lekqmgqbjelmn0cphe0r70crcekqjcorf65omme9j71k6e
+  :END:
+
+  <2017-10-19 Thu>--<2017-10-20 Fri>
+
+To see detailed information for automatically created events like this one, use the official Google Calendar app. https://g.co/calendar
+
+This event was created from an email you received in Gmail. https://mail.google.com/mail?extsrc=cal&plid=ACUX6DOD6wLJlmVVWj1lC8IEmzQbF1pJZah75ZY
+* Simon Meeting
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=M2MyN2xwZzBnaW11bmQwdTRzOTF2cmZpcXAgc2NvdHRtdXJwaHkwOUBt][Go to gcal web page]]
+  :ID: 3c27lpg0gimund0u4s91vrfiqp
+  :END:
+
+  <2017-10-23 Mon 09:30-10:30>
+* 10 Lessons From Running a Digital Marketing Agency for 14 Years
+  :PROPERTIES:
+  :LOCATION: 1141 W Sheridan Ave, Oklahoma City, OK
+  :LINK: [[https://www.google.com/calendar/event?eid=NjhwajBwMXA2aGkzNGJiNjZ0Z2pnYjlrY2NvM2FiOXA2a3FtYWI5bmNsZ2oyY2hsNjFpM2lkOWs2YyBzY290dG11cnBoeTA5QG0][Go to gcal web page]]
+  :ID: 68pj0p1p6hi34bb66tgjgb9kcco3ab9p6kqmab9nclgj2chl61i3id9k6c
+  :END:
+
+  <2017-10-25 Wed 11:30-12:30>
+
+Tim Priebe started T&S Online Marketing in 2003. He will share 10 lessons he's learned from hackers, customers, mistakes, employees, and successes over the course of 14 years in business.
+
+About Tim Priebe:
+
+Tim Priebe is a public speaker, columnist, author of multiple digital marketing books, and the owner of T&S Online Marketing. He has been working on websites since 1997, and regularly assists clients with online marketing, including websites, social media, email newsletters, blogging, search engines, and online video.
+
+Please view the map below for parking information about Starspace46.
+
+https://secure.meetupstatic.com/photos/event/e/8/a/0/600_463559552.jpeg
+
+Details: https://www.meetup.com/Refresh-OKC/events/242408549/
+* 10 Lessons From Running a Digital Marketing Agency for 14 Years
+  :PROPERTIES:
+  :LOCATION: StarSpace 46, 1141 W Sheridan Ave, Oklahoma City, OK, us, 73106
+  :LINK: [[https://www.google.com/calendar/event?eid=XzZ0bG5hcXJsZTVwNmNwYjRkaG1qNHBocGVocWo2b2JlNjFpNjhjYjNlY3M3MHNyOWM4cm11cGplNmRubW9wM2FjNWduMGMxaGRoam4wdGpsZGhvbWlkYmplbHE2aXQxazZocDNnc2I2NzRyMzAgc2NvdHRtdXJwaHkwOUBt][Go to gcal web page]]
+  :ID: _6tlnaqrle5p6cpb4dhmj4phpehqj6obe61i68cb3ecs70sr9c8rmupje6dnmop3ac5gn0c1hdhjn0tjldhomidbjelq6it1k6hp3gsb674r30
+  :END:
+
+  <2017-10-25 Wed 11:30-12:30>
+
+To see detailed information for automatically created events like this one, use the official Google Calendar app. https://g.co/calendar
+
+This event was created from an email you received in Gmail. https://mail.google.com/mail?extsrc=cal&plid=ACUX6DPyuMm0f7XLPz_qhf9VwMlOem9ZaRpF0qY
+* Check on Employees
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=MmNuZm1pNjM1ZWgxdmc5NGZ1cnFkNnVpbmJfMjAxNzEwMjdUMjMwMDAwWiBzY290dG11cnBoeTA5QG0][Go to gcal web page]]
+  :ID: 2cnfmi635eh1vg94furqd6uinb_20171027T230000Z
+  :END:
+
+  <2017-10-27 Fri 18:00-18:05>
+* Check on Employees
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=MmNuZm1pNjM1ZWgxdmc5NGZ1cnFkNnVpbmJfMjAxNzEwMzBUMjMwMDAwWiBzY290dG11cnBoeTA5QG0][Go to gcal web page]]
+  :ID: 2cnfmi635eh1vg94furqd6uinb_20171030T230000Z
+  :END:
+
+  <2017-10-30 Mon 18:00-18:05>
+* Reactive Streams
+  :PROPERTIES:
+  :LOCATION: StarSpace 46, 1141 W Sheridan Ave, Oklahoma City, OK, us, 73106
+  :LINK: [[https://www.google.com/calendar/event?eid=XzZ0bG5hcXJsZTVwNmNwYjRkaG1qNHBocGVoaDY0cGhsZWhsbWlwYmRkdGszZWNocGVkazZhcHI5NjltbWNvOWc2cGgzY2RybGU0b242b2JkZWxsbjhlM2c2ZGg3MGRibGUwcjcycmJjNmdvNmUgc2NvdHRtdXJwaHkwOUBt][Go to gcal web page]]
+  :ID: _6tlnaqrle5p6cpb4dhmj4phpehh64phlehlmipbddtk3echpedk6apr969mmco9g6ph3cdrle4on6obdelln8e3g6dh70dble0r72rbc6go6e
+  :END:
+
+  <2017-10-31 Tue 11:30-12:30>
+
+To see detailed information for automatically created events like this one, use the official Google Calendar app. https://g.co/calendar
+
+This event was created from an email you received in Gmail. https://mail.google.com/mail?extsrc=cal&plid=ACUX6DMwj1irJWrFeJChWqNQbRqDbRtrVvG-1qI
+* Check on Employees
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=MmNuZm1pNjM1ZWgxdmc5NGZ1cnFkNnVpbmJfMjAxNzEwMzFUMjMwMDAwWiBzY290dG11cnBoeTA5QG0][Go to gcal web page]]
+  :ID: 2cnfmi635eh1vg94furqd6uinb_20171031T230000Z
+  :END:
+
+  <2017-10-31 Tue 18:00-18:05>
+* Check on Employees
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=MmNuZm1pNjM1ZWgxdmc5NGZ1cnFkNnVpbmJfMjAxNzExMDFUMjMwMDAwWiBzY290dG11cnBoeTA5QG0][Go to gcal web page]]
+  :ID: 2cnfmi635eh1vg94furqd6uinb_20171101T230000Z
+  :END:
+
+  <2017-11-01 Wed 18:00-18:05>
+* Blink reset problem meeting
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=MGwwajcxMDZkZXJlZXExNm45NHV1Z2pta3Egc2NvdHRtdXJwaHkwOUBt][Go to gcal web page]]
+  :ID: 0l0j7106dereeq16n94uugjmkq
+  :END:
+
+  <2017-11-02 Thu 08:00-09:00>
+* Check on Employees
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=MmNuZm1pNjM1ZWgxdmc5NGZ1cnFkNnVpbmJfMjAxNzExMDJUMjMwMDAwWiBzY290dG11cnBoeTA5QG0][Go to gcal web page]]
+  :ID: 2cnfmi635eh1vg94furqd6uinb_20171102T230000Z
+  :END:
+
+  <2017-11-02 Thu 18:00-18:05>
+* Check on Employees
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=MmNuZm1pNjM1ZWgxdmc5NGZ1cnFkNnVpbmJfMjAxNzExMDNUMjMwMDAwWiBzY290dG11cnBoeTA5QG0][Go to gcal web page]]
+  :ID: 2cnfmi635eh1vg94furqd6uinb_20171103T230000Z
+  :END:
+
+  <2017-11-03 Fri 18:00-18:05>
+* Check on Employees
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=MmNuZm1pNjM1ZWgxdmc5NGZ1cnFkNnVpbmJfMjAxNzExMDdUMDAwMDAwWiBzY290dG11cnBoeTA5QG0][Go to gcal web page]]
+  :ID: 2cnfmi635eh1vg94furqd6uinb_20171107T000000Z
+  :END:
+
+  <2017-11-06 Mon 18:00-18:05>
+* Next Frontend meeting
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=M3IzcnJtbDVjbzNxOG03cG83amFna2Jkbm4gc2NvdHRtdXJwaHkwOUBt][Go to gcal web page]]
+  :ID: 3r3rrml5co3q8m7po7jagkbdnn
+  :END:
+
+  <2017-11-07 Tue 00:00-01:00>
+* Check on Employees
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=MmNuZm1pNjM1ZWgxdmc5NGZ1cnFkNnVpbmJfMjAxNzExMDhUMDAwMDAwWiBzY290dG11cnBoeTA5QG0][Go to gcal web page]]
+  :ID: 2cnfmi635eh1vg94furqd6uinb_20171108T000000Z
+  :END:
+
+  <2017-11-07 Tue 18:00-18:05>
+* Check on Employees
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=MmNuZm1pNjM1ZWgxdmc5NGZ1cnFkNnVpbmJfMjAxNzExMDlUMDAwMDAwWiBzY290dG11cnBoeTA5QG0][Go to gcal web page]]
+  :ID: 2cnfmi635eh1vg94furqd6uinb_20171109T000000Z
+  :END:
+
+  <2017-11-08 Wed 18:00-18:05>
+* Check on Employees
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=MmNuZm1pNjM1ZWgxdmc5NGZ1cnFkNnVpbmJfMjAxNzExMTBUMDAwMDAwWiBzY290dG11cnBoeTA5QG0][Go to gcal web page]]
+  :ID: 2cnfmi635eh1vg94furqd6uinb_20171110T000000Z
+  :END:
+
+  <2017-11-09 Thu 18:00-18:05>
+* Check on Employees
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=MmNuZm1pNjM1ZWgxdmc5NGZ1cnFkNnVpbmJfMjAxNzExMTFUMDAwMDAwWiBzY290dG11cnBoeTA5QG0][Go to gcal web page]]
+  :ID: 2cnfmi635eh1vg94furqd6uinb_20171111T000000Z
+  :END:
+
+  <2017-11-10 Fri 18:00-18:05>
+* Charity
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=Mzh0cTEwaThhNzI3cmxxNWxxcXJyYmpvaG9fMjAxNzExMTIgc2NvdHRtdXJwaHkwOUBt][Go to gcal web page]]
+  :ID: 38tq10i8a727rlq5lqqrrbjoho_20171112
+  :END:
+
+  <2017-11-12 Sun>
+* Check on Employees
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=MmNuZm1pNjM1ZWgxdmc5NGZ1cnFkNnVpbmJfMjAxNzExMTRUMDAwMDAwWiBzY290dG11cnBoeTA5QG0][Go to gcal web page]]
+  :ID: 2cnfmi635eh1vg94furqd6uinb_20171114T000000Z
+  :END:
+
+  <2017-11-13 Mon 18:00-18:05>
+* Oil Change
+  :PROPERTIES:
+  :LOCATION: House
+  :LINK: [[https://www.google.com/calendar/event?eid=ZmJodHFmM2tuOHFjNjI5NjBxamRybnZnYWdfMjAxNzExMTRUMTIwMDAwWiBzY290dG11cnBoeTA5QG0][Go to gcal web page]]
+  :ID: fbhtqf3kn8qc62960qjdrnvgag_20171114T120000Z
+  :END:
+
+  <2017-11-14 Tue 06:00-07:00>
+* Check on Employees
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=MmNuZm1pNjM1ZWgxdmc5NGZ1cnFkNnVpbmJfMjAxNzExMTVUMDAwMDAwWiBzY290dG11cnBoeTA5QG0][Go to gcal web page]]
+  :ID: 2cnfmi635eh1vg94furqd6uinb_20171115T000000Z
+  :END:
+
+  <2017-11-14 Tue 18:00-18:05>
+* Check on Employees
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=MmNuZm1pNjM1ZWgxdmc5NGZ1cnFkNnVpbmJfMjAxNzExMTZUMDAwMDAwWiBzY290dG11cnBoeTA5QG0][Go to gcal web page]]
+  :ID: 2cnfmi635eh1vg94furqd6uinb_20171116T000000Z
+  :END:
+
+  <2017-11-15 Wed 18:00-18:05>
+* Check on Employees
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=MmNuZm1pNjM1ZWgxdmc5NGZ1cnFkNnVpbmJfMjAxNzExMTdUMDAwMDAwWiBzY290dG11cnBoeTA5QG0][Go to gcal web page]]
+  :ID: 2cnfmi635eh1vg94furqd6uinb_20171117T000000Z
+  :END:
+
+  <2017-11-16 Thu 18:00-18:05>
+* Check on Employees
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=MmNuZm1pNjM1ZWgxdmc5NGZ1cnFkNnVpbmJfMjAxNzExMThUMDAwMDAwWiBzY290dG11cnBoeTA5QG0][Go to gcal web page]]
+  :ID: 2cnfmi635eh1vg94furqd6uinb_20171118T000000Z
+  :END:
+
+  <2017-11-17 Fri 18:00-18:05>
+* Check on Employees
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=MmNuZm1pNjM1ZWgxdmc5NGZ1cnFkNnVpbmJfMjAxNzExMjFUMDAwMDAwWiBzY290dG11cnBoeTA5QG0][Go to gcal web page]]
+  :ID: 2cnfmi635eh1vg94furqd6uinb_20171121T000000Z
+  :END:
+
+  <2017-11-20 Mon 18:00-18:05>
+* Check on Employees
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=MmNuZm1pNjM1ZWgxdmc5NGZ1cnFkNnVpbmJfMjAxNzExMjJUMDAwMDAwWiBzY290dG11cnBoeTA5QG0][Go to gcal web page]]
+  :ID: 2cnfmi635eh1vg94furqd6uinb_20171122T000000Z
+  :END:
+
+  <2017-11-21 Tue 18:00-18:05>
+* Check on Employees
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=MmNuZm1pNjM1ZWgxdmc5NGZ1cnFkNnVpbmJfMjAxNzExMjNUMDAwMDAwWiBzY290dG11cnBoeTA5QG0][Go to gcal web page]]
+  :ID: 2cnfmi635eh1vg94furqd6uinb_20171123T000000Z
+  :END:
+
+  <2017-11-22 Wed 18:00-18:05>
+* Check on Employees
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=MmNuZm1pNjM1ZWgxdmc5NGZ1cnFkNnVpbmJfMjAxNzExMjRUMDAwMDAwWiBzY290dG11cnBoeTA5QG0][Go to gcal web page]]
+  :ID: 2cnfmi635eh1vg94furqd6uinb_20171124T000000Z
+  :END:
+
+  <2017-11-23 Thu 18:00-18:05>
+* Check on Employees
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=MmNuZm1pNjM1ZWgxdmc5NGZ1cnFkNnVpbmJfMjAxNzExMjVUMDAwMDAwWiBzY290dG11cnBoeTA5QG0][Go to gcal web page]]
+  :ID: 2cnfmi635eh1vg94furqd6uinb_20171125T000000Z
+  :END:
+
+  <2017-11-24 Fri 18:00-18:05>
+* Check on Employees
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=MmNuZm1pNjM1ZWgxdmc5NGZ1cnFkNnVpbmJfMjAxNzExMjhUMDAwMDAwWiBzY290dG11cnBoeTA5QG0][Go to gcal web page]]
+  :ID: 2cnfmi635eh1vg94furqd6uinb_20171128T000000Z
+  :END:
+
+  <2017-11-27 Mon 18:00-18:05>
+* Check on Employees
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=MmNuZm1pNjM1ZWgxdmc5NGZ1cnFkNnVpbmJfMjAxNzExMjlUMDAwMDAwWiBzY290dG11cnBoeTA5QG0][Go to gcal web page]]
+  :ID: 2cnfmi635eh1vg94furqd6uinb_20171129T000000Z
+  :END:
+
+  <2017-11-28 Tue 18:00-18:05>
+* Check on Employees
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=MmNuZm1pNjM1ZWgxdmc5NGZ1cnFkNnVpbmJfMjAxNzExMzBUMDAwMDAwWiBzY290dG11cnBoeTA5QG0][Go to gcal web page]]
+  :ID: 2cnfmi635eh1vg94furqd6uinb_20171130T000000Z
+  :END:
+
+  <2017-11-29 Wed 18:00-18:05>
+* Check on Employees
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=MmNuZm1pNjM1ZWgxdmc5NGZ1cnFkNnVpbmJfMjAxNzEyMDFUMDAwMDAwWiBzY290dG11cnBoeTA5QG0][Go to gcal web page]]
+  :ID: 2cnfmi635eh1vg94furqd6uinb_20171201T000000Z
+  :END:
+
+  <2017-11-30 Thu 18:00-18:05>
+* Check on Employees
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=MmNuZm1pNjM1ZWgxdmc5NGZ1cnFkNnVpbmJfMjAxNzEyMDJUMDAwMDAwWiBzY290dG11cnBoeTA5QG0][Go to gcal web page]]
+  :ID: 2cnfmi635eh1vg94furqd6uinb_20171202T000000Z
+  :END:
+
+  <2017-12-01 Fri 18:00-18:05>
+* Check on Employees
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=MmNuZm1pNjM1ZWgxdmc5NGZ1cnFkNnVpbmJfMjAxNzEyMDVUMDAwMDAwWiBzY290dG11cnBoeTA5QG0][Go to gcal web page]]
+  :ID: 2cnfmi635eh1vg94furqd6uinb_20171205T000000Z
+  :END:
+
+  <2017-12-04 Mon 18:00-18:05>
+* Check on Employees
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=MmNuZm1pNjM1ZWgxdmc5NGZ1cnFkNnVpbmJfMjAxNzEyMDZUMDAwMDAwWiBzY290dG11cnBoeTA5QG0][Go to gcal web page]]
+  :ID: 2cnfmi635eh1vg94furqd6uinb_20171206T000000Z
+  :END:
+
+  <2017-12-05 Tue 18:00-18:05>
+* Check on Employees
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=MmNuZm1pNjM1ZWgxdmc5NGZ1cnFkNnVpbmJfMjAxNzEyMDdUMDAwMDAwWiBzY290dG11cnBoeTA5QG0][Go to gcal web page]]
+  :ID: 2cnfmi635eh1vg94furqd6uinb_20171207T000000Z
+  :END:
+
+  <2017-12-06 Wed 18:00-18:05>
+* Check on Employees
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=MmNuZm1pNjM1ZWgxdmc5NGZ1cnFkNnVpbmJfMjAxNzEyMDhUMDAwMDAwWiBzY290dG11cnBoeTA5QG0][Go to gcal web page]]
+  :ID: 2cnfmi635eh1vg94furqd6uinb_20171208T000000Z
+  :END:
+
+  <2017-12-07 Thu 18:00-18:05>
+* Check on Employees
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=MmNuZm1pNjM1ZWgxdmc5NGZ1cnFkNnVpbmJfMjAxNzEyMDlUMDAwMDAwWiBzY290dG11cnBoeTA5QG0][Go to gcal web page]]
+  :ID: 2cnfmi635eh1vg94furqd6uinb_20171209T000000Z
+  :END:
+
+  <2017-12-08 Fri 18:00-18:05>
+* Charity
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=Mzh0cTEwaThhNzI3cmxxNWxxcXJyYmpvaG9fMjAxNzEyMTAgc2NvdHRtdXJwaHkwOUBt][Go to gcal web page]]
+  :ID: 38tq10i8a727rlq5lqqrrbjoho_20171210
+  :END:
+
+  <2017-12-10 Sun>
+* Check on Employees
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=MmNuZm1pNjM1ZWgxdmc5NGZ1cnFkNnVpbmJfMjAxNzEyMTJUMDAwMDAwWiBzY290dG11cnBoeTA5QG0][Go to gcal web page]]
+  :ID: 2cnfmi635eh1vg94furqd6uinb_20171212T000000Z
+  :END:
+
+  <2017-12-11 Mon 18:00-18:05>
+* Check on Employees
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=MmNuZm1pNjM1ZWgxdmc5NGZ1cnFkNnVpbmJfMjAxNzEyMTNUMDAwMDAwWiBzY290dG11cnBoeTA5QG0][Go to gcal web page]]
+  :ID: 2cnfmi635eh1vg94furqd6uinb_20171213T000000Z
+  :END:
+
+  <2017-12-12 Tue 18:00-18:05>
+* Check on Employees
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=MmNuZm1pNjM1ZWgxdmc5NGZ1cnFkNnVpbmJfMjAxNzEyMTRUMDAwMDAwWiBzY290dG11cnBoeTA5QG0][Go to gcal web page]]
+  :ID: 2cnfmi635eh1vg94furqd6uinb_20171214T000000Z
+  :END:
+
+  <2017-12-13 Wed 18:00-18:05>
+* Check on Employees
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=MmNuZm1pNjM1ZWgxdmc5NGZ1cnFkNnVpbmJfMjAxNzEyMTVUMDAwMDAwWiBzY290dG11cnBoeTA5QG0][Go to gcal web page]]
+  :ID: 2cnfmi635eh1vg94furqd6uinb_20171215T000000Z
+  :END:
+
+  <2017-12-14 Thu 18:00-18:05>
+* Check on Employees
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=MmNuZm1pNjM1ZWgxdmc5NGZ1cnFkNnVpbmJfMjAxNzEyMTZUMDAwMDAwWiBzY290dG11cnBoeTA5QG0][Go to gcal web page]]
+  :ID: 2cnfmi635eh1vg94furqd6uinb_20171216T000000Z
+  :END:
+
+  <2017-12-15 Fri 18:00-18:05>
 * Rotate Tires
   :PROPERTIES:
   :LOCATION: Freddies Tires
-  :LINK: [[https://www.google.com/calendar/event?eid=bDZvYzYwMHM0NmY3anAxN3E4bmRzaWhuZ2tfMjAxNzA5MTZUMTcwMDAwWiBzY290dG11cnBoeTA5QG0][Go to gcal web page]]
-  :ID: l6oc600s46f7jp17q8ndsihngk_20170916T170000Z
+  :LINK: [[https://www.google.com/calendar/event?eid=bDZvYzYwMHM0NmY3anAxN3E4bmRzaWhuZ2tfMjAxNzEyMTZUMTgwMDAwWiBzY290dG11cnBoeTA5QG0][Go to gcal web page]]
+  :ID: l6oc600s46f7jp17q8ndsihngk_20171216T180000Z
   :END:
 
-  <2017-09-16 Sat 12:00-13:00>
+  <2017-12-16 Sat 12:00-13:00>
 
 Rotate Brooke's Tires
+* Check on Employees
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=MmNuZm1pNjM1ZWgxdmc5NGZ1cnFkNnVpbmJfMjAxNzEyMTlUMDAwMDAwWiBzY290dG11cnBoeTA5QG0][Go to gcal web page]]
+  :ID: 2cnfmi635eh1vg94furqd6uinb_20171219T000000Z
+  :END:
+
+  <2017-12-18 Mon 18:00-18:05>
+* Check on Employees
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=MmNuZm1pNjM1ZWgxdmc5NGZ1cnFkNnVpbmJfMjAxNzEyMjBUMDAwMDAwWiBzY290dG11cnBoeTA5QG0][Go to gcal web page]]
+  :ID: 2cnfmi635eh1vg94furqd6uinb_20171220T000000Z
+  :END:
+
+  <2017-12-19 Tue 18:00-18:05>
+* Check on Employees
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=MmNuZm1pNjM1ZWgxdmc5NGZ1cnFkNnVpbmJfMjAxNzEyMjFUMDAwMDAwWiBzY290dG11cnBoeTA5QG0][Go to gcal web page]]
+  :ID: 2cnfmi635eh1vg94furqd6uinb_20171221T000000Z
+  :END:
+
+  <2017-12-20 Wed 18:00-18:05>
+* Check on Employees
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=MmNuZm1pNjM1ZWgxdmc5NGZ1cnFkNnVpbmJfMjAxNzEyMjJUMDAwMDAwWiBzY290dG11cnBoeTA5QG0][Go to gcal web page]]
+  :ID: 2cnfmi635eh1vg94furqd6uinb_20171222T000000Z
+  :END:
+
+  <2017-12-21 Thu 18:00-18:05>
