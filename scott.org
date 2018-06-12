@@ -1,85 +1,250 @@
+
+
+* TODO Fix Authorization in onping-pricing 
+  DEADLINE: <2018-07-06 Fri>
+
+
+* TODO Get Scotts new alarm coordinator launched
+  DEADLINE: <2018-06-30 Sat>
+
+
 * TODO Run swap in ATS
-* TODO Do hello world and guessing game tutorial :Rust:
-* TODO Do some proof theory examples :MATH:
-* TODO Notes on Spotfire
-** TODO Web Services. 
-** TODO API Services (R, Python)
-** TODO Email links on Add On
-* TODO Code efficient [[https://en.wikipedia.org/wiki/Cornish%E2%80%93Fisher_expansion][Cornish Fisher]]
-* TODO 2 Blue XL's need to go there
-  DEADLINE: <2017-11-28 Tue>
+  :PROPERTIES:
+  :orgtrello-id: 5a998c96399745b4f3335029
+  :orgtrello-local-checksum: c7957ed8ef9814401d20c28b7f4046d1a3435bd10fbcefbdb9d3f38e7369f3b6
+  :END:
 
-* Notes from interesting commerce meeting
-** TODO Fill out Confidential Biz profile 
-   DEADLINE: <2017-11-27 Mon>
-** TODO Email Ashley Wilson and Joe Genet 
-   DEADLINE: <2017-11-27 Mon>
-On oklahoma trade partners thing
-* TODO Look over PCB for blink 1.1
-  DEADLINE: <2017-11-27 Mon>
-* DONE Corey Biggalow Comms info
-* TODO Update timeline for LS project
-  DEADLINE: <2018-01-20 Sat>
-* TODO Get Alarm Query for Shea
-  DEADLINE: <2017-11-27 Mon>
-
-Would it be possible for you to write a report and send me results for amount of alarms we had in June 17 
-for the month and how many alarms we had for September 17 and possibly break that down to runfails?
-* TODO Make sure unsigned tickets list update was sent
-  DEADLINE: <2017-11-27 Mon>
-* TODO Check with Camino Jon Moran on status
-  DEADLINE: <2017-12-11 Mon>
-* TODO Basin Invoice 
-  DEADLINE: <2017-11-27 Mon>
-Last bill was <2017-09-20 Wed> to <2017-10-04 Wed>
-Dead period was <2017-10-17 Tue> to <2017-10-28 Sat>
-Dead period was <2017-11-01 Wed> to <2017-11-15 Wed>
-* TODO Ask Jack about tickets 
-  DEADLINE: <2017-12-06 Wed>
-* DONE Begin Wapiti proposal
-  DEADLINE: <2017-12-06 Wed>
-
-* DONE Begin Intensity proposal 
-  DEADLINE: <2017-12-06 Wed>
+* TODO Onping Pricing Changes
+** TODO Camino
+** TODO Citizen III
 
 
-* TODO Call badlands provider for Wapiti 
-  DEADLINE: <2017-12-11 Mon>
 
-* TODO Call Tapstone contact that Andrew sent me 
-  DEADLINE: <2017-12-11 Mon>
+** DONE Roan/Citizen pricing changes
+   DEADLINE: <2018-04-24 Tue>
 
 
-* TODO Call Will Taylor about Oliphant 
-  DEADLINE: <2017-12-14 Thu>
+** DONE Water Treatment stuff
+   DEADLINE: <2018-04-03 Tue>
 
-* TODO Issues for HMI 
-  DEADLINE: <2017-12-14 Thu>
+* TODO Get Attorney
+  DEADLINE: <2018-07-05 Thu>
 
-** DONE HMI parameters need to show location or at least pid
+:PROPERTIES:
+:orgtrello-id: 5aa2eb3f5a5c045af6db0be1
+:orgtrello-local-checksum: f4813d38da6ab273c8480e8c590eb122f8bd6b3f92ab0d03dd49e423c43cbc14
+:END:
+  DEADLINE: <2018-03-07 Wed>
 
-** TODO Overflow on status groups input
-** TODO Status button too high 
-** TODO Need to add in row labeling for Table
-*** TODO One way would be making a table cell have a constant of text
-** TODO Need a way to change text color and making 
-** TODO Copy an object to make creating new things faster 
-** TODO Non-Scientific numbers in table 
-** TODO Sluggish search response
-** TODO Make pump change colors
-*** TODO Just like status button make colors selectable 
-** DONE Image Set tool 
-Tool that allows a group of images to be represented and flipped through 
-according to parameter state
-** TODO HMI adding parameters weirdness
-+ make an element, hit save hmi without adding to the window... now it is made (but not really ) 
-** DONE go over search 
+* TODO Bill out for Skids (we should do this quarterly ) 
+  DEADLINE: <2018-06-29 Fri>
 
-** TODO Make design preview selection for color in status window 
-right now it always shows the color of the current status but making it so you can select which one is shown in design mode would maybe be nice
+* TODO Stale Data not call on onping comm fail 
+  DEADLINE: <2018-05-30 Wed>
 
-** TODO Make an "are yo usure" when you have made changes to an HMI feature without saving 
 
-** TODO Conditional Visibility 
 
-** TODO Make writeability selectable
+
+* DONE Follow up with Trace Midstream
+  DEADLINE: <2018-05-23 Wed>
+
+* TODO Diego from Stack builders get him what he needs
+  DEADLINE: <2018-06-06 Wed>
+
+* DONE Make sure Shanna was deleted
+  DEADLINE: <2018-06-04 Mon>
+
+* TODO Make sure onping billing is happening
+  DEADLINE: <2018-06-06 Wed>
+
+* TODO Comm fail Valiant
+  DEADLINE: <2018-06-06 Wed>
+
+* DONE Make sure we have logs for everything 
+  DEADLINE: <2018-05-23 Wed>
++ plowtech-authentication-server.out.alarm
++ swroc-node-1.out.onping
++ swmanual.out.onping
++ hmi-server.out.onping
++ rtu-manager.out.onping
++ swmicro-node-1.out.onping
++ onping_log.onping
++ spot-report-servant.out.onping
++ alarmDB-node-2.out.alarm
++ swpoll-node-1.out.onping
++ sshd
++ alarmDB-node-1.out.alarm
++ alarmDB-node-3.out.alarm
++ swpoll-node-1.err.onping
++ alarmDB-node-4.out.alarm
++ consul
++ onping-pricing-managerOUT.service
++ swdb-node-1.out.onping
++ CRON
++ alarm-log-server-chronicle-node-1.out.alarm
++ swroc-node-1.err.onping
++ rtu-manager-recovery.out.onping
++ swmicro-node-1.err.onping
++ swdb-node-1.err.onping
++ rpocdb-node-1.out.alarm
++ rpocpoll-node-1.err.alarm
++ onping-pricing-managerERR.service
++ named
++ controllogix-switcher.err.onping
++ micrologix-switcher.err.onping
++ roc-tlp-switcher.err.onping
++ total-flow-switcher.err.onping
++ plow-email.out.alarm
++ systemd
++ postfix
++ plowtech-authentication-server.err.alarm
++ rsyslogd
++ tachdb-report-server-node-1.err.onping
++ systemd-logind
++ spot-report-servant.err.onping
++ keter.onping
++ tachdb-report-server-node-1.out.onping
++ Adaptec
++ plow-email.err.alarm
++ hmi-server.err.onping
++ onping-audit-server.err.onping
++ rsyslogd-2039
++ systemd-tmpfiles
++ alarmDB-node-4.err.alarm
++ rsyslogd-2359
++ alarmDB-node-2.err.alarm
++ alarmDB-node-3.err.alarm
++ sudo
+
+
+
+
+* TODO Bonuses and Owners Checks !
+* TODO Follow up on Job Sheet stuff 
+  DEADLINE: <2018-06-08 Fri>
+
+
+
+* TODO Colorado Wells update
+  DEADLINE: <2018-06-16 Sat>
+
+
+
+* TODO Follow up with Bud
+  DEADLINE: <2018-06-19 Tue>
+
+* DONE Check if Charles is ready 
+  DEADLINE: <2018-05-14 Mon>
+* DONE Huwei modem replacement check 
+  DEADLINE: <2018-05-21 Mon>
+
+
+
+* DONE Finish ONPING pricing for April
+  DEADLINE: <2018-05-17 Thu>
+
+
+** TODO Pride is new, charge yet?
+** TODO Vitruvian is new (charge yet?)
+** TODO Valiant Midstream is new, charge yet?
+** TODO Midstates is new charge yet?
+** TODO Wapiti is new charge yet?
+   DEADLINE: <2018-05-29 Tue>
+
+* DONE Tubing -> Intermediate Tubing  Both Skid 1 and Skid 2.
+  DEADLINE: <2018-05-16 Wed>
+
+* TODO Add Gulfport Special Call order
+
+* TODO Comm Fails
+** Citizen
++ Kaylor
++ Loudermilk
++ Price
++ Bailey
++ Grant
+  
+* Red River
++ York Disposal
+* Gillam
++ Payson
+* Range
++ RPOC Tyr
+* 
+* TODO Bonuses 
+  DEADLINE: <2018-05-30 Wed>
+* DONE Tag Name scheme
+  DEADLINE: <2018-06-01 Fri>
+* TODO Add tag list for James 
+  DEADLINE: <2018-06-01 Fri>
+* TODO Onping Pricing 
+** DONE Set Old Fittstown to Zero and remove next month 
+   DEADLINE: <2018-06-05 Tue>
+** TODO Mittie Walters - Big Spring 
+   DEADLINE: <2018-06-05 Tue>
+** TODO Sheridan Skids who do we bill 
+   DEADLINE: <2018-06-05 Tue>
+Need to ask Shane
+
+** DONE Fix O'Neal pricing
+   DEADLINE: <2018-06-05 Tue>
++ Harry and Creel Drop to 65.00
+ 
+** DONE Check why Range went down?
+   DEADLINE: <2018-06-05 Tue>
++ Which site changed price?
+** DONE Gulfport 
+   DEADLINE: <2018-06-05 Tue>
+
+** DONE Have we been paid for Roan?
+   DEADLINE: <2018-06-20 Wed>
+   
+** DONE Look over camino pricing 
+   DEADLINE: <2018-06-07 Thu>
+
+** DONE Look over Citizen III Billing
+   DEADLINE: <2018-06-05 Tue>
+
+** DONE Look over pride billing (Low)
+   DEADLINE: <2018-06-05 Tue>
+
+** DONE Look over Wapiti billing (again)
+   DEADLINE: <2018-06-05 Tue>
+
+** DONE zero out midstates
+   DEADLINE: <2018-06-05 Tue>
+
+** DONE Vitruvian Billing adjustment 
+   DEADLINE: <2018-06-05 Tue>
+
+** DONE Valiant adjustments
+   DEADLINE: <2018-06-05 Tue>
+
+
+* Inventory Accounting
+
+* Less Than 1000 
++ Make Visible 
++ Low RPMS
+
+* TODO Tax Return Documents
+  DEADLINE: <2018-06-07 Thu>
+
+
+
+* TODO Create application for saltwater disposal ticket handling
+  DEADLINE: <2018-06-09 Sat>
++ Ticket detail 
+
+
+* TODO Gexpro Transfer Drive Project
+  DEADLINE: <2018-06-21 Thu>
+
+* TODO Formalize Expenses
+  DEADLINE: <2018-06-15 Fri>
+
+
+
+* TODO Get with Seth about Sales meters
+  DEADLINE: <2018-06-08 Fri>
+

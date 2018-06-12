@@ -1,0 +1,36 @@
+* DONE Email setpoint (SCADA) alarms to Jimmy
+  DEADLINE: <2018-05-25 Fri>
+* DONE Add Analysis parameters to writeable table
+  DEADLINE: <2018-05-18 Fri>
+* DONE Targa Tie in Light
+  DEADLINE: <2018-05-26 Sat>
+Can we add a light widget to the HMI of the targa tie in, representing the slug catcher LSHH?  Red = tripped  Green = not tripped
+* Kilo Station
+** DONE Discharge PSI:  we need to display discharge PSI in the Discharge psi block.  Its currently displaying suction psi in both blocks on each compressor.
+   DEADLINE: <2018-05-26 Sat>
+
+ 
+
+** DONE Tank 1:  the oil (black) needs to be on top of the water (blue)  and the scale is off.
+   DEADLINE: <2018-05-26 Sat>
+
+ 
+
+** DONE Tank 2:  has the oil and water values backwards.   Currently 74 inches of water and 17 inches of oil.  Its correct in the table view.
+   DEADLINE: <2018-05-26 Sat>
+
+ 
+
+
+* DONE Create Demo for Jimmy
+  DEADLINE: <2018-05-24 Thu>
+
+* DONE Get CFX file for Jimmy 
+  DEADLINE: <2018-06-05 Tue>
+
+* TODO Get Scout stuff (need location Id)
+  DEADLINE: <2018-06-08 Fri>
+
+
+* TODO Corterra Dashboard
+  DEADLINE: <2018-06-12 Tue>

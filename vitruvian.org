@@ -1,0 +1,32 @@
+#+OPTIONS: toc:nil
+#+OPTIONS: headlines:nil
+*  Items needed for Vitruvian
++  Service Agreement
++ List of Users
+  + Email
+  + Name
+  + Phone (if getting calls) 
++ Call Schedules and Routes
++ names of first wells
++ Alarm List 
++ Register List and Register Address 
++ Local Ips for Wells
+* DONE Create Vitruvian Company
+  DEADLINE: <2018-05-02 Wed>
+* DONE Get with Paul about data 
+  DEADLINE: <2018-06-04 Mon>
+* TODO Separate Total Flow data
+  DEADLINE: <2018-06-01 Fri>
+
+| Name           | App Array ID |
+|----------------+--------------|
+| Gas DP         | 11 7 0       |
+| Gas Temp       | 11 3 3       |
+| Gas Flow Rate  | 11 7 19      |
+| Gas Vol. Today | 11 7 22      |
+| Gas Vol. Yday  | 11 7 23      |
+| Batt Voltage   |              |
+| Gas Static     | 11 3 2       |
+* TODO Build Vitruvian Alarms 
+  DEADLINE: <2018-06-06 Wed>
+

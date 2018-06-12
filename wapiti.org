@@ -1,0 +1,245 @@
+
+
+
+* TODO Data Map Creation for history import
+  DEADLINE: <2018-06-29 Fri>
+
+
+
+* TODO SCOUT Example
+  DEADLINE: <2018-06-19 Tue>
+
+
+
+* User Group
+| Name	E-mail 1 - Value                         |                             |   |   |
+| Aaron Diek	                                   | aaron@toptal.com            |   |   |
+| Adrienne Bond	                                | ABond@fortitudemgt.com      |   |   |
+| Alex DeBlanc	                                 | ADeBlanc@fortitudemgt.com   |   |   |
+| Alex Karasyov	                                | alex@karasyov.com           |   |   |
+| Anna McNew	                                   | AMcNew@WapitiEnergy.com     |   |   |
+| 	                                             | bagee@bayouwellservices.com |   |   |
+| Bart Agee	bart@wapitienergy.com               |                             |   |   |
+| Bradley Crawford	BCrawford@WapitiEnergy.com   |                             |   |   |
+| Cathy Gardes	CGardes@fortitudemgt.com         |                             |   |   |
+| Charlie Nye	cnye@WapitiEnergy.com             |                             |   |   |
+| Cindy Williamson	CWilliamson@fortitudemgt.com |                             |   |   |
+| Corey McKeon	CMcKeon@WapitiEnergy.com         |                             |   |   |
+| Dick Agee	ragee@wapitienergy.com              |                             |   |   |
+| Ian Johnston	IJohnston@WapitiEnergy.com       |                             |   |   |
+| Jeanne LeBlanc	JLeBlanc@WapitiEnergy.com      |                             |   |   |
+| Jessica Brocato	JBrocato@WapitiEnergy.com     |                             |   |   |
+| John Works	JWorks@WapitiEnergy.com            |                             |   |   |
+| Kayla Stamps	KStamps@WapitiEnergy.com         |                             |   |   |
+| Keith Claghorn	KClaghorn@WapitiEnergy.com     |                             |   |   |
+| Mai Lynn Womack	MWomack@fortitudemgt.com      |                             |   |   |
+| Martha Oberle	MOberle@WapitiEnergy.com        |                             |   |   |
+| Olga Tobias	OTobias@WapitiEnergy.com          |                             |   |   |
+| Piotr Machowski	piotr@machowski.co            |                             |   |   |
+| Renita Clark	RClark@fortitudemgt.com          |                             |   |   |
+| Robert Pledger	RPledger@WapitiEnergy.com      |                             |   |   |
+| Roger Britton	rbritton@WapitiEnergy.com       |                             |   |   |
+| Scott Murphy	scott@plowtech.net               |                             |   |   |
+| Şenol Keskin	msenolkeskin@gmail.com           |                             |   |   |
+| Steve Brachman	SBrachman@WapitiEnergy.com     |                             |   |   |
+| Teena Tran	TTran@WapitiEnergy.com             |                             |   |   |
+
+
+
+
+
+
+* TODO Fergusson HMI Overview
+  DEADLINE: <2018-06-29 Fri>
+
+
+
+1.       Can we get the countdown timer for the next on time? (Plunger Run)?
+
+2.       The plunger times are in seconds. Can we convert them to minutes, or hours:minutes?
+
+3.       The valve open / close button appears to be on the B Valve. We don’t really care to much about the B valves, we would like this control on the A valve. (Valve just in front of the meter)
+
+4.       CT HI setpoint not necessary as we have not installed TLM’s
+
+5.       Can we add a button to toggle the well between auto and manual?
+
+6.       Can we add a button to start an on cycle.
+
+7.       Can we add a button to stop a running cycle?
+
+8.       Add plunger setpoints below HMI like the Pad Wells?
+
+9.       Trend Graph like the pad wells?
+
+
+
+* TODO DSS evap total flow talking and bringing in values?
+  DEADLINE: <2018-05-30 Wed>
+
+* TODO Lyhtem federal talking through the 485 port?
+  DEADLINE: <2018-05-30 Wed>
+
+* TODO Wyoming wells HMI and plunger settings. I don’t think I have seen a HMI for the Wyoming wells I have attached a spread sheet of the plunger registers. I also want to verify that they are the right values being pulled?
+  DEADLINE: <2018-05-30 Wed>
+
+* TODO H2S analyzer and pump screen built. ( we will be installing another site with the same set up this next week.)
+  DEADLINE: <2018-05-30 Wed>
+
+* TODO List of things <2018-05-26 Sat>
+** DONE truncate 2 all params
+   DEADLINE: <2018-05-29 Tue>
+
+** TODO  Start On Cycle/Off cycle button :DataEntry:
+   DEADLINE: <2018-06-07 Thu>
+
++ Start On Cycle   = 1
++ Start Off Cycle  = 1
+
+
+** DONE Setpoints!  need to figure out which points are setpoints 
+   DEADLINE: <2018-05-29 Tue>
+169030		Valve Manual Open	ReadWrite
+169031		Valve Manual Close	ReadWrite
+169032		Plunger Program Run	ReadWrite
+169033		Plunger Program Off Cycle	ReadWrite
+169034		Clear Counter Totals	ReadWrite 
+
+169036		RTU Status (2=Auto, 4=Man.)	ReadOnly
+
+169037		Enable High Line Pressure Mask Bit3 1=On	ReadWrite
+
+169038		Current Time	                ReadWrite
+169039		Fast Time	                ReadWrite
+169040		Slow Time	                ReadWrite
+169041		On Time	                        ReadWrite
+169042		Off Time	                ReadWrite
+169043		Afterflow Time	                ReadWrite
+169044		Flow Time	                ReadWrite
+169045		Min. Off Time	                ReadWrite
+169046		Max Off Time	                ReadWrite
+169047		Min. Afterflow Time	        ReadWrite
+169048		Max Afterflow Time	        ReadWrite
+169049		High Line Delay Time	        ReadWrite
+169050		High Line Clear Setpoint PSI	ReadWrite
+
+** TODO  Run time in minutes (currently in seconds)
+   DEADLINE: <2018-06-19 Tue>
+
+
+
+
+** TODO RTU Status to a button
+   DEADLINE: <2018-06-14 Thu>
++ 2  = auto
++ 4  = manual 
+
+if it is in auto, to start an On Cycle register #1009 1= start on cycle 
+                                       register #1010 1= start off cycle 
+
+if it is in manual, 1001 write a 1 to it opens a sales Valve.
+                    1002 write a 1 to it closes sales valve 
+
+** TODO Formula
+   DEADLINE: <2018-05-30 Wed>
++  MCF to MMBTU Formula 
+
+
+** TODO link back for riverbend
+   DEADLINE: <2018-06-02 Sat>
+
+** TODO Scavenger Pumps Dashboard
+   DEADLINE: <2018-05-30 Wed>
+One HMI for both
+
+** TODO Screen Scrape
+   DEADLINE: <2018-06-26 Tue>
+Scott,
+
+
+Here is the info to pull the Dominion H2S Numbers. The screen scrape we talked about.
+
+
+https://pipeview.questar.com:8443/ords/f?p=125:24:9344144315765::NO::P24_NUM_DAZE_DISPLAYED:24
+ 
+
+nick10407
+
+pipe2018
+
+ 
+
+** AMI Sniffer and Harrier need combined
+   DEADLINE: <2018-06-06 Wed>
+Combine 0 and 1
+
+** DONE 33-18 J needs Fuel meter correct (Goes to the wrong place)
+   DEADLINE: <2018-05-29 Tue>
+
+** DONE 23-30 34-19 All Zero  
+   DEADLINE: <2018-05-30 Wed>
+Fixed zeros , 34-19 actually has the right parameters they just need to be added
+
+
+** TODO DSS EVAP 
+   DEADLINE: <2018-06-22 Fri>
+Working on protocol FBU
+
+
+** DONE Newfield meter coming 
+   DEADLINE: <2018-05-26 Sat>
+
+
+
+
+
+
+* TODO Alger Pad well work 
+  DEADLINE: <2018-06-13 Wed>
+
+** Pad Wells Alger Tanks
+Special Tanks spot in Alger pad well
+
+** HMI for the 1-34 SWD 
++ Correct Status for "filter pump status"
+
+
++ remove bit=1, bit=0
+
++ Add rest of items from Overview 
+
+* TODO Writes syncronous problem
+  DEADLINE: <2018-06-08 Fri>
+
+
+* TODO Wapiti Louisiana
+
+** DONE Add Bay Batiste to wapiti louisiana                       :DataEntry:
+   DEADLINE: <2018-06-06 Wed>
+
+** TODO Drop test :DataEntry:
+   DEADLINE: <2018-06-06 Wed>
+
+* TODO Louisiana Checklist 
++ All Wellheads are done
++ Low and Hi alarms
++ Alarm datapoints ready 
+
+*** Manilla Village 
++ 3 Scanners 
++ 2 total flows
+
+**** TODO Check that polling is going smoothly 
+     DEADLINE: <2018-06-07 Thu>
+
+
+*** Bay babtiste
++ HP Bolt 
++ HP Test
++ LP Test 
+
+**** TODO Compressor Discharge
+
+* TODO Make Template Ferguson 
+  DEADLINE: <2018-06-08 Fri>
+
