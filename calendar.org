@@ -1,227 +1,3 @@
-* Gus Interview
-  :PROPERTIES:
-  :LINK: [[https://www.google.com/calendar/event?eid=Nm92MDZwOXY5OHU5bjFoaXRrdmI2cXN2aXEgc2NvdHRtdXJwaHkwOUBt][Go to gcal web page]]
-  :ID: 6ov06p9v98u9n1hitkvb6qsviq
-  :END:
-
-  <2018-04-24 Tue 10:30-11:30>
-* Elixir Beginnings
-  :PROPERTIES:
-  :LOCATION: 1141 W Sheridan Ave, Oklahoma City, OK
-  :LINK: [[https://www.google.com/calendar/event?eid=NjlobTRwYjU2MWg2YWJiNGNjcW00YjlrY2tzM2FiOW82Z3FqZ2JiMzZzcTNlZTM1NjhzamNwMzI3NCBzY290dG11cnBoeTA5QG0][Go to gcal web page]]
-  :ID: 69hm4pb561h6abb4ccqm4b9kcks3ab9o6gqjgbb36sq3ee3568sjcp3274
-  :END:
-
-  <2018-04-24 Tue 11:30-12:30>
-
-Food is provided. Please RSVP before 9am the day of because your RSVP's contribute towards how much funding we have for the food.
-
-Speaker: Sameeri Marryboyina
-
-Topic: An introduction to the language built on the legendary Erlang Virtual Machine. This talk will cover history, philosophy, approaches, language constructs, concurrency primitives, and a glimpse at the growing and wonderful ecosystem that Elixir has with an intention that it will invoke an interest in your heart to go and discover more for yourself.
-
-Speaker Bio: Sameeri is an Oseberg Engineer and OU alum. He is passionate about continuous self-improvement (Kaizen).
-
-Details: https://www.meetup.com/OKC-FP/events/249597646/
-* Elixir Beginnings
-  :PROPERTIES:
-  :LOCATION: StarSpace 46 (1141 W Sheridan Ave, Oklahoma City, OK)
-  :LINK: [[https://www.google.com/calendar/event?eid=NzRxMzZwajRjOWkzNGJiMzcxZ2oyYjlrNmtzamNiYjI2OHIzYWI5aGM5aTM0cDFqNzRvajBlOXBjNCBzY290dG11cnBoeTA5QG0][Go to gcal web page]]
-  :ID: 74q36pj4c9i34bb371gj2b9k6ksjcbb268r3ab9hc9i34p1j74oj0e9pc4
-  :END:
-
-  <2018-04-24 Tue 11:30-12:30>
-* Elixir Beginnings
-  :PROPERTIES:
-  :LOCATION: StarSpace 46, 1141 W Sheridan Ave, Oklahoma City, OK, us, 73106
-  :LINK: [[https://www.google.com/calendar/event?eid=XzZ0bG5hcXJsZTVwNmNwYjRkaG1qNHBocGVoazc0c2poY3RxbTJyamVjdG43OHRqbGNob2owcWhvZWNvajZyaG5kcGk2Y2Nwa2RkbTM0cmo1ZHBoNmdxYjdkZG5qZ3ByN2NkbzNpcTlvNzVrNmUgc2NvdHRtdXJwaHkwOUBt][Go to gcal web page]]
-  :ID: _6tlnaqrle5p6cpb4dhmj4phpehk74sjhctqm2rjectn78tjlchoj0qhoecoj6rhndpi6ccpkddm34rj5dph6gqb7ddnjgpr7cdo3iq9o75k6e
-  :END:
-
-  <2018-04-24 Tue 11:30-12:30>
-
-To see detailed information for automatically created events like this one, use the official Google Calendar app. https://g.co/calendar
-* Garret
-  :PROPERTIES:
-  :LINK: [[https://www.google.com/calendar/event?eid=MGowNzBvaWV1ODVnZDA5azJuamlqYWNxNXUgc2NvdHRtdXJwaHkwOUBt][Go to gcal web page]]
-  :ID: 0j070oieu85gd09k2njijacq5u
-  :END:
-
-  <2018-04-25 Wed 13:30-14:30>
-* Garret Francis Tuttle
-  :PROPERTIES:
-  :LINK: [[https://www.google.com/calendar/event?eid=Nm0wYWpxMG50M2l0a25jbGVobjU2bHA5bGsgc2NvdHRtdXJwaHkwOUBt][Go to gcal web page]]
-  :ID: 6m0ajq0nt3itknclehn56lp9lk
-  :END:
-
-  <2018-04-25 Wed 13:30-14:30>
-* Julian
-  :PROPERTIES:
-  :LINK: [[https://www.google.com/calendar/event?eid=MmJyZDVxcDBpYWI3NzRnMHA5bGE4cnZrZzcgc2NvdHRtdXJwaHkwOUBt][Go to gcal web page]]
-  :ID: 2brd5qp0iab774g0p9la8rvkg7
-  :END:
-
-  <2018-04-26 Thu 08:45-09:45>
-* Julian
-  :PROPERTIES:
-  :LINK: [[https://www.google.com/calendar/event?eid=NmNxM2NjaG1jOHM2OGJiMzZjcWpjYjlrNjBzMzBiOW83NHNqY2JiNTZ0Z2pnZDMyY2dwajRkaGw2byBzY290dG11cnBoeTA5QG0][Go to gcal web page]]
-  :ID: 6cq3cchmc8s68bb36cqjcb9k60s30b9o74sjcbb56tgjgd32cgpj4dhl6o
-  :END:
-
-  <2018-04-26 Thu 13:30>
-* Valient Midstream
-  :PROPERTIES:
-  :LINK: [[https://www.google.com/calendar/event?eid=MmlnaHJ0Yjdia3EwYmFvY3Fjcjk0Z2dsMzIgc2NvdHRtdXJwaHkwOUBt][Go to gcal web page]]
-  :ID: 2ighrtb7bkq0baocqcr94ggl32
-  :END:
-
-  <2018-05-01 Tue 10:30-11:30>
-* Kevin Taggart Evaluation
-  :PROPERTIES:
-  :LINK: [[https://www.google.com/calendar/event?eid=NTdvNHVrbWtpaDRqNXFyOWd2bGQ0ZGJ2Z20gc2NvdHRtdXJwaHkwOUBt][Go to gcal web page]]
-  :ID: 57o4ukmkih4j5qr9gvld4dbvgm
-  :END:
-
-  <2018-05-03 Thu 14:30-15:30>
-* Jennifer Davis
-  :PROPERTIES:
-  :LINK: [[https://www.google.com/calendar/event?eid=amcydGxqMThtMDNvdTBnZmtnY2puamtvcjggc2NvdHRtdXJwaHkwOUBt][Go to gcal web page]]
-  :ID: jg2tlj18m03ou0gfkgcjnjkor8
-  :END:
-
-  <2018-05-04 Fri 14:00-14:30>
-* Victoria Rodriguez
-  :PROPERTIES:
-  :LINK: [[https://www.google.com/calendar/event?eid=NW5tNTB0NTc2b2VmZDBwZzlzb29sZjZzc28gc2NvdHRtdXJwaHkwOUBt][Go to gcal web page]]
-  :ID: 5nm50t576oefd0pg9soolf6sso
-  :END:
-
-  <2018-05-04 Fri 14:30-14:45>
-* Alicia Horton
-  :PROPERTIES:
-  :LINK: [[https://www.google.com/calendar/event?eid=NXJjMXExMjRhNW5qN2g1dHYzbWpxazEzYjAgc2NvdHRtdXJwaHkwOUBt][Go to gcal web page]]
-  :ID: 5rc1q124a5nj7h5tv3mjqk13b0
-  :END:
-
-  <2018-05-04 Fri 14:45-15:00>
-* Kathryn Peralta
-  :PROPERTIES:
-  :LINK: [[https://www.google.com/calendar/event?eid=NTB1dDNiYmVzaGhiaGlycG5zZTM2a291N2cgc2NvdHRtdXJwaHkwOUBt][Go to gcal web page]]
-  :ID: 50ut3bbeshhbhirpnse36kou7g
-  :END:
-
-  <2018-05-04 Fri 15:00-15:30>
-* Tiffany Chaires
-  :PROPERTIES:
-  :LINK: [[https://www.google.com/calendar/event?eid=NTJlM21lZTNlY3VsMW42b2g0MGtmY291NG4gc2NvdHRtdXJwaHkwOUBt][Go to gcal web page]]
-  :ID: 52e3mee3ecul1n6oh40kfcou4n
-  :END:
-
-  <2018-05-04 Fri 15:30-16:00>
-* Camri Cross
-  :PROPERTIES:
-  :LINK: [[https://www.google.com/calendar/event?eid=NjZkbWV2NjlrNzgzbjNzaWthNm90cTNoNGcgc2NvdHRtdXJwaHkwOUBt][Go to gcal web page]]
-  :ID: 66dmev69k783n3sika6otq3h4g
-  :END:
-
-  <2018-05-07 Mon 15:00-15:30>
-* Pride energy SCADA setup
-  :PROPERTIES:
-  :LINK: [[https://www.google.com/calendar/event?eid=NDdlbms2N3NjZmQ4OXRxN2M0amxmdDVnMjAgc2NvdHRtdXJwaHkwOUBt][Go to gcal web page]]
-  :ID: 47enk67scfd89tq7c4jlft5g20
-  :END:
-
-  <2018-05-08 Tue 11:00-12:00>
-* Call field service candidate Joel
-  :PROPERTIES:
-  :LINK: [[https://www.google.com/calendar/event?eid=N2xrdXJqbWtrb2k2dGdkMzA2am41dWxmYmggc2NvdHRtdXJwaHkwOUBt][Go to gcal web page]]
-  :ID: 7lkurjmkkoi6tgd306jn5ulfbh
-  :END:
-
-  <2018-05-08 Tue 17:30-18:30>
-* Kendall Eval
-  :PROPERTIES:
-  :LINK: [[https://www.google.com/calendar/event?eid=M2o1cDcwMzQzdDNqMmdqNXF0MzBlc29qM3Egc2NvdHRtdXJwaHkwOUBt][Go to gcal web page]]
-  :ID: 3j5p70343t3j2gj5qt30esoj3q
-  :END:
-
-  <2018-05-09 Wed 09:00-10:00>
-* Scott Fleischman
-  :PROPERTIES:
-  :LINK: [[https://www.google.com/calendar/event?eid=M2Nta2djNHNzdjBwdTY0bW9tNjhybzRvNWwgc2NvdHRtdXJwaHkwOUBt][Go to gcal web page]]
-  :ID: 3cmkgc4ssv0pu64mom68ro4o5l
-  :END:
-
-  <2018-05-09 Wed 10:00-11:00>
-* Unitronics
-  :PROPERTIES:
-  :LINK: [[https://www.google.com/calendar/event?eid=N2x2bjV2amM4MWtwOGJ1Y3ExNTE2amwwMTAgc2NvdHRtdXJwaHkwOUBt][Go to gcal web page]]
-  :ID: 7lvn5vjc81kp8bucq1516jl010
-  :END:
-
-  <2018-05-10 Thu 11:00-12:00>
-* Patrick Eval
-  :PROPERTIES:
-  :LINK: [[https://www.google.com/calendar/event?eid=MDBrc282czZyajlrZ2NubmNxY2lqc3ZrNWEgc2NvdHRtdXJwaHkwOUBt][Go to gcal web page]]
-  :ID: 00kso6s6rj9kgcnncqcijsvk5a
-  :END:
-
-  <2018-05-11 Fri 09:00-10:00>
-* Charity
-  :PROPERTIES:
-  :LINK: [[https://www.google.com/calendar/event?eid=Mzh0cTEwaThhNzI3cmxxNWxxcXJyYmpvaG9fMjAxODA1MTMgc2NvdHRtdXJwaHkwOUBt][Go to gcal web page]]
-  :ID: 38tq10i8a727rlq5lqqrrbjoho_20180513
-  :END:
-
-  <2018-05-13 Sun>
-* Oil Change
-  :PROPERTIES:
-  :LOCATION: House
-  :LINK: [[https://www.google.com/calendar/event?eid=ZmJodHFmM2tuOHFjNjI5NjBxamRybnZnYWdfMjAxODA1MTRUMTEwMDAwWiBzY290dG11cnBoeTA5QG0][Go to gcal web page]]
-  :ID: fbhtqf3kn8qc62960qjdrnvgag_20180514T110000Z
-  :END:
-
-  <2018-05-14 Mon 06:00-07:00>
-* Jake Interview
-  :PROPERTIES:
-  :LINK: [[https://www.google.com/calendar/event?eid=MDBiNjUwYWZnOWxlNDg2bzh2ZDZxYmdtNWggc2NvdHRtdXJwaHkwOUBt][Go to gcal web page]]
-  :ID: 00b650afg9le486o8vd6qbgm5h
-  :END:
-
-  <2018-05-15 Tue 09:30-10:30>
-* Change the Game with IndexedDB (Carmen Bourlon)
-  :PROPERTIES:
-  :LOCATION: StarSpace46, 1141 W Sheridan Ave, Oklahoma City, OK, us, 73106
-  :LINK: [[https://www.google.com/calendar/event?eid=XzZ0bG5hcXJsZTVwNmNwYjRkaG1qNHBocGVoazc0cDMzY3NwbmFwOWlkcGs2a3NqZWRkbjZhcGoyY2xvNjJwcm1lMG9tYXBqbGVwbW11b2JqNmxrM2NzaGxjdHI2NHQ5cGM5azNlb2prY2dzajAgc2NvdHRtdXJwaHkwOUBt][Go to gcal web page]]
-  :ID: _6tlnaqrle5p6cpb4dhmj4phpehk74p33cspnap9idpk6ksjeddn6apj2clo62prme0omapjlepmmuobj6lk3cshlctr64t9pc9k3eojkcgsj0
-  :END:
-
-  <2018-05-15 Tue 11:30-12:30>
-
-To see detailed information for automatically created events like this one, use the official Google Calendar app. https://g.co/calendar
-
-This event was created from an email you received in Gmail. https://mail.google.com/mail?extsrc=cal&plid=ACUX6DMt0npvS2Mzjvey5uNut3nKZ6bMJv3kYBY
-* Kevin Review
-  :PROPERTIES:
-  :LINK: [[https://www.google.com/calendar/event?eid=MmZlMDR2a2o1bTFzZDJmdWlvZzZnaG0wZmogc2NvdHRtdXJwaHkwOUBt][Go to gcal web page]]
-  :ID: 2fe04vkj5m1sd2fuiog6ghm0fj
-  :END:
-
-  <2018-05-17 Thu 14:00-15:00>
-* Michael Review
-  :PROPERTIES:
-  :LINK: [[https://www.google.com/calendar/event?eid=NnVpbzQ2MTZpbXU2NmdpcWVkMnIya201bzAgc2NvdHRtdXJwaHkwOUBt][Go to gcal web page]]
-  :ID: 6uio4616imu66giqed2r2km5o0
-  :END:
-
-  <2018-05-17 Thu 15:00-16:00>
-* Atlee Review
-  :PROPERTIES:
-  :LINK: [[https://www.google.com/calendar/event?eid=NmRpaWRrNTlybGUydTBpYWJhcWVwZnMycDggc2NvdHRtdXJwaHkwOUBt][Go to gcal web page]]
-  :ID: 6diidk59rle2u0iabaqepfs2p8
-  :END:
-
-  <2018-05-18 Fri 09:00-10:00>
 * Marketing strategy and review
   :PROPERTIES:
   :LINK: [[https://www.google.com/calendar/event?eid=bWtzMWxycjh0ZHZtOTA1Ym5nOWc4djRuZW9fMjAxODA1MThUMTYwMDAwWiBzY290dG11cnBoeTA5QG0][Go to gcal web page]]
@@ -229,6 +5,197 @@ This event was created from an email you received in Gmail. https://mail.google.
   :END:
 
   <2018-05-25 Fri 11:00-12:00>
+* Call Alicia
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=MHFlZHVydXB1MTdvYjlhYjFib2prc2JwMWwgc2NvdHRtdXJwaHkwOUBt][Go to gcal web page]]
+  :ID: 0qedurupu17ob9ab1bojksbp1l
+  :END:
+
+  <2018-05-25 Fri 14:00-15:00>
+* Girlscouts
+  :PROPERTIES:
+  :LOCATION: laneese
+  :LINK: [[https://www.google.com/calendar/event?eid=cnRuaXYzaTFvZGUwaTgyaHRpbWM1M3BuODAgc2NvdHRtdXJwaHkwOUBt][Go to gcal web page]]
+  :ID: rtniv3i1ode0i82htimc53pn80
+  :END:
+
+  <2018-05-29 Tue 22:00-23:00>
+* Onping Overview and Walkthrough
+  :PROPERTIES:
+  :LOCATION: https://zoom.us/j/336244511
+  :LINK: [[https://www.google.com/calendar/event?eid=N2lmaWxyNjBjdGVrdnJvb2ExdHZyNzA3bzQgc2NvdHRtdXJwaHkwOUBt][Go to gcal web page]]
+  :ID: 7ifilr60ctekvrooa1tvr707o4
+  :END:
+
+  <2018-05-30 Wed 14:00-15:00>
+
+Hi there, 
+
+Scott Murphy is inviting you to a scheduled Zoom meeting. 
+
+Join from PC, Mac, Linux, iOS or Android: https://zoom.us/j/336244511
+
+Or iPhone one-tap :
+    US: +16465588665,,336244511#  or +14086380986,,336244511# 
+Or Telephone:
+    Dial(for higher quality, dial a number based on your current location): 
+        US: +1 646 558 8665  or +1 408 638 0986 
+    Meeting ID: 336 244 511
+    International numbers available: https://zoom.us/u/bIkfQyaS
+* Onping Overview and Walkthrough
+  :PROPERTIES:
+  :LOCATION: https://zoom.us/j/336244511
+  :LINK: [[https://www.google.com/calendar/event?eid=YzQ0dTZmbGQzdTZudDlkMTk3NWpyMDNsdWsgc2NvdHRtdXJwaHkwOUBt][Go to gcal web page]]
+  :ID: c44u6fld3u6nt9d1975jr03luk
+  :END:
+
+  <2018-05-30 Wed 14:00-15:00>
+
+Hi there, 
+
+Scott Murphy is inviting you to a scheduled Zoom meeting. 
+
+Join from PC, Mac, Linux, iOS or Android: https://zoom.us/j/336244511
+
+Or iPhone one-tap :
+    US: +16465588665,,336244511#  or +14086380986,,336244511# 
+Or Telephone:
+    Dial(for higher quality, dial a number based on your current location): 
+        US: +1 646 558 8665  or +1 408 638 0986 
+    Meeting ID: 336 244 511
+    International numbers available: https://zoom.us/u/bIkfQyaS
+* Onping Overview and Walkthrough
+  :PROPERTIES:
+  :LOCATION: https://zoom.us/j/336244511
+  :LINK: [[https://www.google.com/calendar/event?eid=cDd2dGw0NWtkdW1kdDRxaTJzMDZ2OXEzNmMgc2NvdHRtdXJwaHkwOUBt][Go to gcal web page]]
+  :ID: p7vtl45kdumdt4qi2s06v9q36c
+  :END:
+
+  <2018-05-30 Wed 14:00-15:00>
+
+Hi there, 
+
+Scott Murphy is inviting you to a scheduled Zoom meeting. 
+
+Join from PC, Mac, Linux, iOS or Android: https://zoom.us/j/336244511
+
+Or iPhone one-tap :
+    US: +16465588665,,336244511#  or +14086380986,,336244511# 
+Or Telephone:
+    Dial(for higher quality, dial a number based on your current location): 
+        US: +1 646 558 8665  or +1 408 638 0986 
+    Meeting ID: 336 244 511
+    International numbers available: https://zoom.us/u/bIkfQyaS
+* Onping Overview and Walkthrough
+  :PROPERTIES:
+  :LOCATION: https://zoom.us/j/336244511
+  :LINK: [[https://www.google.com/calendar/event?eid=dDBhNGszYjMwajRxMGl1cXMzZGFodDZlMjAgc2NvdHRtdXJwaHkwOUBt][Go to gcal web page]]
+  :ID: t0a4k3b30j4q0iuqs3daht6e20
+  :END:
+
+  <2018-05-30 Wed 14:00-15:00>
+
+Hi there, 
+
+Scott Murphy is inviting you to a scheduled Zoom meeting. 
+
+Join from PC, Mac, Linux, iOS or Android: https://zoom.us/j/336244511
+
+Or iPhone one-tap :
+    US: +16465588665,,336244511#  or +14086380986,,336244511# 
+Or Telephone:
+    Dial(for higher quality, dial a number based on your current location): 
+        US: +1 646 558 8665  or +1 408 638 0986 
+    Meeting ID: 336 244 511
+    International numbers available: https://zoom.us/u/bIkfQyaS
+* Plow Field Service Meeting
+  :PROPERTIES:
+  :LOCATION: https://zoom.us/j/344736287
+  :LINK: [[https://www.google.com/calendar/event?eid=djlpaGM2dnNzbmNtOHRjdjM0MmgxOGhpMm9fMjAxODA1MzFUMTMwMDAwWiBzY290dG11cnBoeTA5QG0][Go to gcal web page]]
+  :ID: v9ihc6vssncm8tcv342h18hi2o_20180531T130000Z
+  :END:
+
+  <2018-05-31 Thu 08:00-09:00>
+
+Hi there, 
+
+Scott Murphy is inviting you to a scheduled Zoom meeting. 
+
+Join from PC, Mac, Linux, iOS or Android: https://zoom.us/j/344736287
+
+Or iPhone one-tap :
+    US: +16465588665,,344736287#  or +14086380986,,344736287# 
+Or Telephone:
+    Dial(for higher quality, dial a number based on your current location): 
+        US: +1 646 558 8665  or +1 408 638 0986 
+    Meeting ID: 344 736 287
+    International numbers available: https://zoom.us/u/cuKwVAHVC
+* Onping Overview and Walkthrough
+  :PROPERTIES:
+  :LOCATION: https://zoom.us/j/336244511
+  :LINK: [[https://www.google.com/calendar/event?eid=ZTB0djQyZTlsdW0yNHBwODMzNnJzcTh1ZGMgc2NvdHRtdXJwaHkwOUBt][Go to gcal web page]]
+  :ID: e0tv42e9lum24pp8336rsq8udc
+  :END:
+
+  <2018-05-31 Thu 15:30-16:30>
+
+Hi there, 
+
+Scott Murphy is inviting you to a scheduled Zoom meeting. 
+
+Join from PC, Mac, Linux, iOS or Android: https://zoom.us/j/336244511
+
+Or iPhone one-tap :
+    US: +16465588665,,336244511#  or +14086380986,,336244511# 
+Or Telephone:
+    Dial(for higher quality, dial a number based on your current location): 
+        US: +1 646 558 8665  or +1 408 638 0986 
+    Meeting ID: 336 244 511
+    International numbers available: https://zoom.us/u/bIkfQyaS
+* Onping Overview and Walkthrough
+  :PROPERTIES:
+  :LOCATION: https://zoom.us/j/336244511
+  :LINK: [[https://www.google.com/calendar/event?eid=bWYwYmt2dG1rZGlxZ3RiYWVsOG4zZmkzZTAgc2NvdHRtdXJwaHkwOUBt][Go to gcal web page]]
+  :ID: mf0bkvtmkdiqgtbael8n3fi3e0
+  :END:
+
+  <2018-05-31 Thu 15:30-16:30>
+
+Hi there, 
+
+Scott Murphy is inviting you to a scheduled Zoom meeting. 
+
+Join from PC, Mac, Linux, iOS or Android: https://zoom.us/j/336244511
+
+Or iPhone one-tap :
+    US: +16465588665,,336244511#  or +14086380986,,336244511# 
+Or Telephone:
+    Dial(for higher quality, dial a number based on your current location): 
+        US: +1 646 558 8665  or +1 408 638 0986 
+    Meeting ID: 336 244 511
+    International numbers available: https://zoom.us/u/bIkfQyaS
+* Plow Field Service Meeting
+  :PROPERTIES:
+  :LOCATION: https://zoom.us/j/344736287
+  :LINK: [[https://www.google.com/calendar/event?eid=djlpaGM2dnNzbmNtOHRjdjM0MmgxOGhpMm9fMjAxODA2MDFUMTMwMDAwWiBzY290dG11cnBoeTA5QG0][Go to gcal web page]]
+  :ID: v9ihc6vssncm8tcv342h18hi2o_20180601T130000Z
+  :END:
+
+  <2018-06-01 Fri 08:00-09:00>
+
+Hi there, 
+
+Scott Murphy is inviting you to a scheduled Zoom meeting. 
+
+Join from PC, Mac, Linux, iOS or Android: https://zoom.us/j/344736287
+
+Or iPhone one-tap :
+    US: +16465588665,,344736287#  or +14086380986,,344736287# 
+Or Telephone:
+    Dial(for higher quality, dial a number based on your current location): 
+        US: +1 646 558 8665  or +1 408 638 0986 
+    Meeting ID: 344 736 287
+    International numbers available: https://zoom.us/u/cuKwVAHVC
 * Marketing strategy and review
   :PROPERTIES:
   :LINK: [[https://www.google.com/calendar/event?eid=bWtzMWxycjh0ZHZtOTA1Ym5nOWc4djRuZW9fMjAxODA2MDFUMTYwMDAwWiBzY290dG11cnBoeTA5QG0][Go to gcal web page]]
@@ -236,6 +203,196 @@ This event was created from an email you received in Gmail. https://mail.google.
   :END:
 
   <2018-06-01 Fri 11:00-12:00>
+* Plow Field Service Meeting
+  :PROPERTIES:
+  :LOCATION: https://zoom.us/j/344736287
+  :LINK: [[https://www.google.com/calendar/event?eid=djlpaGM2dnNzbmNtOHRjdjM0MmgxOGhpMm9fMjAxODA2MDJUMTMwMDAwWiBzY290dG11cnBoeTA5QG0][Go to gcal web page]]
+  :ID: v9ihc6vssncm8tcv342h18hi2o_20180602T130000Z
+  :END:
+
+  <2018-06-02 Sat 08:00-09:00>
+
+Hi there, 
+
+Scott Murphy is inviting you to a scheduled Zoom meeting. 
+
+Join from PC, Mac, Linux, iOS or Android: https://zoom.us/j/344736287
+
+Or iPhone one-tap :
+    US: +16465588665,,344736287#  or +14086380986,,344736287# 
+Or Telephone:
+    Dial(for higher quality, dial a number based on your current location): 
+        US: +1 646 558 8665  or +1 408 638 0986 
+    Meeting ID: 344 736 287
+    International numbers available: https://zoom.us/u/cuKwVAHVC
+* Plow Field Service Meeting
+  :PROPERTIES:
+  :LOCATION: https://zoom.us/j/344736287
+  :LINK: [[https://www.google.com/calendar/event?eid=djlpaGM2dnNzbmNtOHRjdjM0MmgxOGhpMm9fMjAxODA2MDNUMTMwMDAwWiBzY290dG11cnBoeTA5QG0][Go to gcal web page]]
+  :ID: v9ihc6vssncm8tcv342h18hi2o_20180603T130000Z
+  :END:
+
+  <2018-06-03 Sun 08:00-09:00>
+
+Hi there, 
+
+Scott Murphy is inviting you to a scheduled Zoom meeting. 
+
+Join from PC, Mac, Linux, iOS or Android: https://zoom.us/j/344736287
+
+Or iPhone one-tap :
+    US: +16465588665,,344736287#  or +14086380986,,344736287# 
+Or Telephone:
+    Dial(for higher quality, dial a number based on your current location): 
+        US: +1 646 558 8665  or +1 408 638 0986 
+    Meeting ID: 344 736 287
+    International numbers available: https://zoom.us/u/cuKwVAHVC
+* Plow Field Service Meeting
+  :PROPERTIES:
+  :LOCATION: https://zoom.us/j/344736287
+  :LINK: [[https://www.google.com/calendar/event?eid=djlpaGM2dnNzbmNtOHRjdjM0MmgxOGhpMm9fMjAxODA2MDRUMTMwMDAwWiBzY290dG11cnBoeTA5QG0][Go to gcal web page]]
+  :ID: v9ihc6vssncm8tcv342h18hi2o_20180604T130000Z
+  :END:
+
+  <2018-06-04 Mon 08:00-09:00>
+
+Hi there, 
+
+Scott Murphy is inviting you to a scheduled Zoom meeting. 
+
+Join from PC, Mac, Linux, iOS or Android: https://zoom.us/j/344736287
+
+Or iPhone one-tap :
+    US: +16465588665,,344736287#  or +14086380986,,344736287# 
+Or Telephone:
+    Dial(for higher quality, dial a number based on your current location): 
+        US: +1 646 558 8665  or +1 408 638 0986 
+    Meeting ID: 344 736 287
+    International numbers available: https://zoom.us/u/cuKwVAHVC
+* Plow Field Service Meeting
+  :PROPERTIES:
+  :LOCATION: https://zoom.us/j/344736287
+  :LINK: [[https://www.google.com/calendar/event?eid=djlpaGM2dnNzbmNtOHRjdjM0MmgxOGhpMm9fMjAxODA2MDVUMTMwMDAwWiBzY290dG11cnBoeTA5QG0][Go to gcal web page]]
+  :ID: v9ihc6vssncm8tcv342h18hi2o_20180605T130000Z
+  :END:
+
+  <2018-06-05 Tue 08:00-09:00>
+
+Hi there, 
+
+Scott Murphy is inviting you to a scheduled Zoom meeting. 
+
+Join from PC, Mac, Linux, iOS or Android: https://zoom.us/j/344736287
+
+Or iPhone one-tap :
+    US: +16465588665,,344736287#  or +14086380986,,344736287# 
+Or Telephone:
+    Dial(for higher quality, dial a number based on your current location): 
+        US: +1 646 558 8665  or +1 408 638 0986 
+    Meeting ID: 344 736 287
+    International numbers available: https://zoom.us/u/cuKwVAHVC
+* Plow Field Service Meeting
+  :PROPERTIES:
+  :LOCATION: https://zoom.us/j/344736287
+  :LINK: [[https://www.google.com/calendar/event?eid=djlpaGM2dnNzbmNtOHRjdjM0MmgxOGhpMm9fMjAxODA2MDZUMTMwMDAwWiBzY290dG11cnBoeTA5QG0][Go to gcal web page]]
+  :ID: v9ihc6vssncm8tcv342h18hi2o_20180606T130000Z
+  :END:
+
+  <2018-06-06 Wed 08:00-09:00>
+
+Hi there, 
+
+Scott Murphy is inviting you to a scheduled Zoom meeting. 
+
+Join from PC, Mac, Linux, iOS or Android: https://zoom.us/j/344736287
+
+Or iPhone one-tap :
+    US: +16465588665,,344736287#  or +14086380986,,344736287# 
+Or Telephone:
+    Dial(for higher quality, dial a number based on your current location): 
+        US: +1 646 558 8665  or +1 408 638 0986 
+    Meeting ID: 344 736 287
+    International numbers available: https://zoom.us/u/cuKwVAHVC
+* Logan gone
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=NWMzbGhmdTcwY3VocHMxYmkwYmRlMDI0cGMgc2NvdHRtdXJwaHkwOUBt][Go to gcal web page]]
+  :ID: 5c3lhfu70cuhps1bi0bde024pc
+  :END:
+
+  <2018-06-06 Wed 20:00>--<2018-06-12 Tue 18:40>
+* Plow Field Service Meeting
+  :PROPERTIES:
+  :LOCATION: https://zoom.us/j/344736287
+  :LINK: [[https://www.google.com/calendar/event?eid=djlpaGM2dnNzbmNtOHRjdjM0MmgxOGhpMm9fMjAxODA2MDdUMTMwMDAwWiBzY290dG11cnBoeTA5QG0][Go to gcal web page]]
+  :ID: v9ihc6vssncm8tcv342h18hi2o_20180607T130000Z
+  :END:
+
+  <2018-06-07 Thu 08:00-09:00>
+
+Hi there, 
+
+Scott Murphy is inviting you to a scheduled Zoom meeting. 
+
+Join from PC, Mac, Linux, iOS or Android: https://zoom.us/j/344736287
+
+Or iPhone one-tap :
+    US: +16465588665,,344736287#  or +14086380986,,344736287# 
+Or Telephone:
+    Dial(for higher quality, dial a number based on your current location): 
+        US: +1 646 558 8665  or +1 408 638 0986 
+    Meeting ID: 344 736 287
+    International numbers available: https://zoom.us/u/cuKwVAHVC
+* Daniel Talking
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=NzNrNTEzbnNmaDJydmNkNmtoYjQzNGRscnEgc2NvdHRtdXJwaHkwOUBt][Go to gcal web page]]
+  :ID: 73k513nsfh2rvcd6khb434dlrq
+  :END:
+
+  <2018-06-07 Thu 10:30-11:30>
+* Plow Field Service Meeting
+  :PROPERTIES:
+  :LOCATION: https://zoom.us/j/344736287
+  :LINK: [[https://www.google.com/calendar/event?eid=djlpaGM2dnNzbmNtOHRjdjM0MmgxOGhpMm9fMjAxODA2MDhUMTMwMDAwWiBzY290dG11cnBoeTA5QG0][Go to gcal web page]]
+  :ID: v9ihc6vssncm8tcv342h18hi2o_20180608T130000Z
+  :END:
+
+  <2018-06-08 Fri 08:00-09:00>
+
+Hi there, 
+
+Scott Murphy is inviting you to a scheduled Zoom meeting. 
+
+Join from PC, Mac, Linux, iOS or Android: https://zoom.us/j/344736287
+
+Or iPhone one-tap :
+    US: +16465588665,,344736287#  or +14086380986,,344736287# 
+Or Telephone:
+    Dial(for higher quality, dial a number based on your current location): 
+        US: +1 646 558 8665  or +1 408 638 0986 
+    Meeting ID: 344 736 287
+    International numbers available: https://zoom.us/u/cuKwVAHVC
+* Plow Field Service Meeting
+  :PROPERTIES:
+  :LOCATION: https://zoom.us/j/344736287
+  :LINK: [[https://www.google.com/calendar/event?eid=djlpaGM2dnNzbmNtOHRjdjM0MmgxOGhpMm9fMjAxODA2MDlUMTMwMDAwWiBzY290dG11cnBoeTA5QG0][Go to gcal web page]]
+  :ID: v9ihc6vssncm8tcv342h18hi2o_20180609T130000Z
+  :END:
+
+  <2018-06-09 Sat 08:00-09:00>
+
+Hi there, 
+
+Scott Murphy is inviting you to a scheduled Zoom meeting. 
+
+Join from PC, Mac, Linux, iOS or Android: https://zoom.us/j/344736287
+
+Or iPhone one-tap :
+    US: +16465588665,,344736287#  or +14086380986,,344736287# 
+Or Telephone:
+    Dial(for higher quality, dial a number based on your current location): 
+        US: +1 646 558 8665  or +1 408 638 0986 
+    Meeting ID: 344 736 287
+    International numbers available: https://zoom.us/u/cuKwVAHVC
 * Charity
   :PROPERTIES:
   :LINK: [[https://www.google.com/calendar/event?eid=Mzh0cTEwaThhNzI3cmxxNWxxcXJyYmpvaG9fMjAxODA2MTAgc2NvdHRtdXJwaHkwOUBt][Go to gcal web page]]
@@ -243,6 +400,152 @@ This event was created from an email you received in Gmail. https://mail.google.
   :END:
 
   <2018-06-10 Sun>
+* Plow Field Service Meeting
+  :PROPERTIES:
+  :LOCATION: https://zoom.us/j/344736287
+  :LINK: [[https://www.google.com/calendar/event?eid=djlpaGM2dnNzbmNtOHRjdjM0MmgxOGhpMm9fMjAxODA2MTBUMTMwMDAwWiBzY290dG11cnBoeTA5QG0][Go to gcal web page]]
+  :ID: v9ihc6vssncm8tcv342h18hi2o_20180610T130000Z
+  :END:
+
+  <2018-06-10 Sun 08:00-09:00>
+
+Hi there, 
+
+Scott Murphy is inviting you to a scheduled Zoom meeting. 
+
+Join from PC, Mac, Linux, iOS or Android: https://zoom.us/j/344736287
+
+Or iPhone one-tap :
+    US: +16465588665,,344736287#  or +14086380986,,344736287# 
+Or Telephone:
+    Dial(for higher quality, dial a number based on your current location): 
+        US: +1 646 558 8665  or +1 408 638 0986 
+    Meeting ID: 344 736 287
+    International numbers available: https://zoom.us/u/cuKwVAHVC
+* Plow Field Service Meeting
+  :PROPERTIES:
+  :LOCATION: https://zoom.us/j/344736287
+  :LINK: [[https://www.google.com/calendar/event?eid=djlpaGM2dnNzbmNtOHRjdjM0MmgxOGhpMm9fMjAxODA2MTFUMTMwMDAwWiBzY290dG11cnBoeTA5QG0][Go to gcal web page]]
+  :ID: v9ihc6vssncm8tcv342h18hi2o_20180611T130000Z
+  :END:
+
+  <2018-06-11 Mon 08:00-09:00>
+
+Hi there, 
+
+Scott Murphy is inviting you to a scheduled Zoom meeting. 
+
+Join from PC, Mac, Linux, iOS or Android: https://zoom.us/j/344736287
+
+Or iPhone one-tap :
+    US: +16465588665,,344736287#  or +14086380986,,344736287# 
+Or Telephone:
+    Dial(for higher quality, dial a number based on your current location): 
+        US: +1 646 558 8665  or +1 408 638 0986 
+    Meeting ID: 344 736 287
+    International numbers available: https://zoom.us/u/cuKwVAHVC
+* Plow Field Service Meeting
+  :PROPERTIES:
+  :LOCATION: https://zoom.us/j/344736287
+  :LINK: [[https://www.google.com/calendar/event?eid=djlpaGM2dnNzbmNtOHRjdjM0MmgxOGhpMm9fMjAxODA2MTJUMTMwMDAwWiBzY290dG11cnBoeTA5QG0][Go to gcal web page]]
+  :ID: v9ihc6vssncm8tcv342h18hi2o_20180612T130000Z
+  :END:
+
+  <2018-06-12 Tue 08:00-09:00>
+
+Hi there, 
+
+Scott Murphy is inviting you to a scheduled Zoom meeting. 
+
+Join from PC, Mac, Linux, iOS or Android: https://zoom.us/j/344736287
+
+Or iPhone one-tap :
+    US: +16465588665,,344736287#  or +14086380986,,344736287# 
+Or Telephone:
+    Dial(for higher quality, dial a number based on your current location): 
+        US: +1 646 558 8665  or +1 408 638 0986 
+    Meeting ID: 344 736 287
+    International numbers available: https://zoom.us/u/cuKwVAHVC
+* Plow Field Service Meeting
+  :PROPERTIES:
+  :LOCATION: https://zoom.us/j/344736287
+  :LINK: [[https://www.google.com/calendar/event?eid=djlpaGM2dnNzbmNtOHRjdjM0MmgxOGhpMm9fMjAxODA2MTNUMTMwMDAwWiBzY290dG11cnBoeTA5QG0][Go to gcal web page]]
+  :ID: v9ihc6vssncm8tcv342h18hi2o_20180613T130000Z
+  :END:
+
+  <2018-06-13 Wed 08:00-09:00>
+
+Hi there, 
+
+Scott Murphy is inviting you to a scheduled Zoom meeting. 
+
+Join from PC, Mac, Linux, iOS or Android: https://zoom.us/j/344736287
+
+Or iPhone one-tap :
+    US: +16465588665,,344736287#  or +14086380986,,344736287# 
+Or Telephone:
+    Dial(for higher quality, dial a number based on your current location): 
+        US: +1 646 558 8665  or +1 408 638 0986 
+    Meeting ID: 344 736 287
+    International numbers available: https://zoom.us/u/cuKwVAHVC
+* Plow Field Service Meeting
+  :PROPERTIES:
+  :LOCATION: https://zoom.us/j/344736287
+  :LINK: [[https://www.google.com/calendar/event?eid=djlpaGM2dnNzbmNtOHRjdjM0MmgxOGhpMm9fMjAxODA2MTRUMTMwMDAwWiBzY290dG11cnBoeTA5QG0][Go to gcal web page]]
+  :ID: v9ihc6vssncm8tcv342h18hi2o_20180614T130000Z
+  :END:
+
+  <2018-06-14 Thu 08:00-09:00>
+
+Hi there, 
+
+Scott Murphy is inviting you to a scheduled Zoom meeting. 
+
+Join from PC, Mac, Linux, iOS or Android: https://zoom.us/j/344736287
+
+Or iPhone one-tap :
+    US: +16465588665,,344736287#  or +14086380986,,344736287# 
+Or Telephone:
+    Dial(for higher quality, dial a number based on your current location): 
+        US: +1 646 558 8665  or +1 408 638 0986 
+    Meeting ID: 344 736 287
+    International numbers available: https://zoom.us/u/cuKwVAHVC
+* Orion Introduction
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=Mmh2bzR0amEybWpobHBwNmZydWg0aHQ5dHAgc2NvdHRtdXJwaHkwOUBt][Go to gcal web page]]
+  :ID: 2hvo4tja2mjhlpp6fruh4ht9tp
+  :END:
+
+  <2018-06-14 Thu 13:30-14:30>
+* Alex Overview
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=NGczZmFqb3BmYW1lczdjdGFma3Z2bjUyZmogc2NvdHRtdXJwaHkwOUBt][Go to gcal web page]]
+  :ID: 4g3fajopfames7ctafkvvn52fj
+  :END:
+
+  <2018-06-14 Thu 16:00-17:00>
+* Plow Field Service Meeting
+  :PROPERTIES:
+  :LOCATION: https://zoom.us/j/344736287
+  :LINK: [[https://www.google.com/calendar/event?eid=djlpaGM2dnNzbmNtOHRjdjM0MmgxOGhpMm9fMjAxODA2MTVUMTMwMDAwWiBzY290dG11cnBoeTA5QG0][Go to gcal web page]]
+  :ID: v9ihc6vssncm8tcv342h18hi2o_20180615T130000Z
+  :END:
+
+  <2018-06-15 Fri 08:00-09:00>
+
+Hi there, 
+
+Scott Murphy is inviting you to a scheduled Zoom meeting. 
+
+Join from PC, Mac, Linux, iOS or Android: https://zoom.us/j/344736287
+
+Or iPhone one-tap :
+    US: +16465588665,,344736287#  or +14086380986,,344736287# 
+Or Telephone:
+    Dial(for higher quality, dial a number based on your current location): 
+        US: +1 646 558 8665  or +1 408 638 0986 
+    Meeting ID: 344 736 287
+    International numbers available: https://zoom.us/u/cuKwVAHVC
 * Marketing strategy and review
   :PROPERTIES:
   :LINK: [[https://www.google.com/calendar/event?eid=bWtzMWxycjh0ZHZtOTA1Ym5nOWc4djRuZW9fMjAxODA2MTVUMTYwMDAwWiBzY290dG11cnBoeTA5QG0][Go to gcal web page]]
@@ -250,6 +553,28 @@ This event was created from an email you received in Gmail. https://mail.google.
   :END:
 
   <2018-06-15 Fri 11:00-12:00>
+* Plow Field Service Meeting
+  :PROPERTIES:
+  :LOCATION: https://zoom.us/j/344736287
+  :LINK: [[https://www.google.com/calendar/event?eid=djlpaGM2dnNzbmNtOHRjdjM0MmgxOGhpMm9fMjAxODA2MTZUMTMwMDAwWiBzY290dG11cnBoeTA5QG0][Go to gcal web page]]
+  :ID: v9ihc6vssncm8tcv342h18hi2o_20180616T130000Z
+  :END:
+
+  <2018-06-16 Sat 08:00-09:00>
+
+Hi there, 
+
+Scott Murphy is inviting you to a scheduled Zoom meeting. 
+
+Join from PC, Mac, Linux, iOS or Android: https://zoom.us/j/344736287
+
+Or iPhone one-tap :
+    US: +16465588665,,344736287#  or +14086380986,,344736287# 
+Or Telephone:
+    Dial(for higher quality, dial a number based on your current location): 
+        US: +1 646 558 8665  or +1 408 638 0986 
+    Meeting ID: 344 736 287
+    International numbers available: https://zoom.us/u/cuKwVAHVC
 * Rotate Tires
   :PROPERTIES:
   :LOCATION: Freddies Tires
@@ -260,6 +585,110 @@ This event was created from an email you received in Gmail. https://mail.google.
   <2018-06-16 Sat 12:00-13:00>
 
 Rotate Brooke's Tires
+* Plow Field Service Meeting
+  :PROPERTIES:
+  :LOCATION: https://zoom.us/j/344736287
+  :LINK: [[https://www.google.com/calendar/event?eid=djlpaGM2dnNzbmNtOHRjdjM0MmgxOGhpMm9fMjAxODA2MTdUMTMwMDAwWiBzY290dG11cnBoeTA5QG0][Go to gcal web page]]
+  :ID: v9ihc6vssncm8tcv342h18hi2o_20180617T130000Z
+  :END:
+
+  <2018-06-17 Sun 08:00-09:00>
+
+Hi there, 
+
+Scott Murphy is inviting you to a scheduled Zoom meeting. 
+
+Join from PC, Mac, Linux, iOS or Android: https://zoom.us/j/344736287
+
+Or iPhone one-tap :
+    US: +16465588665,,344736287#  or +14086380986,,344736287# 
+Or Telephone:
+    Dial(for higher quality, dial a number based on your current location): 
+        US: +1 646 558 8665  or +1 408 638 0986 
+    Meeting ID: 344 736 287
+    International numbers available: https://zoom.us/u/cuKwVAHVC
+* Plow Field Service Meeting
+  :PROPERTIES:
+  :LOCATION: https://zoom.us/j/344736287
+  :LINK: [[https://www.google.com/calendar/event?eid=djlpaGM2dnNzbmNtOHRjdjM0MmgxOGhpMm9fMjAxODA2MThUMTMwMDAwWiBzY290dG11cnBoeTA5QG0][Go to gcal web page]]
+  :ID: v9ihc6vssncm8tcv342h18hi2o_20180618T130000Z
+  :END:
+
+  <2018-06-18 Mon 08:00-09:00>
+
+Hi there, 
+
+Scott Murphy is inviting you to a scheduled Zoom meeting. 
+
+Join from PC, Mac, Linux, iOS or Android: https://zoom.us/j/344736287
+
+Or iPhone one-tap :
+    US: +16465588665,,344736287#  or +14086380986,,344736287# 
+Or Telephone:
+    Dial(for higher quality, dial a number based on your current location): 
+        US: +1 646 558 8665  or +1 408 638 0986 
+    Meeting ID: 344 736 287
+    International numbers available: https://zoom.us/u/cuKwVAHVC
+* Plow Field Service Meeting
+  :PROPERTIES:
+  :LOCATION: https://zoom.us/j/344736287
+  :LINK: [[https://www.google.com/calendar/event?eid=djlpaGM2dnNzbmNtOHRjdjM0MmgxOGhpMm9fMjAxODA2MTlUMTMwMDAwWiBzY290dG11cnBoeTA5QG0][Go to gcal web page]]
+  :ID: v9ihc6vssncm8tcv342h18hi2o_20180619T130000Z
+  :END:
+
+  <2018-06-19 Tue 08:00-09:00>
+
+Hi there, 
+
+Scott Murphy is inviting you to a scheduled Zoom meeting. 
+
+Join from PC, Mac, Linux, iOS or Android: https://zoom.us/j/344736287
+
+Or iPhone one-tap :
+    US: +16465588665,,344736287#  or +14086380986,,344736287# 
+Or Telephone:
+    Dial(for higher quality, dial a number based on your current location): 
+        US: +1 646 558 8665  or +1 408 638 0986 
+    Meeting ID: 344 736 287
+    International numbers available: https://zoom.us/u/cuKwVAHVC
+* Lightning Talks
+  :PROPERTIES:
+  :LOCATION: StarSpace46, 1141 W Sheridan Ave, Oklahoma City, OK, us, 73106
+  :LINK: [[https://www.google.com/calendar/event?eid=XzZ0bG5hcXJsZTVwNmNwYjRkaG1qNHBocGVncG1ncGJlNnNzbW9zMW5jOWkzZ2NiYmNocGplcmJmNjByM2V0amg2MWduOHNyZDY5aDZhcXJhZWtvNjZvcmQ3MWdtZXFwamVwaW5jdDNnY3BsajAgc2NvdHRtdXJwaHkwOUBt][Go to gcal web page]]
+  :ID: _6tlnaqrle5p6cpb4dhmj4phpegpmgpbe6ssmos1nc9i3gcbbchpjerbf60r3etjh61gn8srd69h6aqraeko66ord71gmeqpjepinct3gcplj0
+  :END:
+
+  <2018-06-19 Tue 11:30-12:30>
+
+To see detailed information for automatically created events like this one, use the official Google Calendar app. https://g.co/calendar
+
+This event was created from an email you received in Gmail. https://mail.google.com/mail?extsrc=cal&plid=ACUX6DMsMI2_fOG6IrUHY9bC1GldyyXUeREqAfs
+* Will Taylor Lunch
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=N2huNWwwbW1ianNkZmlydXA5djMwNDFxMnYgc2NvdHRtdXJwaHkwOUBt][Go to gcal web page]]
+  :ID: 7hn5l0mmbjsdfirup9v3041q2v
+  :END:
+
+  <2018-06-22 Fri 12:15-13:15>
+* Mark Knutson
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=MzYwYnVmMGFvZzJpM2d0ZDN1MDZxbXFwdGsgc2NvdHRtdXJwaHkwOUBt][Go to gcal web page]]
+  :ID: 360buf0aog2i3gtd3u06qmqptk
+  :END:
+
+  <2018-06-26 Tue 09:00-10:00>
+* Type Systems
+  :PROPERTIES:
+  :LOCATION: StarSpace 46, 1141 W Sheridan Ave, Oklahoma City, OK, us, 73106
+  :LINK: [[https://www.google.com/calendar/event?eid=XzZ0bG5hcXJsZTVwNmNwYjRkaG1qNHBocGVobG04c2JiZTlxamdvamVjaGozY2ViYmU1bjM4ZDFpNnNwNzJxaHBlZ3M2YXEzbWRsaTZldGpqZWhtNzhvOWdjZ3E3Y29yaWQ1bWphcWpsZW9zNmUgc2NvdHRtdXJwaHkwOUBt][Go to gcal web page]]
+  :ID: _6tlnaqrle5p6cpb4dhmj4phpehlm8sbbe9qjgojechj3cebbe5n38d1i6sp72qhpegs6aq3mdli6etjjehm78o9gcgq7corid5mjaqjleos6e
+  :END:
+
+  <2018-06-26 Tue 11:30-12:30>
+
+To see detailed information for automatically created events like this one, use the official Google Calendar app. https://g.co/calendar
+
+This event was created from an email you received in Gmail. https://mail.google.com/mail?extsrc=cal&plid=ACUX6DMfERJNXi5ROFgIScWNBr8t2n7aSMTgfvE
 * Marketing strategy and review
   :PROPERTIES:
   :LINK: [[https://www.google.com/calendar/event?eid=bWtzMWxycjh0ZHZtOTA1Ym5nOWc4djRuZW9fMjAxODA2MjlUMTYwMDAwWiBzY290dG11cnBoeTA5QG0][Go to gcal web page]]
@@ -267,6 +696,13 @@ Rotate Brooke's Tires
   :END:
 
   <2018-06-29 Fri 11:00-12:00>
+* Pull data for valiant
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=cG90dTNxNXRkaG00NDljMWo3N2s2ODExZDRfMjAxODA2MzBUMTkwMDAwWiBzY290dG11cnBoeTA5QG0][Go to gcal web page]]
+  :ID: potu3q5tdhm449c1j77k6811d4_20180630T190000Z
+  :END:
+
+  <2018-06-30 Sat 14:00-15:00>
 * Stay at Premier RV Resort
   :PROPERTIES:
   :LOCATION: 33022 Van Duyn Rd, Coburg, OR 97408, United States
@@ -293,3 +729,46 @@ This event was created from an email you received in Gmail. https://mail.google.
   :END:
 
   <2018-07-13 Fri 11:00-12:00>
+* Marketing strategy and review
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=bWtzMWxycjh0ZHZtOTA1Ym5nOWc4djRuZW9fMjAxODA3MjdUMTYwMDAwWiBzY290dG11cnBoeTA5QG0][Go to gcal web page]]
+  :ID: mks1lrr8tdvm905bng9g8v4neo_20180727T160000Z
+  :END:
+
+  <2018-07-27 Fri 11:00-12:00>
+* Pull data for valiant
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=cG90dTNxNXRkaG00NDljMWo3N2s2ODExZDRfMjAxODA3MzBUMTkwMDAwWiBzY290dG11cnBoeTA5QG0][Go to gcal web page]]
+  :ID: potu3q5tdhm449c1j77k6811d4_20180730T190000Z
+  :END:
+
+  <2018-07-30 Mon 14:00-15:00>
+* Marketing strategy and review
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=bWtzMWxycjh0ZHZtOTA1Ym5nOWc4djRuZW9fMjAxODA4MTBUMTYwMDAwWiBzY290dG11cnBoeTA5QG0][Go to gcal web page]]
+  :ID: mks1lrr8tdvm905bng9g8v4neo_20180810T160000Z
+  :END:
+
+  <2018-08-10 Fri 11:00-12:00>
+* Charity
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=Mzh0cTEwaThhNzI3cmxxNWxxcXJyYmpvaG9fMjAxODA4MTIgc2NvdHRtdXJwaHkwOUBt][Go to gcal web page]]
+  :ID: 38tq10i8a727rlq5lqqrrbjoho_20180812
+  :END:
+
+  <2018-08-12 Sun>
+* Oil Change
+  :PROPERTIES:
+  :LOCATION: House
+  :LINK: [[https://www.google.com/calendar/event?eid=ZmJodHFmM2tuOHFjNjI5NjBxamRybnZnYWdfMjAxODA4MTRUMTEwMDAwWiBzY290dG11cnBoeTA5QG0][Go to gcal web page]]
+  :ID: fbhtqf3kn8qc62960qjdrnvgag_20180814T110000Z
+  :END:
+
+  <2018-08-14 Tue 06:00-07:00>
+* Beat the heat
+  :PROPERTIES:
+  :LINK: [[https://www.google.com/calendar/event?eid=NmY5dHVydWhxbHFnNzQyMHFqbjIxbTNuamsgc2NvdHRtdXJwaHkwOUBt][Go to gcal web page]]
+  :ID: 6f9turuhqlqg7420qjn21m3njk
+  :END:
+
+  <2018-08-17 Fri>--<2018-08-19 Sun>

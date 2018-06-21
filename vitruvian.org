@@ -15,7 +15,7 @@
   DEADLINE: <2018-05-02 Wed>
 * DONE Get with Paul about data 
   DEADLINE: <2018-06-04 Mon>
-* TODO Separate Total Flow data
+* DONE Separate Total Flow data
   DEADLINE: <2018-06-01 Fri>
 
 | Name           | App Array ID |
@@ -27,6 +27,10 @@
 | Gas Vol. Yday  | 11 7 23      |
 | Batt Voltage   |              |
 | Gas Static     | 11 3 2       |
-* TODO Build Vitruvian Alarms 
-  DEADLINE: <2018-06-06 Wed>
+* DONE Build Vitruvian Alarms 
+  DEADLINE: <2018-06-13 Wed>
+Use the alarms from the SCADA pack and
+the shift schedule: https://mail.google.com/mail/u/0/#search/vitruvian/163d54bfd3d0dae5?projector=1&messagePartId=0.1
+* TODO Vitruvian FTP server for Scout
+  DEADLINE: <2018-06-20 Wed>
 

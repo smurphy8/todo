@@ -2,7 +2,7 @@
   DEADLINE: <2018-06-25 Mon>
 
 * TODO Check on Video status 
-  DEADLINE: <2018-06-12 Tue>
+  DEADLINE: <2018-06-25 Mon>
 
 + Deposit paid
 + Script working 
@@ -13,37 +13,35 @@
    DEADLINE: <2018-06-22 Fri>
 
 ** TODO Decide how split up OnPing and Plow should be.
-   DEADLINE: <2018-06-19 Tue>
+   DEADLINE: <2018-06-26 Tue>
 
 + How do I talk about OnPing From Plow
 
 
 ** TODO OnPing page up
-   DEADLINE: <2018-06-12 Tue>
+   DEADLINE: <2018-06-20 Wed>
+
 
 ** TODO Shooting a video for OnPing 
    DEADLINE: <2018-09-08 Sat>
 
 ** TODO Look over website
-   DEADLINE: <2018-06-08 Fri>
+   DEADLINE: <2018-06-22 Fri>
 
 ** TODO Newsletter
-   DEADLINE: <2018-06-15 Fri>
+   DEADLINE: <2018-07-18 Wed>
 
 ** TODO Request PSO Data
-   DEADLINE: <2018-06-15 Fri>
-
+   DEADLINE: <2018-06-25 Mon>
 ** TODO Potential Automation Partners list
    DEADLINE: <2018-06-22 Fri>
 
-** TODO Alicia a seat
-   DEADLINE: <2018-06-08 Fri>
 
-** TODO Page Ranking
-   DEADLINE: <2018-06-15 Fri>
+** TODO [#B] Page Ranking
+   DEADLINE: <2018-06-25 Mon>
 
 ** TODO SOER Show
-   DEADLINE: <2018-06-15 Fri>
+   DEADLINE: <2018-06-22 Fri>
 
 
 * TODO Water Page Onping

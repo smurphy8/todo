@@ -1,0 +1,2 @@
+* DONE Delete all call order and alarms with no people in them.   :DataEntry:
+  DEADLINE: <2018-06-18 Mon>

@@ -1,23 +1,2 @@
-* TODO Export data for history
-  DEADLINE: <2018-05-30 Wed>
-* TODO Plunger validation 
-  DEADLINE: <2018-05-30 Wed>
-* TODO Gulfport Microhard PW
-  DEADLINE: <2018-06-01 Fri>
-+ @ccessM1dcon
-* DONE Get Microhard Modems out to field 
-  DEADLINE: <2018-06-04 Mon>
-* TODO Sim Cards & MicroHard
-  DEADLINE: <2018-06-16 Sat>
-+ Fowler 3 - Sim Card
-+ Cleburne 7 - Microhard
-+ Johnson Rogers 5 - Sim Card
-+ Lauper - Microhard
-+ Anita Fowler 1 - Sim Card
-+ Ellis 1 - Cal Amp (Sim Card) 
-+ Ellis 2 - Cal Amp (Sim Card)
-+ Joyce 1
-+ Joyce 2
-+ Skid 1
 
 

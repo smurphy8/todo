@@ -1,3 +1,4 @@
-* TODO Make downhole card for O'Neal (Sea)
-  DEADLINE: <2018-06-06 Wed>
+* DONE Make downhole card for O'Neal (Sea)
+  DEADLINE: <2018-06-15 Fri>
+
 

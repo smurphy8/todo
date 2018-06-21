@@ -74,63 +74,29 @@
 
 
 
-* TODO DSS evap total flow talking and bringing in values?
-  DEADLINE: <2018-05-30 Wed>
 
 * TODO Lyhtem federal talking through the 485 port?
-  DEADLINE: <2018-05-30 Wed>
+  DEADLINE: <2018-06-25 Mon>
 
-* TODO Wyoming wells HMI and plunger settings. I don’t think I have seen a HMI for the Wyoming wells I have attached a spread sheet of the plunger registers. I also want to verify that they are the right values being pulled?
-  DEADLINE: <2018-05-30 Wed>
 
-* TODO H2S analyzer and pump screen built. ( we will be installing another site with the same set up this next week.)
-  DEADLINE: <2018-05-30 Wed>
 
 * TODO List of things <2018-05-26 Sat>
-** DONE truncate 2 all params
-   DEADLINE: <2018-05-29 Tue>
 
-** TODO  Start On Cycle/Off cycle button :DataEntry:
-   DEADLINE: <2018-06-07 Thu>
+** TODO Cycle Button                                              :DataEntry:
+   DEADLINE: <2018-06-20 Wed>
+Start On Cycle/Off cycle button
+   DEADLINE: <2018-06-14 Thu>
 
 + Start On Cycle   = 1
 + Start Off Cycle  = 1
 
 
-** DONE Setpoints!  need to figure out which points are setpoints 
-   DEADLINE: <2018-05-29 Tue>
-169030		Valve Manual Open	ReadWrite
-169031		Valve Manual Close	ReadWrite
-169032		Plunger Program Run	ReadWrite
-169033		Plunger Program Off Cycle	ReadWrite
-169034		Clear Counter Totals	ReadWrite 
-
-169036		RTU Status (2=Auto, 4=Man.)	ReadOnly
-
-169037		Enable High Line Pressure Mask Bit3 1=On	ReadWrite
-
-169038		Current Time	                ReadWrite
-169039		Fast Time	                ReadWrite
-169040		Slow Time	                ReadWrite
-169041		On Time	                        ReadWrite
-169042		Off Time	                ReadWrite
-169043		Afterflow Time	                ReadWrite
-169044		Flow Time	                ReadWrite
-169045		Min. Off Time	                ReadWrite
-169046		Max Off Time	                ReadWrite
-169047		Min. Afterflow Time	        ReadWrite
-169048		Max Afterflow Time	        ReadWrite
-169049		High Line Delay Time	        ReadWrite
-169050		High Line Clear Setpoint PSI	ReadWrite
-
 ** TODO  Run time in minutes (currently in seconds)
-   DEADLINE: <2018-06-19 Tue>
-
-
+   DEADLINE: <2018-06-26 Tue>
 
 
 ** TODO RTU Status to a button
-   DEADLINE: <2018-06-14 Thu>
+   DEADLINE: <2018-06-20 Wed>
 + 2  = auto
 + 4  = manual 
 
@@ -140,17 +106,7 @@ if it is in auto, to start an On Cycle register #1009 1= start on cycle
 if it is in manual, 1001 write a 1 to it opens a sales Valve.
                     1002 write a 1 to it closes sales valve 
 
-** TODO Formula
-   DEADLINE: <2018-05-30 Wed>
-+  MCF to MMBTU Formula 
 
-
-** TODO link back for riverbend
-   DEADLINE: <2018-06-02 Sat>
-
-** TODO Scavenger Pumps Dashboard
-   DEADLINE: <2018-05-30 Wed>
-One HMI for both
 
 ** TODO Screen Scrape
    DEADLINE: <2018-06-26 Tue>
@@ -169,17 +125,6 @@ pipe2018
 
  
 
-** AMI Sniffer and Harrier need combined
-   DEADLINE: <2018-06-06 Wed>
-Combine 0 and 1
-
-** DONE 33-18 J needs Fuel meter correct (Goes to the wrong place)
-   DEADLINE: <2018-05-29 Tue>
-
-** DONE 23-30 34-19 All Zero  
-   DEADLINE: <2018-05-30 Wed>
-Fixed zeros , 34-19 actually has the right parameters they just need to be added
-
 
 ** TODO DSS EVAP 
    DEADLINE: <2018-06-22 Fri>
@@ -195,9 +140,10 @@ Working on protocol FBU
 
 
 * TODO Alger Pad well work 
-  DEADLINE: <2018-06-13 Wed>
+  DEADLINE: <2018-06-20 Wed>
 
-** Pad Wells Alger Tanks
+** TODO Pad Wells Alger Tanks
+   DEADLINE: <2018-06-20 Wed>
 Special Tanks spot in Alger pad well
 
 ** HMI for the 1-34 SWD 
@@ -209,27 +155,21 @@ Special Tanks spot in Alger pad well
 + Add rest of items from Overview 
 
 * TODO Writes syncronous problem
-  DEADLINE: <2018-06-08 Fri>
-
-
+  DEADLINE: <2018-06-21 Thu>
+ 
 * TODO Wapiti Louisiana
-
 ** DONE Add Bay Batiste to wapiti louisiana                       :DataEntry:
    DEADLINE: <2018-06-06 Wed>
 
 ** TODO Drop test :DataEntry:
-   DEADLINE: <2018-06-06 Wed>
+   DEADLINE: <2018-06-22 Fri>
 
-* TODO Louisiana Checklist 
-+ All Wellheads are done
-+ Low and Hi alarms
-+ Alarm datapoints ready 
 
 *** Manilla Village 
 + 3 Scanners 
 + 2 total flows
 
-**** TODO Check that polling is going smoothly 
+**** DONE Check that polling is going smoothly 
      DEADLINE: <2018-06-07 Thu>
 
 
@@ -241,5 +181,40 @@ Special Tanks spot in Alger pad well
 **** TODO Compressor Discharge
 
 * TODO Make Template Ferguson 
-  DEADLINE: <2018-06-08 Fri>
+  DEADLINE: <2018-06-19 Tue>
+
+* DONE Manilla Village Sales MEter
+  DEADLINE: <2018-06-13 Wed>
+https://onping.plowtech.net/#/location/info?locationId=2224
+Need to pull Floboss 107 parameters for 
+
+Yesterdays Volume
+Todays Volume
+Flow Rate
+Static Pressure
+Temp 
+Energy Today
+Energy Yesterday 
+
+
+Use the camino Johnston as an example
+Then need to build dashboard stuff for this in the wapiti louisiana dash
+
+
+
+* Meeting <2018-06-14 Thu>
+
+** TODO Move trends under hmi 
+   DEADLINE: <2018-06-19 Tue>
+** TODO Make sure trends match trends in 11-19-9-19
+   DEADLINE: <2018-06-19 Tue>
+** TODO Delete trends panel
+   DEADLINE: <2018-06-19 Tue>
+** TODO Bill Wapiti
+   DEADLINE: <2018-06-19 Tue>
+** TODO Christian HMI cleanup and Copy 
+   DEADLINE: <2018-06-20 Wed>
++ https://onping.plowtech.net/#/dashboard/add/5b17fb82dabef96901000008
+* TODO Writes API in onping
+  DEADLINE: <2018-06-21 Thu>
 

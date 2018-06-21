@@ -39,8 +39,8 @@
 * TODO Bill out for Skids (we should do this quarterly ) 
   DEADLINE: <2018-06-29 Fri>
 
-* TODO Stale Data not call on onping comm fail 
-  DEADLINE: <2018-05-30 Wed>
+* DONE Stale Data not call on onping comm fail 
+  DEADLINE: <2018-06-18 Mon>
 
 
 
@@ -48,18 +48,24 @@
 * DONE Follow up with Trace Midstream
   DEADLINE: <2018-05-23 Wed>
 
-* TODO Diego from Stack builders get him what he needs
+* DONE Diego from Stack builders get him what he needs
   DEADLINE: <2018-06-06 Wed>
 
 * DONE Make sure Shanna was deleted
   DEADLINE: <2018-06-04 Mon>
 
-* TODO Make sure onping billing is happening
+* DONE Make sure onping billing is happening
   DEADLINE: <2018-06-06 Wed>
 
-* TODO Comm fail Valiant
-  DEADLINE: <2018-06-06 Wed>
 
+
+* TODO Single-well Manual Data at each site :Valiant: :DataEntry:
+  DEADLINE: <2018-06-20 Wed>
+
+* TODO Comm fail Valiant :DataEntry:
+  DEADLINE: <2018-06-20 Wed>
+
+  
 * DONE Make sure we have logs for everything 
   DEADLINE: <2018-05-23 Wed>
 + plowtech-authentication-server.out.alarm
@@ -119,14 +125,13 @@
 
 
 
-* TODO Bonuses and Owners Checks !
 * TODO Follow up on Job Sheet stuff 
-  DEADLINE: <2018-06-08 Fri>
+  DEADLINE: <2018-06-25 Mon>
 
 
 
 * TODO Colorado Wells update
-  DEADLINE: <2018-06-16 Sat>
+  DEADLINE: <2018-06-26 Tue>
 
 
 
@@ -148,8 +153,6 @@
 ** TODO Vitruvian is new (charge yet?)
 ** TODO Valiant Midstream is new, charge yet?
 ** TODO Midstates is new charge yet?
-** TODO Wapiti is new charge yet?
-   DEADLINE: <2018-05-29 Tue>
 
 * DONE Tubing -> Intermediate Tubing  Both Skid 1 and Skid 2.
   DEADLINE: <2018-05-16 Wed>
@@ -171,80 +174,42 @@
 * Range
 + RPOC Tyr
 * 
-* TODO Bonuses 
+* DONE Bonuses 
   DEADLINE: <2018-05-30 Wed>
 * DONE Tag Name scheme
   DEADLINE: <2018-06-01 Fri>
-* TODO Add tag list for James 
+* DONE Add tag list for James 
   DEADLINE: <2018-06-01 Fri>
-* TODO Onping Pricing 
-** DONE Set Old Fittstown to Zero and remove next month 
-   DEADLINE: <2018-06-05 Tue>
-** TODO Mittie Walters - Big Spring 
-   DEADLINE: <2018-06-05 Tue>
-** TODO Sheridan Skids who do we bill 
-   DEADLINE: <2018-06-05 Tue>
-Need to ask Shane
-
-** DONE Fix O'Neal pricing
-   DEADLINE: <2018-06-05 Tue>
-+ Harry and Creel Drop to 65.00
- 
-** DONE Check why Range went down?
-   DEADLINE: <2018-06-05 Tue>
-+ Which site changed price?
-** DONE Gulfport 
-   DEADLINE: <2018-06-05 Tue>
-
-** DONE Have we been paid for Roan?
-   DEADLINE: <2018-06-20 Wed>
-   
-** DONE Look over camino pricing 
-   DEADLINE: <2018-06-07 Thu>
-
-** DONE Look over Citizen III Billing
-   DEADLINE: <2018-06-05 Tue>
-
-** DONE Look over pride billing (Low)
-   DEADLINE: <2018-06-05 Tue>
-
-** DONE Look over Wapiti billing (again)
-   DEADLINE: <2018-06-05 Tue>
-
-** DONE zero out midstates
-   DEADLINE: <2018-06-05 Tue>
-
-** DONE Vitruvian Billing adjustment 
-   DEADLINE: <2018-06-05 Tue>
-
-** DONE Valiant adjustments
-   DEADLINE: <2018-06-05 Tue>
 
 
+* TODO Remove old fittstown 
+  DEADLINE: <2018-07-02 Mon>
 * Inventory Accounting
 
 * Less Than 1000 
 + Make Visible 
 + Low RPMS
 
-* TODO Tax Return Documents
-  DEADLINE: <2018-06-07 Thu>
+* TODO Tax Return Documents :Personal:
+  DEADLINE: <2018-06-20 Wed>
 
 
 
-* TODO Create application for saltwater disposal ticket handling
-  DEADLINE: <2018-06-09 Sat>
-+ Ticket detail 
+* TODO Reptech Schaefer Transfer Drive Enclosure Project
+  DEADLINE: <2018-07-31 Tue>
 
 
-* TODO Gexpro Transfer Drive Project
-  DEADLINE: <2018-06-21 Thu>
-
-* TODO Formalize Expenses
-  DEADLINE: <2018-06-15 Fri>
+* TODO Sell Seth's old truck
+  DEADLINE: <2018-06-19 Tue>
 
 
+* TODO Individual Authorization Conversion Document
+  DEADLINE: <2018-06-19 Tue>
 
-* TODO Get with Seth about Sales meters
-  DEADLINE: <2018-06-08 Fri>
+** Online Account Edward Jones
++ Messgage (yello wenvelope) Sign Document 
+
+
+* TODO Virtual Parameter Tests 
+  DEADLINE: <2018-06-24 Sun>
 
