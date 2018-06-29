@@ -1,3 +1,3 @@
 
 * TODO Make Eagle Meter needs list
-  DEADLINE: <2018-06-26 Tue>
+  DEADLINE: <2018-07-28 Sat>

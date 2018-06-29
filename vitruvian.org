@@ -11,26 +11,8 @@
 + Alarm List 
 + Register List and Register Address 
 + Local Ips for Wells
-* DONE Create Vitruvian Company
-  DEADLINE: <2018-05-02 Wed>
-* DONE Get with Paul about data 
-  DEADLINE: <2018-06-04 Mon>
-* DONE Separate Total Flow data
-  DEADLINE: <2018-06-01 Fri>
-
-| Name           | App Array ID |
-|----------------+--------------|
-| Gas DP         | 11 7 0       |
-| Gas Temp       | 11 3 3       |
-| Gas Flow Rate  | 11 7 19      |
-| Gas Vol. Today | 11 7 22      |
-| Gas Vol. Yday  | 11 7 23      |
-| Batt Voltage   |              |
-| Gas Static     | 11 3 2       |
-* DONE Build Vitruvian Alarms 
-  DEADLINE: <2018-06-13 Wed>
-Use the alarms from the SCADA pack and
-the shift schedule: https://mail.google.com/mail/u/0/#search/vitruvian/163d54bfd3d0dae5?projector=1&messagePartId=0.1
 * TODO Vitruvian FTP server for Scout
-  DEADLINE: <2018-06-20 Wed>
+  DEADLINE: <2018-06-26 Tue>
+
+
 

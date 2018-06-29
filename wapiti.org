@@ -7,7 +7,7 @@
 
 
 * TODO SCOUT Example
-  DEADLINE: <2018-06-19 Tue>
+  DEADLINE: <2018-07-09 Mon>
 
 
 
@@ -76,7 +76,7 @@
 
 
 * TODO Lyhtem federal talking through the 485 port?
-  DEADLINE: <2018-06-25 Mon>
+  DEADLINE: <2018-07-28 Sat>
 
 
 
@@ -181,7 +181,7 @@ Special Tanks spot in Alger pad well
 **** TODO Compressor Discharge
 
 * TODO Make Template Ferguson 
-  DEADLINE: <2018-06-19 Tue>
+  DEADLINE: <2018-06-27 Wed>
 
 * DONE Manilla Village Sales MEter
   DEADLINE: <2018-06-13 Wed>
@@ -204,17 +204,22 @@ Then need to build dashboard stuff for this in the wapiti louisiana dash
 
 * Meeting <2018-06-14 Thu>
 
-** TODO Move trends under hmi 
+** DONE Move trends under hmi 
    DEADLINE: <2018-06-19 Tue>
-** TODO Make sure trends match trends in 11-19-9-19
+** DONE Make sure trends match trends in 11-19-9-19
    DEADLINE: <2018-06-19 Tue>
-** TODO Delete trends panel
+** DONE Delete trends panel
    DEADLINE: <2018-06-19 Tue>
-** TODO Bill Wapiti
+** TODO Bill Wapiti+
    DEADLINE: <2018-06-19 Tue>
 ** TODO Christian HMI cleanup and Copy 
    DEADLINE: <2018-06-20 Wed>
 + https://onping.plowtech.net/#/dashboard/add/5b17fb82dabef96901000008
 * TODO Writes API in onping
   DEADLINE: <2018-06-21 Thu>
-
+* TODO CFX file generation test
+  DEADLINE: <2018-06-27 Wed>
+* TODO Add histories table
+  DEADLINE: <2018-06-26 Tue>
+* TODO respond to Chris (power loss)
+  DEADLINE: <2018-06-28 Thu>

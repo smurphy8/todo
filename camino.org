@@ -1,151 +1,37 @@
-* TODO Camino Transfer
-** DONE Get Extra Bristol Parameters Made
-   DEADLINE: <2018-04-03 Tue>
-** DONE Get new Point Type (196,68, 28) deployed 
-   DEADLINE: <2018-04-02 Mon>
-** DONE Get Dashboards made for each Location 
-   DEADLINE: <2018-04-03 Tue>
-** DONE Add OnPing Comm Loss for all locations 
-   DEADLINE: <2018-04-04 Wed>
-** DONE Johnston Parameters are complete
-   DEADLINE: <2018-04-09 Mon>
-+ Need to make sure arm build
-
-** DONE Johnston Alarms are complete
-   DEADLINE: <2018-04-09 Mon>
-
-* DONE Meeting with Camino Notes to check on progress
-  DEADLINE: <2018-05-20 Sun>
-
-+ Plunger speed is WAY too high, needs to be calculated along with Tubing Depth for accurate measurement
-+ Setpoints for tanks and pressures need to be set up for all sites
-+ Suction Pressure parameter needs to be added on Bristol sites
-+ Masks need to be applied to all, way too many decinmal places on most sites
-+ Sales meter, check meter, and injection meter not showing up on many sites.
-+ Tom Horn 4 Needs all cycle counts added, Runs / Misses / Cycles / Etc
-+ All Bristol sites should have plunger cycles and failures
-+ Bristol plungers should have a control to toggle between time control or pressure control
-+ Hasta tank values need adjustment for tank 1/2
-+ Hasta check meter is not exporting to P2, many check meter values are not getting to P2
-+ Tony Donathan does not have sufficient permissions to toggle alarms
-+ A Couple of the staff prefer Call/Text Only
-+ Hunt and Johnston Tanks need Set Points
-+ Johnston tanks are currently in Inches?!?!
-+ Johnston VRU Meter is missing, needs to be like Hasta VRU
-+ Griffith site has no gas sales at all
-+ Kent site needs to be done, and Enable Midstream needs to be talked to 
-
-
-
-
-* DONE Make sure that Calibrations get started
-  DEADLINE: <2018-05-14 Mon>
-+ Biggs 1-14
-+ Knight 1-12
-+ Turnpike 1-13
-+ Heritage 1-17
-+ South Heritage 1-17
-+ Specht 1-6
-
-* DONE Total Barrels add to specht 
-  DEADLINE: <2018-05-14 Mon>
-
-
-* TODO Gas Temperature 120 deg or higher
-
-* Values
-P110 Hi Hi - 245 : 197
-P110    Hi - 247 : 199
-
-
-* DONE Jim Caldwell Email 
-  DEADLINE: <2018-05-23 Wed>
-
-
-* DONE Ryan Access to the Cleborne
-  DEADLINE: <2018-06-04 Mon>
-
-
-
-* DONE FTP data not sending out
-  DEADLINE: <2018-06-04 Mon>
-
-
-* DONE Johnson Rogers comms
-  DEADLINE: <2018-05-29 Tue>
-
-* DONE Locations with new huwei
-  DEADLINE: <2018-05-29 Tue>
-
 * TODO need to add this Actuator Flow Setpoint 
-  DEADLINE: <2018-06-20 Wed>
+  DEADLINE: <2018-07-02 Mon>
 
 + 48 0 6 - Actuator Flow Setpoint 3000 
 
-
-* TODO Add virtual parameter for comm status :DataEntry: :Kendall:
+* TODO Add virtual parameter for comm status :DataEntry:            :Kendall:
   DEADLINE: <2018-06-28 Thu>
   
-* TODO Plunger Writes Issue (Synchronicity)
-  DEADLINE: <2018-06-25 Mon>
-  
-* TODO Operator Control Over Wells 
-  DEADLINE: <2018-06-19 Tue>
+* DONE Operator Control Over Wells 
+  DEADLINE: <2018-06-28 Thu>
 
 * TODO Additional Training
   DEADLINE: <2018-06-26 Tue>
 
-* DONE List of all setpoints 
-  DEADLINE: <2018-06-13 Wed>
-
-* DONE Relief Pumper Callouts
-  DEADLINE: <2018-06-11 Mon>
-
-
-
 * TODO Add cycles today to Tom Horns :DataEntry:
-  DEADLINE: <2018-06-19 Tue>
+  DEADLINE: <2018-06-26 Tue>
 
 * TODO Add Arrivals today to Tom Horns                            :DataEntry:
-  DEADLINE: <2018-06-19 Tue>
+  DEADLINE: <2018-06-26 Tue>
 
 
 
-* TODO P2 Verification with CSV :DataEntry:
-  DEADLINE: <2018-06-19 Tue>
-
-* DONE Kent Well Goes to Route 11 (Trent Smith)
-  DEADLINE: <2018-06-18 Mon>
-
-
-* TODO Add Plunger Counts
-  DEADLINE: <2018-06-19 Tue>
 
 
 
-* TODO Camino Dustin 
-  DEADLINE: <2018-06-19 Tue>
-** Route 11 Creation 
-** TODO Kent 1-27 Route 2 -> Route 11
-   DEADLINE: <2018-06-19 Tue>
-** TODO Harris 1 & 2 on Route 1 -> Route 11
-   DEADLINE: <2018-06-19 Tue>
-** TODO Seibold Route 1 -> Route 11
-   DEADLINE: <2018-06-19 Tue>
+* TODO Bob Welch add Total Flow 
+  DEADLINE: <2018-06-29 Fri>
 
-+ Trent Smith is the pumper for Route 11 
-+ Then Dusty
-+ Then John 
-** TODO All Alarms are moved to Route 11 as well
-   DEADLINE: <2018-06-19 Tue>
-** TODO Trent Smith Info 
-   DEADLINE: <2018-06-19 Tue>
-+ trent.smith5@aol.com 
-+ 4059332133
-** TODO Call Order for Carmen 26-1-1H on Rt. 1 needs to be Jay, Dusty, John.  
-   DEADLINE: <2018-06-19 Tue>
-** TODO Turnpike should be Route 5 
-   DEADLINE: <2018-06-19 Tue>
-** TODO Add Jim Spreadsheet to comparison
-   DEADLINE: <2018-06-19 Tue>
+
+
+
+* TODO Jim Caldwell Calibration info 
+  DEADLINE: <2018-06-29 Fri>
++ Rec freq
++ Per well just calibartion
++ estimate for adders
 

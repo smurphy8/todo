@@ -126,18 +126,15 @@
 
 
 * TODO Follow up on Job Sheet stuff 
-  DEADLINE: <2018-06-25 Mon>
-
-
+  DEADLINE: <2018-07-05 Thu>
 
 * TODO Colorado Wells update
-  DEADLINE: <2018-06-26 Tue>
+  DEADLINE: <2018-07-28 Sat>
 
 
 
 * TODO Follow up with Bud
   DEADLINE: <2018-06-19 Tue>
-
 * DONE Check if Charles is ready 
   DEADLINE: <2018-05-14 Mon>
 * DONE Huwei modem replacement check 
@@ -212,4 +209,12 @@
 
 * TODO Virtual Parameter Tests 
   DEADLINE: <2018-06-24 Sun>
+
+
+
+* TODO Get Bank stuff done
+  DEADLINE: <2018-06-28 Thu>
+
+* TODO Respond to Flocal
+  DEADLINE: <2018-06-28 Thu>
 

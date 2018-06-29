@@ -1,3 +1,11 @@
+* TODO Respond to Jimmy (esd)
+  DEADLINE: <2018-06-28 Thu>
+
+* TODO Fix northridge comm fail 
+  DEADLINE: <2018-06-28 Thu>
+
+* TODO Fix too many Rogers 7 locations 
+  DEADLINE: <2018-06-28 Thu>
 
 * DONE Create Riverview Registers
   DEADLINE: <2018-06-18 Mon>
