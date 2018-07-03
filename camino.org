@@ -1,5 +1,5 @@
 * TODO need to add this Actuator Flow Setpoint 
-  DEADLINE: <2018-07-02 Mon>
+  DEADLINE: <2018-07-10 Tue>
 
 + 48 0 6 - Actuator Flow Setpoint 3000 
 
@@ -10,7 +10,7 @@
   DEADLINE: <2018-06-28 Thu>
 
 * TODO Additional Training
-  DEADLINE: <2018-06-26 Tue>
+  DEADLINE: <2018-07-13 Fri>
 
 * TODO Add cycles today to Tom Horns :DataEntry:
   DEADLINE: <2018-06-26 Tue>
@@ -23,13 +23,19 @@
 
 
 
-* TODO Bob Welch add Total Flow 
-  DEADLINE: <2018-06-29 Fri>
+* TODO Bob Welch Total Flow Work
+  DEADLINE: <2018-07-05 Thu>
 
 
 
 
-* TODO Jim Caldwell Calibration info 
+** TODO add flow rate to Tom Horn HMI
+   DEADLINE: <2018-07-03 Tue>
+
+** TODO Add Comingle screen to HMI 
+   DEADLINE: <2018-07-03 Tue>
+
+* DONE Jim Caldwell Calibration info 
   DEADLINE: <2018-06-29 Fri>
 + Rec freq
 + Per well just calibartion

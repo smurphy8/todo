@@ -60,10 +60,13 @@
 
 
 * TODO Single-well Manual Data at each site :Valiant: :DataEntry:
-  DEADLINE: <2018-06-20 Wed>
+  DEADLINE: <2018-08-03 Fri>
+
+* TODO Single-well manual switcher is needed :Project:
+  DEADLINE: <2018-07-17 Tue>
 
 * TODO Comm fail Valiant :DataEntry:
-  DEADLINE: <2018-06-20 Wed>
+  DEADLINE: <2018-07-10 Tue>
 
   
 * DONE Make sure we have logs for everything 
@@ -134,7 +137,8 @@
 
 
 * TODO Follow up with Bud
-  DEADLINE: <2018-06-19 Tue>
+  DEADLINE: <2018-08-02 Thu>
+
 * DONE Check if Charles is ready 
   DEADLINE: <2018-05-14 Mon>
 * DONE Huwei modem replacement check 
@@ -179,8 +183,7 @@
   DEADLINE: <2018-06-01 Fri>
 
 
-* TODO Remove old fittstown 
-  DEADLINE: <2018-07-02 Mon>
+
 * Inventory Accounting
 
 * Less Than 1000 
@@ -188,7 +191,7 @@
 + Low RPMS
 
 * TODO Tax Return Documents :Personal:
-  DEADLINE: <2018-06-20 Wed>
+  DEADLINE: <2018-07-04 Wed>
 
 
 
@@ -197,14 +200,10 @@
 
 
 * TODO Sell Seth's old truck
-  DEADLINE: <2018-06-19 Tue>
+  DEADLINE: <2018-07-09 Mon>
 
 
-* TODO Individual Authorization Conversion Document
-  DEADLINE: <2018-06-19 Tue>
 
-** Online Account Edward Jones
-+ Messgage (yello wenvelope) Sign Document 
 
 
 * TODO Virtual Parameter Tests 

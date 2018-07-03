@@ -7,7 +7,7 @@
 * Marketing Meeting <2018-06-08 Fri>
 
 ** TODO Formalize a Budget 
-   DEADLINE: <2018-06-22 Fri>
+   DEADLINE: <2018-07-03 Tue>
 
 ** TODO Decide how split up OnPing and Plow should be.
    DEADLINE: <2018-07-28 Sat>
@@ -16,14 +16,14 @@
 
 
 ** TODO OnPing page up
-   DEADLINE: <2018-06-20 Wed>
+   DEADLINE: <2018-07-09 Mon>
 
 
 ** TODO Shooting a video for OnPing 
    DEADLINE: <2018-09-08 Sat>
 
 ** TODO Look over website
-   DEADLINE: <2018-06-22 Fri>
+   DEADLINE: <2018-07-03 Tue>
 
 ** TODO Newsletter
    DEADLINE: <2018-07-18 Wed>
@@ -31,14 +31,14 @@
 ** TODO Request PSO Data
    DEADLINE: <2018-07-05 Thu>
 ** TODO Potential Automation Partners list
-   DEADLINE: <2018-06-22 Fri>
+   DEADLINE: <2018-08-03 Fri>
 
 
 ** TODO Page Ranking
    DEADLINE: <2018-07-28 Sat>
 
 ** TODO SOER Show
-   DEADLINE: <2018-06-22 Fri>
+   DEADLINE: <2018-07-03 Tue>
 * TODO Water Page Onping
   DEADLINE: <2018-07-28 Sat>
 

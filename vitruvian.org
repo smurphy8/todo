@@ -12,7 +12,7 @@
 + Register List and Register Address 
 + Local Ips for Wells
 * TODO Vitruvian FTP server for Scout
-  DEADLINE: <2018-06-26 Tue>
+  DEADLINE: <2018-07-06 Fri>
 
 
 

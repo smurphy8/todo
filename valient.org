@@ -17,3 +17,8 @@
 * DONE Corterra Dashboard
   DEADLINE: <2018-06-19 Tue>
 
+
+
+* TODO data analysis needs to have 3 decimals and sum to 1
+  DEADLINE: <2018-07-03 Tue>
+

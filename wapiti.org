@@ -82,81 +82,7 @@
 
 * TODO List of things <2018-05-26 Sat>
 
-** TODO Cycle Button                                              :DataEntry:
-   DEADLINE: <2018-06-20 Wed>
-Start On Cycle/Off cycle button
-   DEADLINE: <2018-06-14 Thu>
 
-+ Start On Cycle   = 1
-+ Start Off Cycle  = 1
-
-
-** TODO  Run time in minutes (currently in seconds)
-   DEADLINE: <2018-06-26 Tue>
-
-
-** TODO RTU Status to a button
-   DEADLINE: <2018-06-20 Wed>
-+ 2  = auto
-+ 4  = manual 
-
-if it is in auto, to start an On Cycle register #1009 1= start on cycle 
-                                       register #1010 1= start off cycle 
-
-if it is in manual, 1001 write a 1 to it opens a sales Valve.
-                    1002 write a 1 to it closes sales valve 
-
-
-
-** TODO Screen Scrape
-   DEADLINE: <2018-06-26 Tue>
-Scott,
-
-
-Here is the info to pull the Dominion H2S Numbers. The screen scrape we talked about.
-
-
-https://pipeview.questar.com:8443/ords/f?p=125:24:9344144315765::NO::P24_NUM_DAZE_DISPLAYED:24
- 
-
-nick10407
-
-pipe2018
-
- 
-
-
-** TODO DSS EVAP 
-   DEADLINE: <2018-06-22 Fri>
-Working on protocol FBU
-
-
-** DONE Newfield meter coming 
-   DEADLINE: <2018-05-26 Sat>
-
-
-
-
-
-
-* TODO Alger Pad well work 
-  DEADLINE: <2018-06-20 Wed>
-
-** TODO Pad Wells Alger Tanks
-   DEADLINE: <2018-06-20 Wed>
-Special Tanks spot in Alger pad well
-
-** HMI for the 1-34 SWD 
-+ Correct Status for "filter pump status"
-
-
-+ remove bit=1, bit=0
-
-+ Add rest of items from Overview 
-
-* TODO Writes syncronous problem
-  DEADLINE: <2018-06-21 Thu>
- 
 * TODO Wapiti Louisiana
 ** DONE Add Bay Batiste to wapiti louisiana                       :DataEntry:
    DEADLINE: <2018-06-06 Wed>
@@ -211,15 +137,19 @@ Then need to build dashboard stuff for this in the wapiti louisiana dash
 ** DONE Delete trends panel
    DEADLINE: <2018-06-19 Tue>
 ** TODO Bill Wapiti+
-   DEADLINE: <2018-06-19 Tue>
-** TODO Christian HMI cleanup and Copy 
-   DEADLINE: <2018-06-20 Wed>
+   DEADLINE: <2018-07-09 Mon>
+** TODO Christian HMI cleanup and Copy :DataEntry:
+   DEADLINE: <2018-07-06 Fri>
 + https://onping.plowtech.net/#/dashboard/add/5b17fb82dabef96901000008
 * TODO Writes API in onping
-  DEADLINE: <2018-06-21 Thu>
+  DEADLINE: <2018-07-10 Tue>
+
 * TODO CFX file generation test
   DEADLINE: <2018-06-27 Wed>
 * TODO Add histories table
   DEADLINE: <2018-06-26 Tue>
 * TODO respond to Chris (power loss)
   DEADLINE: <2018-06-28 Thu>
+* TODO Time stamp type for HMI 
+  DEADLINE: <2018-08-02 Thu>
+
