@@ -4,19 +4,16 @@
 + 48 0 6 - Actuator Flow Setpoint 3000 
 
 * TODO Add virtual parameter for comm status :DataEntry:            :Kendall:
-  DEADLINE: <2018-06-28 Thu>
+  DEADLINE: <2018-07-10 Tue>
   
-* DONE Operator Control Over Wells 
-  DEADLINE: <2018-06-28 Thu>
-
 * TODO Additional Training
   DEADLINE: <2018-07-13 Fri>
 
 * TODO Add cycles today to Tom Horns :DataEntry:
-  DEADLINE: <2018-06-26 Tue>
+  DEADLINE: <2018-07-04 Wed>
 
 * TODO Add Arrivals today to Tom Horns                            :DataEntry:
-  DEADLINE: <2018-06-26 Tue>
+  DEADLINE: <2018-07-03 Tue>
 
 
 
@@ -34,10 +31,4 @@
 
 ** TODO Add Comingle screen to HMI 
    DEADLINE: <2018-07-03 Tue>
-
-* DONE Jim Caldwell Calibration info 
-  DEADLINE: <2018-06-29 Fri>
-+ Rec freq
-+ Per well just calibartion
-+ estimate for adders
 

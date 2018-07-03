@@ -1,8 +1,5 @@
-
-
-
 * TODO Data Map Creation for history import
-  DEADLINE: <2018-06-29 Fri>
+  DEADLINE: <2018-07-04 Wed>
 
 
 
@@ -87,8 +84,6 @@
 ** DONE Add Bay Batiste to wapiti louisiana                       :DataEntry:
    DEADLINE: <2018-06-06 Wed>
 
-** TODO Drop test :DataEntry:
-   DEADLINE: <2018-06-22 Fri>
 
 
 *** Manilla Village 
@@ -105,27 +100,6 @@
 + LP Test 
 
 **** TODO Compressor Discharge
-
-* TODO Make Template Ferguson 
-  DEADLINE: <2018-06-27 Wed>
-
-* DONE Manilla Village Sales MEter
-  DEADLINE: <2018-06-13 Wed>
-https://onping.plowtech.net/#/location/info?locationId=2224
-Need to pull Floboss 107 parameters for 
-
-Yesterdays Volume
-Todays Volume
-Flow Rate
-Static Pressure
-Temp 
-Energy Today
-Energy Yesterday 
-
-
-Use the camino Johnston as an example
-Then need to build dashboard stuff for this in the wapiti louisiana dash
-
 
 
 * Meeting <2018-06-14 Thu>
@@ -145,9 +119,9 @@ Then need to build dashboard stuff for this in the wapiti louisiana dash
   DEADLINE: <2018-07-10 Tue>
 
 * TODO CFX file generation test
-  DEADLINE: <2018-06-27 Wed>
+  DEADLINE: <2018-07-10 Tue>
 * TODO Add histories table
-  DEADLINE: <2018-06-26 Tue>
+  DEADLINE: <2018-07-10 Tue>
 * TODO respond to Chris (power loss)
   DEADLINE: <2018-06-28 Thu>
 * TODO Time stamp type for HMI 

@@ -1,24 +1,12 @@
-* TODO Respond to Jimmy (esd)
+
+* DONE Fix northridge comm fail 
   DEADLINE: <2018-06-28 Thu>
 
-* TODO Fix northridge comm fail 
+* DONE Fix too many Rogers 7 locations 
   DEADLINE: <2018-06-28 Thu>
 
-* TODO Fix too many Rogers 7 locations 
-  DEADLINE: <2018-06-28 Thu>
-
-* DONE Create Riverview Registers
-  DEADLINE: <2018-06-18 Mon>
-[[https://mail.google.com/mail/u/0/#inbox/16413836f49152a3][River Register Email]]
-
-* DONE Corterra Callouts
-  DEADLINE: <2018-06-19 Tue>
-
-* DONE Corterra Dashboard
-  DEADLINE: <2018-06-19 Tue>
-
-
-
-* TODO data analysis needs to have 3 decimals and sum to 1
+* TODO Fix too many valiant sites
   DEADLINE: <2018-07-03 Tue>
-
+There is a Rogers 2 and a Rogers 
+* TODO data analysis needs to have 3 decimals and sum to 1
+  DEADLINE: <2018-07-10 Tue>

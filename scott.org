@@ -1,12 +1,14 @@
+* TODO Virtual Parameter Tests 
+  DEADLINE: <2018-07-06 Fri>
+Need to enable the full test suite on the virtual parameter jenkins build.
+
 
 
 * TODO Fix Authorization in onping-pricing 
   DEADLINE: <2018-07-06 Fri>
 
-
 * TODO Get Scotts new alarm coordinator launched
   DEADLINE: <2018-06-30 Sat>
-
 
 * TODO Run swap in ATS
   :PROPERTIES:
@@ -39,26 +41,6 @@
 * TODO Bill out for Skids (we should do this quarterly ) 
   DEADLINE: <2018-06-29 Fri>
 
-* DONE Stale Data not call on onping comm fail 
-  DEADLINE: <2018-06-18 Mon>
-
-
-
-
-* DONE Follow up with Trace Midstream
-  DEADLINE: <2018-05-23 Wed>
-
-* DONE Diego from Stack builders get him what he needs
-  DEADLINE: <2018-06-06 Wed>
-
-* DONE Make sure Shanna was deleted
-  DEADLINE: <2018-06-04 Mon>
-
-* DONE Make sure onping billing is happening
-  DEADLINE: <2018-06-06 Wed>
-
-
-
 * TODO Single-well Manual Data at each site :Valiant: :DataEntry:
   DEADLINE: <2018-08-03 Fri>
 
@@ -68,66 +50,6 @@
 * TODO Comm fail Valiant :DataEntry:
   DEADLINE: <2018-07-10 Tue>
 
-  
-* DONE Make sure we have logs for everything 
-  DEADLINE: <2018-05-23 Wed>
-+ plowtech-authentication-server.out.alarm
-+ swroc-node-1.out.onping
-+ swmanual.out.onping
-+ hmi-server.out.onping
-+ rtu-manager.out.onping
-+ swmicro-node-1.out.onping
-+ onping_log.onping
-+ spot-report-servant.out.onping
-+ alarmDB-node-2.out.alarm
-+ swpoll-node-1.out.onping
-+ sshd
-+ alarmDB-node-1.out.alarm
-+ alarmDB-node-3.out.alarm
-+ swpoll-node-1.err.onping
-+ alarmDB-node-4.out.alarm
-+ consul
-+ onping-pricing-managerOUT.service
-+ swdb-node-1.out.onping
-+ CRON
-+ alarm-log-server-chronicle-node-1.out.alarm
-+ swroc-node-1.err.onping
-+ rtu-manager-recovery.out.onping
-+ swmicro-node-1.err.onping
-+ swdb-node-1.err.onping
-+ rpocdb-node-1.out.alarm
-+ rpocpoll-node-1.err.alarm
-+ onping-pricing-managerERR.service
-+ named
-+ controllogix-switcher.err.onping
-+ micrologix-switcher.err.onping
-+ roc-tlp-switcher.err.onping
-+ total-flow-switcher.err.onping
-+ plow-email.out.alarm
-+ systemd
-+ postfix
-+ plowtech-authentication-server.err.alarm
-+ rsyslogd
-+ tachdb-report-server-node-1.err.onping
-+ systemd-logind
-+ spot-report-servant.err.onping
-+ keter.onping
-+ tachdb-report-server-node-1.out.onping
-+ Adaptec
-+ plow-email.err.alarm
-+ hmi-server.err.onping
-+ onping-audit-server.err.onping
-+ rsyslogd-2039
-+ systemd-tmpfiles
-+ alarmDB-node-4.err.alarm
-+ rsyslogd-2359
-+ alarmDB-node-2.err.alarm
-+ alarmDB-node-3.err.alarm
-+ sudo
-
-
-
-
 * TODO Follow up on Job Sheet stuff 
   DEADLINE: <2018-07-05 Thu>
 
@@ -135,28 +57,8 @@
   DEADLINE: <2018-07-28 Sat>
 
 
-
 * TODO Follow up with Bud
   DEADLINE: <2018-08-02 Thu>
-
-* DONE Check if Charles is ready 
-  DEADLINE: <2018-05-14 Mon>
-* DONE Huwei modem replacement check 
-  DEADLINE: <2018-05-21 Mon>
-
-
-
-* DONE Finish ONPING pricing for April
-  DEADLINE: <2018-05-17 Thu>
-
-
-** TODO Pride is new, charge yet?
-** TODO Vitruvian is new (charge yet?)
-** TODO Valiant Midstream is new, charge yet?
-** TODO Midstates is new charge yet?
-
-* DONE Tubing -> Intermediate Tubing  Both Skid 1 and Skid 2.
-  DEADLINE: <2018-05-16 Wed>
 
 * TODO Add Gulfport Special Call order
 
@@ -174,15 +76,6 @@
 + Payson
 * Range
 + RPOC Tyr
-* 
-* DONE Bonuses 
-  DEADLINE: <2018-05-30 Wed>
-* DONE Tag Name scheme
-  DEADLINE: <2018-06-01 Fri>
-* DONE Add tag list for James 
-  DEADLINE: <2018-06-01 Fri>
-
-
 
 * Inventory Accounting
 
@@ -206,14 +99,15 @@
 
 
 
-* TODO Virtual Parameter Tests 
-  DEADLINE: <2018-06-24 Sun>
 
 
 
-* TODO Get Bank stuff done
-  DEADLINE: <2018-06-28 Thu>
 
-* TODO Respond to Flocal
-  DEADLINE: <2018-06-28 Thu>
+
+
+* TODO Get more quickbooks users 
+  DEADLINE: <2018-07-06 Fri>
+
+* TODO github issue pruning
+  DEADLINE: <2018-07-03 Tue>
 
