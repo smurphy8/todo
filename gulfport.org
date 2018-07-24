@@ -1,4 +1,7 @@
 
-* TODO Onping Removal
-  DEADLINE: <2018-07-06 Fri>
+* TODO Onping Removal                                               :Billing:
+  DEADLINE: <2018-08-11 Sat>
+
+* TODO Email about Scanner 2000                                    :Question:
+  DEADLINE: <2018-07-30 Mon>
 

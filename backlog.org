@@ -1,2 +1,8 @@
-* TODO [[https://github.com/plow-technologies/virtual-parameters-frontend/issues/16][Import Export feature for Virtual Parameters]]
+* TODO [[https://github.com/plow-technologies/virtual-parameters-frontend/issues/16][Import Export feature for Virtual Parameters]] :Shulhi: :VirtualParameters:
   DEADLINE: <2018-08-03 Fri>
+
+* TODO [[https://github.com/plow-technologies/single-well-modbus-flexible/issues/27][Thread Blocked Indefinitely Modbus-Flexible]] :Michael: :Modbus:
+  DEADLINE: <2018-07-30 Mon>
+
+
+* TODO [[https://github.com/plow-technologies/simple-cell/issues/19][Relative Paths in Simple-Cell/Store]]

@@ -1,45 +1,42 @@
-* TODO Check on OnPing Website status
-  DEADLINE: <2018-07-03 Tue>
+* TODO Check on OnPing Website status                                :Update:
+  DEADLINE: <2018-08-13 Mon>
 * TODO Check on Video status 
-  DEADLINE: <2018-07-05 Thu>
+  DEADLINE: <2018-07-27 Fri>
 + Deposit paid
 + Script working 
++ Rough Cut next week
 * Marketing Meeting <2018-06-08 Fri>
-
-** TODO Formalize a Budget 
-   DEADLINE: <2018-07-03 Tue>
 
 ** TODO Decide how split up OnPing and Plow should be.
    DEADLINE: <2018-07-28 Sat>
 
 + How do I talk about OnPing From Plow
 
-
-** TODO OnPing page up
-   DEADLINE: <2018-07-09 Mon>
-
-
+** TODO [#B] OnPing page up
+   DEADLINE: <2018-07-24 Tue>
 ** TODO Shooting a video for OnPing 
    DEADLINE: <2018-09-08 Sat>
-
-** TODO Look over website
-   DEADLINE: <2018-07-03 Tue>
-
-** TODO Newsletter
-   DEADLINE: <2018-07-18 Wed>
-
-** TODO Request PSO Data
-   DEADLINE: <2018-07-05 Thu>
+** TODO 
 ** TODO Potential Automation Partners list
    DEADLINE: <2018-08-03 Fri>
-
-
-** TODO Page Ranking
-   DEADLINE: <2018-07-28 Sat>
-
-** TODO SOER Show
-   DEADLINE: <2018-07-03 Tue>
+** DONE Page Ranking
+   DEADLINE: <2018-07-13 Fri>
++ <2018-07-06 Fri> Still nothing on first page 
 * TODO Water Page Onping
   DEADLINE: <2018-07-28 Sat>
 
+
+
+* TODO Formalize a Budget 
+   DEADLINE: <2019-07-05 Fri>
+
+
+* TODO Booth Swag
+  DEADLINE: <2018-07-24 Tue>
+
+* TODO Signage for Booth
+* TODO One Sheet for Will
+  DEADLINE: <2018-07-20 Fri>
+* TODO Midland Show
+  DEADLINE: <2018-08-03 Fri>
 

@@ -11,8 +11,6 @@
 + Alarm List 
 + Register List and Register Address 
 + Local Ips for Wells
-* TODO Vitruvian FTP server for Scout
+* DONE Make requested changes to Scout FTP                        :DataEntry:
   DEADLINE: <2018-07-06 Fri>
-
-
-
+[[https://mail.google.com/mail/u/0/#inbox/1641de5013a2e6c0][Vitruvian changes]]

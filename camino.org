@@ -1,34 +1,20 @@
-* TODO need to add this Actuator Flow Setpoint 
-  DEADLINE: <2018-07-10 Tue>
+* TODO need to add this Actuator Flow Setpoint  :Jeremy:
+  DEADLINE: <2018-07-23 Mon>
 
 + 48 0 6 - Actuator Flow Setpoint 3000 
 
-* TODO Add virtual parameter for comm status :DataEntry:            :Kendall:
-  DEADLINE: <2018-07-10 Tue>
   
 * TODO Additional Training
-  DEADLINE: <2018-07-13 Fri>
-
-* TODO Add cycles today to Tom Horns :DataEntry:
-  DEADLINE: <2018-07-04 Wed>
-
-* TODO Add Arrivals today to Tom Horns                            :DataEntry:
-  DEADLINE: <2018-07-03 Tue>
+  DEADLINE: <2018-07-23 Mon>
 
 
 
+* TODO Abel, Cleburn, Tyler  : P2 info
+  DEADLINE: <2018-07-23 Mon>
++ Tubing Casing Pressure 
+ 
 
 
-
-* TODO Bob Welch Total Flow Work
-  DEADLINE: <2018-07-05 Thu>
-
-
-
-
-** TODO add flow rate to Tom Horn HMI
-   DEADLINE: <2018-07-03 Tue>
-
-** TODO Add Comingle screen to HMI 
-   DEADLINE: <2018-07-03 Tue>
+* TODO Make sure we get Josh's water hauler stuff done
+  DEADLINE: <2018-07-20 Fri>
 

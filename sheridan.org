@@ -4,7 +4,7 @@
 
 
 * TODO Big Spring Billing Stop 
-  DEADLINE: <2018-07-12 Thu>
+  DEADLINE: <2018-08-23 Thu>
 
 They still are polling from Sheridan Big Spring so
 I don't know if I should stop or not??
@@ -12,8 +12,3 @@ I don't know if I should stop or not??
 
 
 
-* TODO Bill for Alcorn Skid 
-  DEADLINE: <2018-07-10 Tue>
-+ Alcorn A 1-5 Skid 4
-+ First day June 4 (I think)
-+ Last day June 27

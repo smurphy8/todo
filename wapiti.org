@@ -1,10 +1,11 @@
 * TODO Data Map Creation for history import
-  DEADLINE: <2018-07-04 Wed>
+  DEADLINE: <2018-07-23 Mon>
 
 
 
 * TODO SCOUT Example
-  DEADLINE: <2018-07-09 Mon>
+  DEADLINE: <2018-08-11 Sat>
+
 
 
 
@@ -46,36 +47,11 @@
 
 
 
-* TODO Fergusson HMI Overview
-  DEADLINE: <2018-06-29 Fri>
 
 
-
-1.       Can we get the countdown timer for the next on time? (Plunger Run)?
-
-2.       The plunger times are in seconds. Can we convert them to minutes, or hours:minutes?
-
-3.       The valve open / close button appears to be on the B Valve. We don’t really care to much about the B valves, we would like this control on the A valve. (Valve just in front of the meter)
-
-4.       CT HI setpoint not necessary as we have not installed TLM’s
-
-5.       Can we add a button to toggle the well between auto and manual?
-
-6.       Can we add a button to start an on cycle.
-
-7.       Can we add a button to stop a running cycle?
-
-8.       Add plunger setpoints below HMI like the Pad Wells?
-
-9.       Trend Graph like the pad wells?
-
-
-
-
+* TODO Fergusson Can we get the countdown timer for the next on time? (Plunger Run)? :DataEntry:
 * TODO Lyhtem federal talking through the 485 port?
   DEADLINE: <2018-07-28 Sat>
-
-
 
 * TODO List of things <2018-05-26 Sat>
 
@@ -110,20 +86,95 @@
    DEADLINE: <2018-06-19 Tue>
 ** DONE Delete trends panel
    DEADLINE: <2018-06-19 Tue>
-** TODO Bill Wapiti+
-   DEADLINE: <2018-07-09 Mon>
+** DONE Bill Wapiti+
+   DEADLINE: <2018-07-19 Thu>
+
 ** TODO Christian HMI cleanup and Copy :DataEntry:
-   DEADLINE: <2018-07-06 Fri>
+   DEADLINE: <2018-07-30 Mon>
 + https://onping.plowtech.net/#/dashboard/add/5b17fb82dabef96901000008
-* TODO Writes API in onping
-  DEADLINE: <2018-07-10 Tue>
+* TODO Writes API in onping :BackLog:
+  DEADLINE: <2018-07-25 Wed>
+* TODO CFX file generation test 
+  DEADLINE: <2018-07-21 Sat>
+* DONE Add histories table                                        :DataEntry:
+  DEADLINE: <2018-07-17 Tue>
+* TODO Time stamp type for HMI :BackLog:
+  DEADLINE: <2018-07-25 Wed>
+* TODO Add historical data from Louisiana
+  DEADLINE: <2018-07-30 Mon>
+* TODO Get list of TODO for Seth
+* TODO Permissions problems with setpoints on custom table :CustomerAccessProblem:
+  DEADLINE: <2018-10-23 Tue>
+* TODO Get OnPing Comm fails throughout wapiti Riverbend :DataEntry:
+* TODO Reportable Virtual Parameters            :Daniel:BackLog:
+  DEADLINE: <2018-07-25 Wed>
+* DONE Ask about changing Wapiti OnPing Comm loss to use text email 
+  DEADLINE: <2018-07-17 Tue>
+* DONE Get Training itinerary to Corey 
+  DEADLINE: <2018-07-16 Mon>
 
-* TODO CFX file generation test
-  DEADLINE: <2018-07-10 Tue>
-* TODO Add histories table
-  DEADLINE: <2018-07-10 Tue>
-* TODO respond to Chris (power loss)
-  DEADLINE: <2018-06-28 Thu>
-* TODO Time stamp type for HMI 
-  DEADLINE: <2018-08-02 Thu>
+** Topics of Concern to Wapiti
+*** Setting up dashboards / HMI’s
+*** Re-doing landing page menus on the left of the screen to be more organized
+*** Setting up file FTP drop off on some frequency
+*** Re-mastering aliases
 
+** Training Itinerary
+*** <2018-07-25 Wed 7:30> Setting up HMI's in onping
++ Proper order of creation
++ Editing HMI 
++ exporting and importing HMI 
+*** <2018-07-25 Wed 8:30> Dashboard and Menu Creation 
+*** <2018-07-25 Wed 9:30> Data Sources and troubleshooting
+*** <2018-07-25 Wed 10:30> Virtual parameters and Masks
+*** <2018-07-25 Wed 11:30> Lunch
+*** <2018-07-25 Wed 13:30> Tag Aliasing and standards
+*** <2018-07-25 Wed 13:30> Tik stack planning
+*** <2018-07-25 Wed 14:30> Other feature updates
+
+** Address
+1310 W Sam Houston Parkway
+
+Houston, TX 77043
+
+[[https://goo.gl/maps/QNQKYeijvSx][Map]] 
+
+** [[https://mail.google.com/mail/u/1/#search/expedia/16490102385424be][Flight Info]]
+
+** To Houston
+ flight Departure Tue, Jul 24
+United 6111 operated by /MESA AIRLINES DBA UNITED EXPRESS
+Oklahoma City (OKC)
+6:50pm
+	flying to 	
+Houston (IAH)
+8:17pm
+
+Terminal: B
+ECONOMY
+Cabin: Economy / Coach (H)
+Show more
+
+1h 27m duration 
+
+** Back Home
+ United 6088 operated by /MESA AIRLINES DBA UNITED EXPRESS
+Houston (IAH)
+7:40pm
+Terminal: B
+	flying to 	
+Oklahoma City (OKC)
+9:08pm
+ECONOMY
+Cabin: Economy / Coach (U)
+Show more
+
+1h 28m duration 
+
+
+* TODO Peak AI contact info
+  DEADLINE: <2018-07-24 Tue>
+
+
+* Meeting on Names
+** TODO List of names

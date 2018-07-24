@@ -1,12 +1,11 @@
 
-* DONE Fix northridge comm fail 
-  DEADLINE: <2018-06-28 Thu>
+* TODO gas data analysis needs to have 3 decimals and sum to 1 
+  DEADLINE: <2018-07-23 Mon>
 
-* DONE Fix too many Rogers 7 locations 
-  DEADLINE: <2018-06-28 Thu>
+I checked at the Northridge 2 tie in and they sum to 99.999+
 
-* TODO Fix too many valiant sites
-  DEADLINE: <2018-07-03 Tue>
-There is a Rogers 2 and a Rogers 
-* TODO data analysis needs to have 3 decimals and sum to 1
-  DEADLINE: <2018-07-10 Tue>
++ Need to drop truncate mask
+
+* TODO [#B] Get tech doc to Permian
+  DEADLINE: <2018-07-20 Fri>
+

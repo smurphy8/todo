@@ -1,14 +1,8 @@
-* TODO Virtual Parameter Tests 
-  DEADLINE: <2018-07-06 Fri>
-Need to enable the full test suite on the virtual parameter jenkins build.
-
-
-
 * TODO Fix Authorization in onping-pricing 
-  DEADLINE: <2018-07-06 Fri>
+  DEADLINE: <2018-08-09 Thu>
 
 * TODO Get Scotts new alarm coordinator launched
-  DEADLINE: <2018-06-30 Sat>
+  DEADLINE: <2018-07-23 Mon>
 
 * TODO Run swap in ATS
   :PROPERTIES:
@@ -30,38 +24,22 @@ Need to enable the full test suite on the virtual parameter jenkins build.
    DEADLINE: <2018-04-03 Tue>
 
 * TODO Get Attorney
-  DEADLINE: <2018-07-05 Thu>
-
+  DEADLINE: <2018-08-06 Mon>
 :PROPERTIES:
 :orgtrello-id: 5aa2eb3f5a5c045af6db0be1
 :orgtrello-local-checksum: f4813d38da6ab273c8480e8c590eb122f8bd6b3f92ab0d03dd49e423c43cbc14
 :END:
   DEADLINE: <2018-03-07 Wed>
-
-* TODO Bill out for Skids (we should do this quarterly ) 
-  DEADLINE: <2018-06-29 Fri>
-
-* TODO Single-well Manual Data at each site :Valiant: :DataEntry:
+* TODO Single-well Manual Data at each site :Valiant:             :DataEntry:
   DEADLINE: <2018-08-03 Fri>
-
 * TODO Single-well manual switcher is needed :Project:
-  DEADLINE: <2018-07-17 Tue>
-
-* TODO Comm fail Valiant :DataEntry:
-  DEADLINE: <2018-07-10 Tue>
-
-* TODO Follow up on Job Sheet stuff 
-  DEADLINE: <2018-07-05 Thu>
-
+  DEADLINE: <2018-07-24 Tue>
+* DONE Follow up on Job Sheet stuff 
+ DEADLINE: <2018-07-16 Mon>
 * TODO Colorado Wells update
-  DEADLINE: <2018-07-28 Sat>
-
-
+  DEADLINE: <2018-08-16 Thu>
 * TODO Follow up with Bud
   DEADLINE: <2018-08-02 Thu>
-
-* TODO Add Gulfport Special Call order
-
 * TODO Comm Fails
 ** Citizen
 + Kaylor
@@ -83,17 +61,12 @@ Need to enable the full test suite on the virtual parameter jenkins build.
 + Make Visible 
 + Low RPMS
 
-* TODO Tax Return Documents :Personal:
-  DEADLINE: <2018-07-04 Wed>
-
-
-
 * TODO Reptech Schaefer Transfer Drive Enclosure Project
   DEADLINE: <2018-07-31 Tue>
 
 
-* TODO Sell Seth's old truck
-  DEADLINE: <2018-07-09 Mon>
+* DONE Sell Seth's old truck
+  DEADLINE: <2018-07-12 Thu>
 
 
 
@@ -105,9 +78,59 @@ Need to enable the full test suite on the virtual parameter jenkins build.
 
 
 
-* TODO Get more quickbooks users 
-  DEADLINE: <2018-07-06 Fri>
 
-* TODO github issue pruning
-  DEADLINE: <2018-07-03 Tue>
+* DONE Follow up with John Brown at Orion
+  DEADLINE: <2018-07-16 Mon>
+
+* DONE Make specification and questions for Tim Dysenger tomorrow    :Hiring:
+  DEADLINE: <2018-07-12 Thu>
+
+
+* TODO Construct new timelines :Business:
+  DEADLINE: <2018-07-23 Mon>
+
+* TODO make broken alarm to check James stuff :Blocking:
+  DEADLINE: <2018-07-21 Sat>
+
++ <2018-07-11 Wed> Couldn't do this because I don't see it
+
+
+`
+
+* TODO Conference Room for meeting 
+  DEADLINE: <2018-07-23 Mon>
+
+
+* TODO Brad Truck Status 
+  DEADLINE: <2018-07-23 Mon>
+
+
+
+* Ledger Project Todos
+
+** TODO Create transforms for backoffice types
+   DEADLINE: <2018-07-30 Mon>
+
++ Inventory Locations -> Accounts
++ Parts -> Commodities
++ Products -> Commodities
++ Customers -> Accounts
++ Vendors -> Accounts
++ Expense  
++ Income
+*** Customer Accounts
++ Per Customer Pending
++ Per Customer Receivable
+
+*** Vendor Accounts
++ Per Vendor Pending
++ Per Vendor Payable
+
+  
+** TODO Workflow
+   DEADLINE: <2018-07-26 Thu>
+
+
+  
+
 
