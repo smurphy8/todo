@@ -1,2 +1,2 @@
-* TODO Chad Scanning problems 
-  DEADLINE: <2018-07-30 Mon>
+* DONE Chad Scanning problems 
+  DEADLINE: <2018-10-07 Sun>

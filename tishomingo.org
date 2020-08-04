@@ -1,4 +1,4 @@
-* TODO Fix Tish Dashboard problem
+* DONE Fix Tish Dashboard problem
   DEADLINE: <2018-07-05 Thu>
 + https://onping.plowtech.net/#/52e2c4a55b8f061e48000016
 + https://github.com/plow-technologies/onping2.0/issues/1344

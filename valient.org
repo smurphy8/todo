@@ -1,11 +1,2 @@
-
-* TODO gas data analysis needs to have 3 decimals and sum to 1 
-  DEADLINE: <2018-07-23 Mon>
-
-I checked at the Northridge 2 tie in and they sum to 99.999+
-
-+ Need to drop truncate mask
-
-* TODO [#B] Get tech doc to Permian
-  DEADLINE: <2018-07-20 Fri>
-
+* DONE Single-well Manual Data at each site :Valiant:             :DataEntry:
+  DEADLINE: <2018-09-10 Mon>

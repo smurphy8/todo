@@ -1,5 +1,5 @@
-* DONE New Dashboard for Brian :DataEntry:                             :Jack:
-  DEADLINE: <2018-06-05 Tue>
-Can I get a dashboard created for Brian at S&S? He wants to see the discharge pressure, flow rate, and temperature from the Lightener 1&2 and Lightener 3&4.
+* DONE Work up spec for Hwy 29
+  DEADLINE: <2018-12-19 Wed>
+* DONE Get contact for Hwy 29 
+  DEADLINE: <2018-12-19 Wed>
 
- 

@@ -1,20 +1,35 @@
-* TODO need to add this Actuator Flow Setpoint  :Jeremy:
-  DEADLINE: <2018-07-23 Mon>
+* DONE Come up with Flowback -> Production checklist
+  DEADLINE: <2019-03-18 Mon>
 
-+ 48 0 6 - Actuator Flow Setpoint 3000 
+* DONE Add Average for tubing casing static
+  DEADLINE: <2019-12-09 Mon>
 
-  
-* TODO Additional Training
-  DEADLINE: <2018-07-23 Mon>
+* TODO add Min Max Average 
+* Cardinal Data Share
+** DONE Get Virtual Lumberjack made
+   DEADLINE: <2019-02-28 Thu>
+** DONE Get Merrick ID list made 
+   DEADLINE: <2019-02-28 Thu>
+** DONE Build Sales meter single well manual locations
+   DEADLINE: <2019-02-28 Thu>
+** TODO pull data from FTP
+** DONE parse data and send to pid
+** TODO Create Spot report data for Cardinal outgoing
+** TODO Create Spot report data for historical outgoing
+** DONE Get orifice data added
+   DEADLINE: <2019-03-13 Wed>
+** DONE Get analysis data added
+   DEADLINE: <2019-03-13 Wed>
+** DONE Get outgoing folder name changed to CaminoResources (if not done)
+   DEADLINE: <2019-03-13 Wed>
+** DONE Finish reviewing EULA
+   DEADLINE: <2019-08-27 Tue>
+** DONE Corterra MSA
+   DEADLINE: <2019-03-25 Mon>
+* DONE [[https://mail.google.com/mail/u/0/#inbox/FMfcgxwChJjpkqPcTtCkvFWXlZppjTdK][P2 meeting]]
+  DEADLINE: <2019-06-20 Thu>
+* TODO Jack David, Jackson
 
 
-
-* TODO Abel, Cleburn, Tyler  : P2 info
-  DEADLINE: <2018-07-23 Mon>
-+ Tubing Casing Pressure 
- 
-
-
-* TODO Make sure we get Josh's water hauler stuff done
-  DEADLINE: <2018-07-20 Fri>
+wear pattern on stick
 

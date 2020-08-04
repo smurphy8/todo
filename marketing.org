@@ -1,42 +1,24 @@
-* TODO Check on OnPing Website status                                :Update:
-  DEADLINE: <2018-08-13 Mon>
-* TODO Check on Video status 
-  DEADLINE: <2018-07-27 Fri>
-+ Deposit paid
-+ Script working 
-+ Rough Cut next week
-* Marketing Meeting <2018-06-08 Fri>
+* TODO Write a Post on Making Automation Easy
+  DEADLINE: <2020-07-29 Wed>
+* TODO Write a Post on Making Code Safe
+  DEADLINE: <2020-08-11 Tue>
+* DONE Get someone to fix the company blog
+  DEADLINE: <2020-06-29 Mon>
 
-** TODO Decide how split up OnPing and Plow should be.
-   DEADLINE: <2018-07-28 Sat>
-
-+ How do I talk about OnPing From Plow
-
-** TODO [#B] OnPing page up
-   DEADLINE: <2018-07-24 Tue>
-** TODO Shooting a video for OnPing 
-   DEADLINE: <2018-09-08 Sat>
-** TODO 
-** TODO Potential Automation Partners list
-   DEADLINE: <2018-08-03 Fri>
-** DONE Page Ranking
-   DEADLINE: <2018-07-13 Fri>
-+ <2018-07-06 Fri> Still nothing on first page 
-* TODO Water Page Onping
-  DEADLINE: <2018-07-28 Sat>
+* DONE [[file:~/notes/blog-posts/][Finih a blog post]]
+  DEADLINE: <2020-07-15 Wed>
 
 
 
-* TODO Formalize a Budget 
-   DEADLINE: <2019-07-05 Fri>
-
-
-* TODO Booth Swag
-  DEADLINE: <2018-07-24 Tue>
-
-* TODO Signage for Booth
-* TODO One Sheet for Will
-  DEADLINE: <2018-07-20 Fri>
-* TODO Midland Show
-  DEADLINE: <2018-08-03 Fri>
-
+* TODO [#B] Case Studies
+  DEADLINE: <2020-08-05 Wed>
+* TODO Basic Trac
+  DEADLINE: <2020-08-06 Thu>
+* TODO Companies to Add to CRM
+  DEADLINE: <2020-08-05 Wed>
+** TODO Dimmit County SWD
+** TODO E2 Operating
+** TODO Eagle Energy
+** TODO F&S Energy LLC
+** TODO Kalkman Oil
+** TODO Kirkpatrick Oil

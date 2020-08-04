@@ -1,14 +1,3 @@
-* TODO Data Map Creation for history import
-  DEADLINE: <2018-07-23 Mon>
-
-
-
-* TODO SCOUT Example
-  DEADLINE: <2018-08-11 Sat>
-
-
-
-
 * User Group
 | Name	E-mail 1 - Value                         |                             |   |   |
 | Aaron Diek	                                   | aaron@toptal.com            |   |   |
@@ -48,133 +37,24 @@
 
 
 
-
-* TODO Fergusson Can we get the countdown timer for the next on time? (Plunger Run)? :DataEntry:
-* TODO Lyhtem federal talking through the 485 port?
-  DEADLINE: <2018-07-28 Sat>
-
-* TODO List of things <2018-05-26 Sat>
-
-
-* TODO Wapiti Louisiana
-** DONE Add Bay Batiste to wapiti louisiana                       :DataEntry:
-   DEADLINE: <2018-06-06 Wed>
-
-
-
-*** Manilla Village 
-+ 3 Scanners 
-+ 2 total flows
-
-**** DONE Check that polling is going smoothly 
-     DEADLINE: <2018-06-07 Thu>
-
-
-*** Bay babtiste
-+ HP Bolt 
-+ HP Test
-+ LP Test 
-
-**** TODO Compressor Discharge
-
-
-* Meeting <2018-06-14 Thu>
-
-** DONE Move trends under hmi 
-   DEADLINE: <2018-06-19 Tue>
-** DONE Make sure trends match trends in 11-19-9-19
-   DEADLINE: <2018-06-19 Tue>
-** DONE Delete trends panel
-   DEADLINE: <2018-06-19 Tue>
-** DONE Bill Wapiti+
-   DEADLINE: <2018-07-19 Thu>
-
-** TODO Christian HMI cleanup and Copy :DataEntry:
-   DEADLINE: <2018-07-30 Mon>
-+ https://onping.plowtech.net/#/dashboard/add/5b17fb82dabef96901000008
-* TODO Writes API in onping :BackLog:
-  DEADLINE: <2018-07-25 Wed>
-* TODO CFX file generation test 
-  DEADLINE: <2018-07-21 Sat>
-* DONE Add histories table                                        :DataEntry:
-  DEADLINE: <2018-07-17 Tue>
-* TODO Time stamp type for HMI :BackLog:
-  DEADLINE: <2018-07-25 Wed>
-* TODO Add historical data from Louisiana
-  DEADLINE: <2018-07-30 Mon>
-* TODO Get list of TODO for Seth
-* TODO Permissions problems with setpoints on custom table :CustomerAccessProblem:
-  DEADLINE: <2018-10-23 Tue>
-* TODO Get OnPing Comm fails throughout wapiti Riverbend :DataEntry:
-* TODO Reportable Virtual Parameters            :Daniel:BackLog:
-  DEADLINE: <2018-07-25 Wed>
-* DONE Ask about changing Wapiti OnPing Comm loss to use text email 
-  DEADLINE: <2018-07-17 Tue>
-* DONE Get Training itinerary to Corey 
-  DEADLINE: <2018-07-16 Mon>
-
-** Topics of Concern to Wapiti
-*** Setting up dashboards / HMI’s
-*** Re-doing landing page menus on the left of the screen to be more organized
-*** Setting up file FTP drop off on some frequency
-*** Re-mastering aliases
-
-** Training Itinerary
-*** <2018-07-25 Wed 7:30> Setting up HMI's in onping
-+ Proper order of creation
-+ Editing HMI 
-+ exporting and importing HMI 
-*** <2018-07-25 Wed 8:30> Dashboard and Menu Creation 
-*** <2018-07-25 Wed 9:30> Data Sources and troubleshooting
-*** <2018-07-25 Wed 10:30> Virtual parameters and Masks
-*** <2018-07-25 Wed 11:30> Lunch
-*** <2018-07-25 Wed 13:30> Tag Aliasing and standards
-*** <2018-07-25 Wed 13:30> Tik stack planning
-*** <2018-07-25 Wed 14:30> Other feature updates
-
-** Address
-1310 W Sam Houston Parkway
-
-Houston, TX 77043
-
-[[https://goo.gl/maps/QNQKYeijvSx][Map]] 
-
-** [[https://mail.google.com/mail/u/1/#search/expedia/16490102385424be][Flight Info]]
-
-** To Houston
- flight Departure Tue, Jul 24
-United 6111 operated by /MESA AIRLINES DBA UNITED EXPRESS
-Oklahoma City (OKC)
-6:50pm
-	flying to 	
-Houston (IAH)
-8:17pm
-
-Terminal: B
-ECONOMY
-Cabin: Economy / Coach (H)
-Show more
-
-1h 27m duration 
-
-** Back Home
- United 6088 operated by /MESA AIRLINES DBA UNITED EXPRESS
-Houston (IAH)
-7:40pm
-Terminal: B
-	flying to 	
-Oklahoma City (OKC)
-9:08pm
-ECONOMY
-Cabin: Economy / Coach (U)
-Show more
-
-1h 28m duration 
-
-
-* TODO Peak AI contact info
-  DEADLINE: <2018-07-24 Tue>
-
+* DONE Reportable Virtual Parameters                         :Daniel:BackLog:
+  DEADLINE: <2019-09-21 Sat>
 
 * Meeting on Names
 ** TODO List of names
+
+* Test Location for Fergusson
+23 30 9 19
+
+* DONE Get CFX files to Ian and spl
+  DEADLINE: <2018-11-05 Mon>
+
+* DONE [#B] Send ticket for repair at STX
+  DEADLINE: <2019-05-30 Thu>
+* DONE GWR checkup
+  DEADLINE: <2019-04-26 Fri>
+* DONE Wapiti Chemical Parameter 
+  DEADLINE: <2019-09-20 Fri>
+* TODO Locally on lumberjack sync 
+* DONE Finish FTP 
+  DEADLINE: <2019-08-27 Tue>

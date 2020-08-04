@@ -1,1 +1,5 @@
 * TODO Tishomingo Parameters Prep
+* DONE Add Paragraph for spec
+  DEADLINE: <2019-04-25 Thu>
+* DONE AXIS P3375-LV Network Camera
+  DEADLINE: <2019-09-14 Sat>
