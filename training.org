@@ -1,0 +1,85 @@
+#+OPTIONS: toc:nil        no default TOC at all
+#+OPTIONS: num:nil
+
+* DONE Respond to Francis Tuttle
+  DEADLINE: <2018-11-08 Thu>
+
+* DONE Come up with Bullet point list of possible training topics
+  DEADLINE: <2018-11-06 Tue>
+
+
+
+* 45 Day Training goals 
+** General Procedure Understanding
++ Time sheets
++ expenses
++ Ticket System Overview
++ Where to find answers in Dropbox
+
+** Safely Navigate a Well site
++ Know danger points
++ Know where to park 
++ Know what to wear
++ Familiar with moving around a site
+
+** Electrical Safety
++ Lock-out Tag-out
++ Finding where main power is coming in
+
+** Download and upload familiarity in
++ 850
++ ABB TotalFlow
++ Roc
+
+** Electrical and Electronics
++ Meter work (Current and voltage)
++ Loop calibration
++ Circuit Tracing
++ Wiring Power for devices
++ Checking load on devices
++ Understand relay logic
+
+** Other work procedures
++ Calibration in Total Flow
++ Scaling Transducers
++ Setting up Radars
+
+** Other equipment familiarity 
++ Oleumtech systems
++ Rosemont systems
++ IDEC PLCs ?
++ GE PLCs ?
++ Bristol ?
+
+
+* Continuing Training (45 days to 1 year)
+
+There are several specialization tracks people can end up on 
+and continuing training involves moving people from one to another.
+
+The important part of this period is making sure that a 
+new employee becomes very skilled in some portion of our work here
+
+** Calibration and Measurement 
+This track usually means doing calibrations sampling 
+for ABB total flows.  This work is usually done on a solo basis for the 
+employee.  It is a good opportunity to really master something here.
+
+In the past employees who have been doing this work have gained a high 
+level of experience with ABB equipment.  A natural next step is installs
+of ABB equipment.
+** New Install and Completion 
+This track is a tech who ends up working with a more senior tech for a while
+often times this happens when there is a very large project ongoing.  It generally 
+means learning a lot about 1 customer and a more varied set of 
+
+* Continuing Training (1 to 2 year)
+
+If someone has been doing Calibration and Measurement we really want them moving over and 
+doing some installs and completions on more general automation equipment.
+
+If people have been doing installs and completions lets get them programming.
+At least ladder logic for IO and maybe also some comms.
+
+
+

@@ -1,0 +1,58 @@
+* jpvillaisaza
+<2019-12-12 Thu> 
+Yesterday I worked on fixing Excel spot reports for templates with formulas which then didn't work as expected in the generated report, 
+and today I've been working on some of the remaining issues for control parameters (I completed the feature for 
+testing control parameters with the new endpoint, and will take a look at enabling/disabling or deleting, 
+though I haven't been able to create control parameters locally, I'm missing a config file).
+
+* daniel-diaz
+<2019-12-12 Thu>
+ 
+* Diego
+<2019-12-12 Thu>
+I am working on connecting sw-controllogix to tachdb using the pubsub library. Right now I am working on a new insert algorithm for TachDB to improve the situation with single value inserts.
+
+Hey guys, I likely miss today's meeting because I have my daughter's Christmas presentation at her school. I've been working on bugs on the CP page mostly. 
+We've been using this issue https://github.com/plow-technologies/all/issues/3068 to track all the bugs and missing features and now it's close to done. I'm going to keep working on it today.
+
+* fmape
+<2019-12-12 Thu> 
+@smurphy I merged a PR that I think should fix the fits @brent has had with permissions. Essentially, I stripped out the big code-blobs of permission checks in each handler, and replaced them all  with calls to a small set of helpers, which are in turn just thin wrappers around one helper, that implements permissions for control parameters. I encountered several bugs as I was ripping out the blobs, so I'm not surprised there were issues
+Hopefully this fixes things
+Basically, to read CPs, you need to be able to read their input and output locations, and to write a CP you also need to be able to write its output location
+where "writing" a CP means adding/modifying/deleting it, but also manually triggering writes
+
+* scott.fleischman
+<2019-12-12 Thu>
+Finishing up my PR. Very close to done if not done. Most of the test failures turned out to be spurious.The only difference in 
+JSON serialization was in the order of object fields. I spent some time looking around to see if there was a JSON library that 
+would parse JSON only at the very first level so that we could compare those kinds of things. hw-json was pretty close but it 
+was also pretty complicated and depended on various other hw-* code that I was not familiar with and didn't appear obvious that 
+I could get what I wanted out of it. I think the idea of having a primitive JSON parser for doing more finer-grained comparison 
+of JSON files (especially with our golden files) would be useful. Probably some basic thing with megaparsec with bytestrings for all values, 
+so you are only distinguishing the basic JSON type structure (objects, strings, numbers) but preserve whitespace and the exact bytes of numbers, etc.
+The alarmstate test failures were mostly due to catching errors getting logged that popped up when the on-call person was Nothing. 
+So that's kind of a good sign we will get some errors at some places. For those tests, I just made sure the generated AlarmRunner 
+had an on-call person and there was no more failures.Did you still want to log every alarm that hits alarmstate that is active and 
+has no on-call person with an empty call list? @smurphy  I think we need to make sure the call list is indeed empty or else that will happen for email-only alarms.
+
+* Lex
+<2019-12-12 Thu>
+I'm working on the frontend for disabling alarm clear calling.
+
+* mchaver  
+<2019-12-12 Thu>
+
+I am finishing up the total flow form today, almost there. One question @jeremy should we require a password in the form or let it be optional?
+
+* Kevin Cotrone  
+<2019-12-12 Thu>
+
+I've written most of the code for the api update. Going to try to get that out today with documentation and then I'll start on the frontend portion
+
+* michaelsewell  
+Did a bunch of kiosk testing yesterday which led to some onping-api updates/additions. Didnt get to work on historical spot reports too much, but still made a bit of progress on the UI
+
+* jeremy  
+@smurphy I am investigating a bug in Roc TLP with the polling where it causes a failure everytime there are more than 50 parameters being polled. 
+Apparently there were 5 places where we had threadDelay called at different places that were attempts to fix the issue, and those compound to make longer poll times.

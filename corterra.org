@@ -1,0 +1,19 @@
+* TODO Import historical values 
+  DEADLINE: <2018-09-21 Fri>
+
+* TODO Split all locations
+  DEADLINE: <2018-09-06 Thu>
+
+
+* DONE Follow up with Jack about meeting
+  DEADLINE: <2018-10-31 Wed>
+
+* TODO Rambo 2
+  DEADLINE: <2018-11-03 Sat>
+
+* TODO Make sure rtu-client 'NoData' Rejection gets finished
+  DEADLINE: <2018-12-17 Mon>
+
+* TODO Add solar panel quote 
+  DEADLINE: <2019-03-06 Wed>
+

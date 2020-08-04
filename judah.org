@@ -1,0 +1,16 @@
+* DONE Get Kiosk for quote
+  DEADLINE: <2019-01-02 Wed>
+
+* DONE Finish Kiosk Outline
+  DEADLINE: <2019-02-15 Fri>
+
+
+* DONE [[https://mail.google.com/mail/u/0/#inbox/QgrcJHrnvrNshThKxdmDfdnpWwrNQtkpTKB][Company Info]]
+  DEADLINE: <2019-05-20 Mon>
+
+* DONE [[https://mail.google.com/mail/u/0/#search/support%40fdc.io/FMfcgxwCggBFmdVVzXPMDwQCSrlZDDWQ][Sign paperwork]]
+  DEADLINE: <2019-06-11 Tue>
+
+* DONE Finish HMI
+  DEADLINE: <2019-06-07 Fri>
+

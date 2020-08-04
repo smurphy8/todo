@@ -1,0 +1,9 @@
+* TODO [[https://onping.zendesk.com/hc/en-us][Pick 1 zendesk sheet]]
+  DEADLINE: <2020-07-30 Thu>
+
+* DONE Get rid of company names [[https://onping.zendesk.com/hc/en-us/articles/360018416752-Adding-a-New-Controllogix-Location][Control Logix]]
+  DEADLINE: <2019-03-19 Tue>
+
+* DONE make a peek document view thing for issue gifs
+  DEADLINE: <2018-12-11 Tue>
+

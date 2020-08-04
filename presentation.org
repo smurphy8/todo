@@ -1,0 +1,21 @@
+
+
+
+
+* TODO What are they looking for?
+
+* TODO Device Management
+* TODO Dashboard Organization 
++ Panel
++ Content Area 
++ Widget
++ Almost everything is  a dashboard
+* TODO 
+
+* OEM Corrogated Equipment
++ Lots of Machines
++ Many Brands 
+
+
+* Few 100 
+50 - 100 

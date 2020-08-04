@@ -1,0 +1,9 @@
+A list of topics to discuss in future standups
+* TODO Dev-Side Prioritization
+* TODO Better parsing and systems on the frontend
+* TODO A look through competitors systems and equipment.
+* TODO Dev setups 
+* TODO Performance and Demo
+* TODO Other tools and methods of doing things
+* TODO Permissions
+* TODO Future Projects

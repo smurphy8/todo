@@ -1,0 +1,90 @@
+#+OPTIONS: toc:nil        no default TOC at all
+#+OPTIONS: num:nil
+
+Scott Murphy <scott.murphy@plowtech.net>
+	
+Mon, Jan 28, 9:54 AM (3 days ago)
+	
+to SChoat, CChambers, Tobi, Andrew, Kendall, Chad, Brent
+Hi,
+
+I haven't had a chance to meet you yet but hopefully I will soon.  I am one of Tobi's partners and handle a lot of the SCADA and Ticket stuff. 
+
+We have prepared a set of questions that we have found make helping our customers more efficient.  It is a lot to throw out at once so feel free to answer when you can.
+
+Also, as we get onping going I am sure you will want some training on it.  We are more than happy to come out and do training sessions free of charge.  So just let me know when and where would be convenient for you. 
+
+Thank you!
+
+---
+New Customer Checklist
+Field Info
+* Points of Contact
+**  Do you plan on having multiple call routes for alarms?
++ First call is Pumper, 
++ Then Lead Pumper/tech, 
++ Last call foreman Cary Zarvona
+**  Is there a naming scheme for the routes you would like to use?
++ Verden Route 5
+** Are there field supervisors or other people our field techs should know to get a hold of for different regions?
++ Call Cary
+** Who can call us out directly for work?
++ Just Cary
+
+* General Info
+
+** Ticket Procedure
+
+*** Who are people can sign tickets?
+Cary
+*** What tickets are they allowed to sign?
+Cary
+*** Are you okay with electronic tickets?
+Yes, email Cary
+* Accounts Payable
+
+** Who should we get a hold of to check on invoices and other payment issues?
+** What is the best way of getting a hold of them?
+** Do you use open invoice or any other electronic submission system?
+
+* OnPing Specific
+
+The lists below just represent useful defaults feel free to add or change to anything!
+** Meta Data
+
+*** Name of Company as you would like it in OnPing
+Zarvona Energy
+
+** Read Data
+
+For a gas well we would normally pull the following parameters.
+
+    Flow Rate
+    Todays Accumulated Volume
+    Yesterdays Volume
+    Total Volume
+    Differential Pressure
+    Static Pressure
+    Temperature
+    Battery Voltage
+
+Writable Data
+
+    Orifice Plate
+    Device Clock
+    Analysis Data
+
+Needed Alarms
+* Alarm Name	Alarm Type
+Zero Flow Rate	Call,Email,Text
+High Static Pressure	Call,Email,Text
+Comm Failure	Call,Email,Text
+Data Integration
+
+* Are there Accounting systems we need to send data to or from?
+* Are there any other software programs we will be working with?
+
+---
+* TODO Figure out about training on Wednesday
+  DEADLINE: <2019-04-22 Mon>
+
