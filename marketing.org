@@ -1,7 +1,7 @@
-* TODO Write a Post on Making Automation Easy
+* DONE Write a Post on Making Automation Easy
   DEADLINE: <2020-07-29 Wed>
 * TODO Write a Post on Making Code Safe
-  DEADLINE: <2020-08-11 Tue>
+  DEADLINE: <2021-09-04 Sat>
 * DONE Get someone to fix the company blog
   DEADLINE: <2020-06-29 Mon>
 
@@ -9,16 +9,3 @@
   DEADLINE: <2020-07-15 Wed>
 
 
-
-* TODO [#B] Case Studies
-  DEADLINE: <2020-08-05 Wed>
-* TODO Basic Trac
-  DEADLINE: <2020-08-06 Thu>
-* TODO Companies to Add to CRM
-  DEADLINE: <2020-08-05 Wed>
-** TODO Dimmit County SWD
-** TODO E2 Operating
-** TODO Eagle Energy
-** TODO F&S Energy LLC
-** TODO Kalkman Oil
-** TODO Kirkpatrick Oil

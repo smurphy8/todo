@@ -21,3 +21,23 @@ for UTI's internal control mistatements and defendants largely concede this.
 Contrary to defendants assertions, plaintiffs explciitly plead that defendants mistatements violated item 303.  Moreover, the standards
 are similar. [Address defendants intent to deceive language]
 
+* Birthday checklist
+
+** DONE Figure out what day her birthday and valentines are
++ <2021-02-14 Sun> Valentines Day
++ <2021-02-15 Mon> Birthday
+** DONE Clear a space in your closet to stash presents
+   DEADLINE: <2021-01-27 Wed>
+** DONE Get Chocolates (good ones)
+   DEADLINE: <2021-01-27 Wed>
+** DONE Get Grape Nuts
+   DEADLINE: <2021-01-27 Wed>
+** DONE Possible Presents   
+   DEADLINE: <2021-01-28 Thu>
++ Wines 
++ Cheese
++ Olives 
++ Bread
++ new phone?
+
+

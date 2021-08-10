@@ -10,7 +10,7 @@
 ** TODO Store config names in non remote server so renaming can be done quickly 
 
 * Jordan wants the report sent on an email thread instead of individually [[https://mail.google.com/mail/u/0/#inbox/1653425408d3fbd4][(I already let him know you were looking in to this)]] :Michael:
-  DEADLINE: <2020-08-20 Thu>
+  DEADLINE: <2021-09-01 Wed>
 
 
 
@@ -20,12 +20,12 @@
   
 
 * TODO CFX Specs
-  DEADLINE: <2021-04-29 Thu>
+  DEADLINE: <2021-08-12 Thu>
 ** TODO [[https://mail.google.com/mail/u/0/#search/CFX/16543b86e322e6dc][CFX Viewer]]                                           :CFX:Lumberjack:
-   DEADLINE: <2021-04-29 Thu>
+   DEADLINE: <2021-08-12 Thu>
 CFX viewer should be able to read a file that is saved as a CFX 5 or CFX 7 file format
 ** TODO [[https://mail.google.com/mail/u/0/#search/CFX/16543b86e322e6dc][CFX Writer]]                                           :CFX:Lumberjack:
-   DEADLINE: <2021-04-29 Thu>
+   DEADLINE: <2021-08-12 Thu>
 Create a data type that when filled can be used to generate a cfx 5 or cfx 7 file.
 
 Also create the functions to do this creating.  It should be readable by our reader.
@@ -35,8 +35,8 @@ As well as CFX view, the default file reader.
 
 
    
-* TODO [#B] Finish implementing Mass writes system
-  DEADLINE: <2020-11-29 Sun>
+* DONE Talk To Brennan about  implementing Mass writes system
+  DEADLINE: <2021-06-25 Fri>
 A cool idea would be to add a dhall template system to the mass updates need to look at this idea more later 
 
 
@@ -56,6 +56,6 @@ g x = x x
 * TODO  Add single-well remote spec
 
 * TODO Separate Control Logix, Micrologix, Compact Logix
-  DEADLINE: <2020-07-30 Thu>
+  DEADLINE: <2022-04-02 Sat>
 
 

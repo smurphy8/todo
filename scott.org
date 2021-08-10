@@ -1,9 +1,7 @@
 * TODO Loan Payment
-  DEADLINE: <2020-08-14 Fri>
-* TODO [[/home/scott/notes/professional-journal/year-2020/record.org][Journal Entry]]
-  DEADLINE: <2020-07-23 Thu>
+  DEADLINE: <2021-08-26 Thu>
 * TODO [[https://mail.google.com/mail/u/0/#search/lufkin/FMfcgxwJWjCrfGQsLKczWZZbpDXwJCQZ][Lufkin registers ]]
-  DEADLINE: <2020-08-05 Wed>
+  DEADLINE: <2022-05-12 Thu>
 
 Well Status 	
 Time Elapsed in Well State (Hrs) 	
@@ -35,209 +33,167 @@ Surface Single Card Scaled Max Load
 Surface Single Card Scaled Minimum Load 	
 Surface Single Card Stroke Length 	
 Surface Single Card Stroke Period 	
-* TODO Finish PCA Optimization
-  DEADLINE: <2021-06-30 Wed>
-* TODO Respond to Art on [[https://onping.zendesk.com/agent/tickets/260][260]] about import not working everywhere.
-* TODO Check windows dhall haskell status 
-  DEADLINE: <2020-08-20 Thu>
 * TODO REview this https://github.com/plow-technologies/plc-identify/blob/master/Main.hs
-* TODO Zephyr David Johnson 405 286 4775
-* TODO Lori Dankenbring check on kiosk status
-  DEADLINE: <2020-10-29 Thu>
-* TODO Tickets Cobalt
-* TODO Go over categorization with Chad
-+ Need things tagged "fixed costs"
-+ Need a one place to look
-* TODO [#B] Go over json-schema
-  DEADLINE: <2020-08-14 Fri>
-* TODO Test Pulse Card 
-  DEADLINE: <2020-08-29 Sat>
+  DEADLINE: <2022-07-26 Tue>
+* TODO Test Pulse Card ✓
+  DEADLINE: <2021-10-26 Tue>
 + Test power on
 + Test Programming
-* TODO someone to check Chad’s work/more active AR (delegated to new accountants)
-* TODO  questions and calls about warranty work (goes to Andrew)
-* TODO  Tobi needs to work more on existing customer sales
-* TODO Garett needs to continue to delegate
-* TODO  Scott, Garett, Atlee, and Tobi to handle sales/market research 
-* TODO Chad and Alicia to prepare more customer reports 
-* TODO having developers prepare onping feature/re-write plans
-* TODO Junior handles more quality control site checks; talk to Andrew about appropriate aspirational number of sites per week/month
-* TODO have Johnny manage Att bill— have Andrew handle truck management Hire sales developer from Automation X 
-* TODO (to happen when balance sheets are in order; probably January 2021 ish)
 * TODO Create new driver features
-  DEADLINE: <2020-07-30 Thu>
+  DEADLINE: <2021-09-12 Sun>
 ** Enable and Disable polling
 ** Sites go inactive insted of disappearing.
-* TODO [[https://mail.google.com/mail/u/0/#inbox/FMfcgxwHNgldmPNcbnFwWZzKHzQLvdNx][Bison Gulfport Access]]
-  DEADLINE: <2020-08-14 Fri>
-* TODO [[https://mail.google.com/mail/u/0/#inbox/FMfcgxwHNCwHbTBCHGNkFfnGZCbbZTsv][Bison Booster (lumberjack remote)]]
-* TODO Fix HVAC
-  DEADLINE: <2020-08-29 Sat>
-** Status <2020-06-30 Tue>
- I asked Johnnie and he said the waggoner's people have been out several times. I don't this it is but I'm not sure where it is. I asked him this on Friday. And I asked if lacey and building management are aware it's not fixed and he said yes.
-16:07
-So no but I believe it's still being worked on and that lacey with building management are aware
-* TODO PPP Loan Portal for forgiveness should be up 
-  DEADLINE: <2020-08-05 Wed>
-* DONE Follow up with [[https://mail.google.com/mail/u/0/#inbox/FMfcgxwHNqFkmKLWcvxPlpSpVsMmdVCT][these leads from Nary]]
-  DEADLINE: <2020-07-22 Wed>
-* TODO [[https://docs.google.com/spreadsheets/d/1Ap3AYmhPgWfQns_sHc8nhZ64hrD6FG7Hybf5qD0DmGY/edit#gid=0][Find people myself with a Telemetry committment.]]
-  DEADLINE: <2020-08-05 Wed>
-* TODO Talk with Garrett about Eco Lab competitors for CIP systems
-  DEADLINE: <2020-08-05 Wed>
-* DONE Get Blog system into all 
-  DEADLINE: <2020-06-25 Thu>
-* DONE Overdraft Texas
-  DEADLINE: <2020-06-16 Tue>
-* DONE [[https://github.com/plow-technologies/all/issues/4290][Look Over Alert Spec]]
-  DEADLINE: <2020-06-19 Fri>
-* DONE Fix Credit Card
-  DEADLINE: <2020-06-15 Mon>
-* DONE Create/Find CRM for Sales
-  DEADLINE: <2020-06-29 Mon>
-* DONE nix-pills Need to do Chapter 9
-  DEADLINE: <2020-06-26 Fri>
-* DONE nix-pills Need to do Chapter 10
-  DEADLINE: <2020-06-26 Fri>
-* TODO Chad needs to secure everything for PPP
-  DEADLINE: <2020-08-29 Sat>
-* DONE Is there just one Postgres?
-  DEADLINE: <2020-06-17 Wed>
-* TODO Look at Neptune, Amazons graph db for dashboard and groups
-  DEADLINE: <2020-09-29 Tue>
-* TODO ATT Bill
-  DEADLINE: <2020-08-05 Wed>
-* DONE Talk with Kendall about turning off notifications for everyone but me her and Alicia.
-* DONE Find out about AID product Status.
+** Event Based Polling
+* TODO [[https://docs.google.com/spreadsheets/d/1Ap3AYmhPgWfQns_sHc8nhZ64hrD6FG7Hybf5qD0DmGY/edit#gid=0][Find people myself with a Telemetry committment.]] ✓
+  DEADLINE: <2021-09-22 Wed>
+** EV Stations
+** Refridgeration Car 
+
 * TODO ICSCADA, Ryan Steifes, last contact Jan 2020
-  DEADLINE: <2021-01-29 Fri>
+  DEADLINE: <2021-08-22 Sun>
 * TODO Continental Resources, Lori Dankenbring, last contact Feb 2020
-  DEADLINE: <2021-01-29 Fri>
-* DONE All American Electric Service, I reached out to Michael in April, his current projects were cancelled at the time
-  DEADLINE: <2020-07-22 Wed>
-* DONE Shangri-La, no update since Oct 2019
-  DEADLINE: <2020-07-22 Wed>
-* TODO Automation X, last contact was about setting up OnPing on their demo site
-  DEADLINE: <2020-08-12 Wed>
+  DEADLINE: <2021-10-26 Tue>
 * TODO Secretary of State
-  DEADLINE: <2021-01-01 Fri>
-* DONE [[https://mail.google.com/mail/u/0/#inbox/FMfcgxwJWXVClzdrdjZChVzvglNsMQbV][Core Sensors]]
-  DEADLINE: <2020-07-01 Wed>
-* DONE Get Hubspot entry for https://extractproduction.com/
-  DEADLINE: <2020-06-30 Tue>
-* TODO Fric and CSI (companies to talk with) Amonia refridgeration compression
-  DEADLINE: <2020-08-05 Wed>
-* TODO Contacts for Fric
-  DEADLINE: <2020-08-05 Wed>
-* TODO Compressor List Creation
-  DEADLINE: <2020-08-12 Wed>
-* DONE Hubspot Company Categories
-  DEADLINE: <2020-07-15 Wed>
-* TODO Refinance Look in
-  DEADLINE: <2020-08-10 Mon>
-* DONE Lex Should be back 
-  DEADLINE: <2020-07-15 Wed>
-* DONE Create Outline for Owners Agreement
-  DEADLINE: <2020-06-29 Mon>
-* DONE David Agreement change
-  DEADLINE: <2020-06-29 Mon>
-* DONE ATT Bill Christina Update
-  DEADLINE: <2020-06-29 Mon>
-* DONE Notary for Chad 
-  DEADLINE: <2020-07-14 Tue>
-* TODO Life Insurance 
-  DEADLINE: <2020-08-10 Mon>
+  DEADLINE: <2021-12-22 Wed>
+* DONE [[https://mail.google.com/mail/u/1/#inbox/FMfcgxwJWrjWGCXnZZHWtmXFctCKCQjs][Review Owners Agreement]] ✓✓
+  DEADLINE: <2021-07-29 Thu>
+* TODO Fix Emissary accounting exports
+  DEADLINE: <2021-11-12 Fri>
+* TODO [[https://mail.google.com/mail/u/0/#inbox/FMfcgxwKjBRFHBjHQPvtWWmRdsRcrJnC][Code Dater Comms Protocol]]
+  DEADLINE: <2021-08-14 Sat>
+* TODO [[https://mail.google.com/mail/u/0/#inbox/KtbxLthlxbRFWHmMMSpMXcDkDfTxndGmxB][Matt Brodine Power reset thing]]
+  DEADLINE: <2021-08-12 Thu>
+* TODO [[https://emissary.plowtech.net/login#/ticket_doc_view/7802][Matt Brodine Missouri stuff]]
+* TODO [[https://github.com/plow-technologies/all/wiki/Glossary-of-terms-used-in-OnPing-and-Plow-Technologies][Define a Term ]]
+  DEADLINE: <2021-08-22 Sun>
+* TODO [[https://github.com/plow-technologies/all/issues/4015][RTU Client Lockup]] 
+  DEADLINE: <2021-08-22 Sun>
+* TODO [[https://github.com/plow-technologies/all/issues/5627][Too many deploys rolls 9999 over to 10000]]
+* TODO [[https://github.com/plow-technologies/all/issues/5880][Have someone do a walkthrough of logging in]] ✓
+  DEADLINE: <2021-08-12 Thu>
 
-* DONE [[https://mail.google.com/mail/u/0/#inbox/FMfcgxwJWXbpcqcdPtkxWNkWjVZpHttC][Microhard Modem Problem]]
-  DEADLINE: <2020-07-21 Tue>
-* DONE Low Quality Score for +SCADA +Cloud
-  DEADLINE: <2020-07-21 Tue>
-* TODO Get Credit card account names sorted 
-  DEADLINE: <2020-07-29 Wed>
-* DONE Tyler Switch and Radio
-  DEADLINE: <2020-07-07 Tue>
-* TODO [[https://mail.google.com/mail/u/0/#sent/FMfcgxwJWjCrnRlctkNxhzzfcwqVksfr][Seek Energy Cameras, Matt Brodine]]
-  DEADLINE: <2020-08-03 Mon>
-* DONE Ask Chad about Apartment
-  DEADLINE: <2020-07-22 Wed>
-* DONE [[https://mail.google.com/mail/u/0/#search/citizen/FMfcgxwJWhrdhgVJCjlBDLjQVBNSNflb][Citizen Reconcile OnPing]]
-  DEADLINE: <2020-07-09 Thu>
-* DONE Get New Payroll Number
-  DEADLINE: <2020-07-15 Wed>
-* TODO Salazar
-  DEADLINE: <2020-08-10 Mon>
-* DONE Pricing Info for Camino new sites
-  DEADLINE: <2020-07-16 Thu>
-* TODO Review Scout Saas
-  DEADLINE: <2020-08-04 Tue>
-* DONE Check on SCADA Post
-  DEADLINE: <2020-07-17 Fri>
+* TODO [[https://mail.google.com/mail/u/0/#inbox/FMfcgxwLsmgDrhhPXbzjPvBHwKmKHVSH][Careus]]
+  DEADLINE: <2021-08-26 Thu>
+Need to do plunger Demo thing.
+They would probably be interested in the latest plunger stuff
+* TODO Problems with Approvable balances
+  DEADLINE: <2021-10-22 Fri>
+* TODO [[https://lucid.app/lucidchart/invitations/accept/inv_e9945c3b-6fd9-4d62-abeb-6d6d96d6b32f?viewport_loc=-186%2C752%2C2903%2C1700%2C0_0][Finish Mass Writes widget]]
+  DEADLINE: <2021-10-22 Fri>
+* TODO [[file:~/notes/professional-journal/year-2021/year-2021.org][Journal Entry]] 
+  DEADLINE: <2021-08-11 Wed>
+* TODO reconcile accounts from Colton and QB
+  DEADLINE: <2021-08-26 Thu>
++ Figure out why expense amounts in QB and in Colton are different
+* TODO [[https://mail.google.com/mail/u/0/#inbox/QgrcJHrnrmgGXTfPKxdZhmbmKfdKZCWXlPb][Matt Brodine, Driftwood Deploy]]
+* TODO Follow up with Joe Cyprus on what Oliver found ✓
+  DEADLINE: <2021-08-30 Mon>
+* TODO Talk with Edward about dropping vpn need on LJD ✓✓
+  DEADLINE: <2021-08-10 Tue>
+* TODO [[https://mail.google.com/mail/u/0/#search/Seth.Kleman%40ce2ok.com/FMfcgzGkXSbPmZDtmKnplMqfXTrDlLzj][Read MQTT WOnderware notes]] 
+  DEADLINE: <2021-09-06 Mon>
+* TODO Build Electro Sensors package and demo ✓✓
+  DEADLINE: <2021-09-06 Mon>
+* TODO [[/home/scott/notes/books/advanced-probability/notes.org][Work on Probability Notes]]  
+  DEADLINE: <2021-08-10 Tue>
+* DONE Follow up with Ian on Invoice
+  DEADLINE: <2021-08-02 Mon>
+* TODO Look over quickbooks AR/AP
+  DEADLINE: <2021-08-16 Mon>
+* TODO Find out status on Triton system
+  DEADLINE: <2021-08-13 Fri>
+* DONE Work on Load out instead of offload 
+  DEADLINE: <2021-08-06 Fri>
+* TODO IAOM White Paper Submissions ✓
+  DEADLINE: <2021-08-13 Fri>
++ Possible Paper Idea: Flexible Software for on the fly analysis?
+* TODO [[file:~/sales-and-marketing/marketing-content/content-cards/][Content for Cards for Trade Shows]] 
+  DEADLINE: <2021-08-09 Mon>
+** DONE Plow Oil and Gas (Scott)-
+** TODO OnPing Oil and Gas (Scott)
+** TODO OnPing SWD  (Scott)
+** TODO OnPing Midstream (Scott)
+* TODO Demo Dashboards for Milling 
+  DEADLINE: <2021-08-11 Wed>
+* DONE [[file:~/Documents/competitors/zd_scada/analysis.org][ZD SCADA Analysis]] ✓
+  DEADLINE: <2021-07-29 Thu>
+  DEADLINE: <2021-07-27 Tue>
+* DONE Work on Quote for Redwolf Migration
+  DEADLINE: <2021-07-29 Thu>
+* DONE Sign Papers for XTO
+  DEADLINE: <2021-07-28 Wed>
+* DONE Print Operating Agreement
+  DEADLINE: <2021-07-28 Wed>
 
-* DONE Static Pressure for compass
-  DEADLINE: <2020-07-18 Sat>
-** Route 4
-+ Davis Lumber - 11-4 | Low Static Pressure (30)
-+ Turner 30-1 | Low Static Pressure (30)
-** Use Route 2
-+ Barnes 30-1 | Low Static Pressure (30)
-+ Davis Lumber 11-2 | Low Static Pressure (30)
-** DONE FDL Programs
-   DEADLINE: <2020-07-22 Wed>
+* DONE Sign Papers for Flat Creek
+  DEADLINE: <2021-07-28 Wed>
 
-* TODO Fixed Cost List
-  DEADLINE: <2020-07-23 Thu>
+* TODO Say something nice to Brooke 
+  DEADLINE: <2021-08-10 Tue>
 
-* TODO Get Check for Brad out
-  DEADLINE: <2020-08-19 Wed>
+* Think about a movie for the kids
+  DEADLINE: <2021-08-14 Sat>
 
-* DONE Get all checks printed
-  DEADLINE: <2020-07-17 Fri>
+* TODO [[file:~/Documents/personal/ellie-projects.org][Find a fun science thing for Ellie]]
+  DEADLINE: <2021-08-13 Fri>
 
-* TODO Find out about spitfire Insurance
-  DEADLINE: <2020-08-03 Mon>
+* TODO Start on a new spot report spec ✓✓
+  DEADLINE: <2021-08-16 Mon>
+* TODO Change Pricing Spec to use Custom Tables ✓
+  DEADLINE: <2021-08-16 Mon>
+* TODO Start on a new Rattler Spec ✓✓
+  DEADLINE: <2021-08-16 Mon>
+* DONE [[https://mail.google.com/mail/u/0/#sent/KtbxLvHkTVhBMsWNjfxhQMfthWDbMscXFg][Talk to Kody about Pioneer]] Cellular
+  DEADLINE: <2021-08-05 Thu>
+* DONE [[https://mail.google.com/mail/u/0/#sent/QgrcJHsBvFcqdNgfNZBmjbdQMGktzvgnDDG][Look for memory leak at City of Ada Dashboard ]]
+  DEADLINE: <2021-07-30 Fri>
 
-* DONE Get all of Garret K. info together
-  DEADLINE: <2020-07-17 Fri>
+* DONE Try and figure out how to get Iowa Type Theory on Spotify 
+  DEADLINE: <2021-07-30 Fri>
+* DONE Read through readme from Logan
+  DEADLINE: <2021-08-05 Thu>
+* DONE Talk a bit more with Michael about Triton ✓
+  DEADLINE: <2021-08-03 Tue>
+* TODO Follow up on Email about Compass Radio Project
+  DEADLINE: <2021-08-16 Mon>
+* TODO Check on widget lord
+  DEADLINE: <2021-08-24 Tue>
 
-* DONE Check on ATT [[https://mail.google.com/mail/u/1/#search/NDA/FMfcgxwJWrhNDVZJJFxZGHmbbTgbXTMM][NDA]] thing
-  DEADLINE: <2020-07-22 Wed>
-
-* TODO WeWokah Radios Config
-  DEADLINE: <2020-07-23 Thu>
-* TODO [[https://mail.google.com/mail/u/1/#inbox/FMfcgxwJWrjWGCXnZZHWtmXFctCKCQjs][Review Owners Agreement]]
-  DEADLINE: <2020-07-23 Thu>
-* TODO Buy insurance
-  DEADLINE: <2020-07-23 Thu>
-* TODO [[https://mail.google.com/mail/u/1/#search/rvera%40caminoresources.com/FMfcgxwJXBzLBfxdZcvTgMJGHVcNrtMR][Camino Project - example site ]]
-  DEADLINE: <2020-07-30 Thu>
-* TODO [[https://mail.google.com/mail/u/1/#search/rvera%40caminoresources.com/FMfcgxwJXBzLBfxdZcvTgMJGHVcNrtMR][Camino Project - manual locations]]
-  DEADLINE: <2020-08-12 Wed>
-* TODO Camino Project - Check if sep temp are there
-  DEADLINE: <2020-07-30 Thu>
-* TODO ATT, Verizon, T-Mobile, Pioneer PAID
-  DEADLINE: <2020-08-03 Mon>
-* DONE Shane Buttons
-  DEADLINE: <2020-08-03 Mon>
-0 : Manual Speed Control #40AAE8
-1 : Tank Level Speed Control #FF9E10
-
-10.7.10.32
-
-bit6 - HP 1 Speed Control Status
-bit7 - 
-
-OnPing HP1 Level Speed Control Push button : 1.0
-* TODO [[https://mail.google.com/mail/u/1/#inbox/FMfcgxwJXLbNCsfmTQRpsnHlXfnnMdfh][Adjust Petrolegacy pricing]]
-  DEADLINE: <2020-08-03 Mon>
-* TODO [[https://mail.google.com/mail/u/1/#inbox/FMfcgxwJWhtvccfZRGbgDdkQbfFKhtdK][Look into OnSolve bill]]
-  DEADLINE: <2020-08-03 Mon>
-* TODO [[https://onping.net/lumberjack-remote/][Reaad lumberjack-remote]]
-  DEADLINE: <2020-08-03 Mon>
-* TODO [[https://onping.net/new-local-hmi/][Read New Local HMI]]
-  DEADLINE: <2020-08-03 Mon>
-* TODO Camera stuff
-25W - Camera
-15W - Thermal/Radar
-6W  - Cell System
-
-linestar
+* DONE Finish working through [[file:~/all/Projects/5162-goals-2021/goals-updated-aug-2021.org][end of 2021 projects.]]
+  DEADLINE: <2021-08-02 Mon>
+* TODO Look over OnPing pricing one more time.
+  DEADLINE: ho<2021-08-02 Mon>
+* DONE Check with Shane on training schedule.
+  DEADLINE: <2021-08-02 Mon>
+* TODO Check on Documentation website
+  DEADLINE: <2021-08-11 Wed>
+* TODO Time Travel Blog Post
+  DEADLINE: <2021-08-11 Wed>
+* TODO [[https://mail.google.com/mail/u/0/#inbox/FMfcgzGkZkNBgTbvqRxzVFNprQTTWKMM][Drawings for Brian and Drive enclosure ]]
+  DEADLINE: <2021-08-18 Wed>
+* TODO Expected Value of Sales from <2021-08-04 Wed> to <2021-08-11 Wed> 343298.61066818767
+  DEADLINE: <2021-08-11 Wed>
+* TODO Prepare Custom Table as Cost Center ✓
+  DEADLINE: <2021-08-16 Mon>
+* TODO Review projects again ✓
+  DEADLINE: <2021-08-10 Tue>
+* TODO Follow up on leads
+  DEADLINE: <2021-08-16 Mon>
+* TODO [[https://mail.google.com/mail/u/0/#inbox/FMfcgzGkZkPLBhDsJWzkQvNcsngkvTTn][Check on Deep Sea]]
+  DEADLINE: <2021-08-16 Mon>
+* TODO Strata meeting
+  DEADLINE: <2021-08-10 Tue>
+* TODO Tachdb Design
+  DEADLINE: <2021-08-16 Mon>
+* TODO Talk with Steven Jaco
+  DEADLINE: <2021-08-10 Tue>
+* TODO CFX Files on the Bella
+  DEADLINE: <2021-08-10 Tue>
+* TODO Follow up with Nick on iWell
+  DEADLINE: <2021-08-10 Tue>
+* TODO Follow up with Nick on Radars
+  DEADLINE: <2021-08-10 Tue>
+* TODO Follow up on reports that went out
+  DEADLINE: <2021-08-10 Tue>
+* TODO Follow up about report features
+  DEADLINE: <2021-08-10 Tue>

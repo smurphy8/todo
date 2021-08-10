@@ -1,0 +1,6 @@
+* DONE [[https://mail.google.com/mail/u/0/#inbox/FMfcgxwKjnczxpCKlDtkgwvkbpFjRTDt][Blue Mountain Questions about IT]]
+  DEADLINE: <2021-01-12 Tue>
+* DONE [[https://mail.google.com/mail/u/0/#inbox/FMfcgxwKjnczxsbNTJsmdcgKrpjVksnC][IP Address and meter Number Info]]
+  DEADLINE: <2020-12-28 Mon>
+* DONE [[https://mail.google.com/mail/u/0/?ui=2&view=btop&ver=nij0qm7hsclj&search=inbox&th=%23thread-f%3A1685711324594460642&cvid=1][Ryan Woodard Report]]
+  DEADLINE: <2021-06-08 Tue>

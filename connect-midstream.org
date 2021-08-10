@@ -349,4 +349,16 @@
 	0	2020-02-04T16:45:41-06:00
 		352864	Compressor 1 Down Time
 
+* DONE Cell E16 is still showing an equation.  We want it to be the Riverview CS Fuel Yesterday Total.
+  DEADLINE: <2020-08-16 Sun>
+* DONE Cell E29 doesn’t look right.  Yesterday’s total for FIT3100 looks to be 172 and not 252.
+  DEADLINE: <2020-08-16 Sun>
+* DONE Can you check to see why the Bonanza Suction Pressure is reading 0?  The rest look right.
+  DEADLINE: <2020-08-16 Sun>
+* DONE The pressures in cells M9, M15, M18, M20, M25, M28 look like they are pulling in the flow number instead of pressure
+  DEADLINE: <2020-08-16 Sun>
+* DONE Cell F20 still seems to be an equation and needs to be the yesterday’s volume from the discharge meter
+  DEADLINE: <2020-08-16 Sun>
+* DONE We still need to add the Stanberry GP Inlet Meter Pressure to cell C29
+  DEADLINE: <2020-08-16 Sun>
 

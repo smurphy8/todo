@@ -1,0 +1,52 @@
+* OEE Project Deliverables 
+What do we need to have in order to make a presentation
+
+** DONE Quality Score for OEE
+   DEADLINE: <2020-09-28 Mon>
+** DONE Verify Performance 
+   DEADLINE: <2020-09-28 Mon>
+** DONE Calculate Availability
+   DEADLINE: <2020-09-28 Mon>
+** DONE Presentation 
+   DEADLINE: <2020-10-01 Thu>
+
+
+* Program Related
+* Customer Centric
+** TODO OEE scores do not truncate to four places consistently
+** TODO First Shift Baler Performance runs over 100 percent throughout the shift
+** TODO Second Shift Baler Performance runs over 100 percent throughout the shift
+** TODO We need a tool to simplify scheduling changes for production management
+** TODO Create events that trigger when OEE scores fall below user configured thesholds
+** TODO Meet with production and maintenance personnel for dashboard configuration
+** TODO Meet with production and maintenance personnel for automated report formatting
+** TODO Test mettler toledo communications driver
+** TODO Create control parameters for production totals per shift
+** TODO Development of stacked bar chart widget for OEE data
+** TODO Development of waterfall chart for OEE data
+** TODO Development of linking capability from stacked bar chart PIDS to other panels
+** TODO Potential rounding errors on Packer Quality parameters (sometimes rises above 100 percent)
+
+* Asset Checklist
+** Step by Step Process to Integrate OnPing (Per Line):
+*** Onsite field service visit to install OxBox edge device.
+**** Connect field devices to OxBox communications network. 
+(PLC’s, Sensors, Scales, Code Daters, etc.)
+**** Configure local device connections in OnPing.  
+(Set up network configuration for each field device.)
+**** Test network connections update in OnPing. 
+**** Configure tags and data points that need to be captured in OnPing.
+*** Offsite dashboard configuration and site commissioning.
+**** Dashboard configuration will be handed off to customer support.
++ All data capture, visualization, and custom scripting will be configured in
+  this step of the   process.
++ Alarm and Event configuration and  
+  Dashboard and site commissioning will take place in this step before User’s are created.
+*** User access and customer dashboard training.
+**** Customer support will give access to users for dashboard viewing.
+**** Dashboards will be customized to each business unit.  
+(Maintenance, Production, Accounting, Enterprise, etc.)
+**** Customer support will reach out to users for training and dashboard navigation.
+**** Users will have 24/7 support from field service,  
+project managers, and  customer support for any issues or features that may need to be added to
+each dashboard
