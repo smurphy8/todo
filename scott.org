@@ -55,8 +55,6 @@ Surface Single Card Stroke Period
   DEADLINE: <2021-10-26 Tue>
 * TODO Secretary of State
   DEADLINE: <2021-12-22 Wed>
-* DONE [[https://mail.google.com/mail/u/1/#inbox/FMfcgxwJWrjWGCXnZZHWtmXFctCKCQjs][Review Owners Agreement]] ✓✓
-  DEADLINE: <2021-07-29 Thu>
 * TODO Fix Emissary accounting exports
   DEADLINE: <2021-11-12 Fri>
 * TODO [[https://mail.google.com/mail/u/0/#inbox/FMfcgxwKjBRFHBjHQPvtWWmRdsRcrJnC][Code Dater Comms Protocol]]
@@ -96,14 +94,10 @@ They would probably be interested in the latest plunger stuff
   DEADLINE: <2021-09-06 Mon>
 * TODO [[/home/scott/notes/books/advanced-probability/notes.org][Work on Probability Notes]]  
   DEADLINE: <2021-08-10 Tue>
-* DONE Follow up with Ian on Invoice
-  DEADLINE: <2021-08-02 Mon>
 * TODO Look over quickbooks AR/AP
   DEADLINE: <2021-08-16 Mon>
 * TODO Find out status on Triton system
   DEADLINE: <2021-08-13 Fri>
-* DONE Work on Load out instead of offload 
-  DEADLINE: <2021-08-06 Fri>
 * TODO IAOM White Paper Submissions ✓
   DEADLINE: <2021-08-13 Fri>
 + Possible Paper Idea: Flexible Software for on the fly analysis?
@@ -115,24 +109,8 @@ They would probably be interested in the latest plunger stuff
 ** TODO OnPing Midstream (Scott)
 * TODO Demo Dashboards for Milling 
   DEADLINE: <2021-08-11 Wed>
-* DONE [[file:~/Documents/competitors/zd_scada/analysis.org][ZD SCADA Analysis]] ✓
-  DEADLINE: <2021-07-29 Thu>
-  DEADLINE: <2021-07-27 Tue>
-* DONE Work on Quote for Redwolf Migration
-  DEADLINE: <2021-07-29 Thu>
-* DONE Sign Papers for XTO
-  DEADLINE: <2021-07-28 Wed>
-* DONE Print Operating Agreement
-  DEADLINE: <2021-07-28 Wed>
-
-* DONE Sign Papers for Flat Creek
-  DEADLINE: <2021-07-28 Wed>
-
 * TODO Say something nice to Brooke 
   DEADLINE: <2021-08-10 Tue>
-
-* Think about a movie for the kids
-  DEADLINE: <2021-08-14 Sat>
 
 * TODO [[file:~/Documents/personal/ellie-projects.org][Find a fun science thing for Ellie]]
   DEADLINE: <2021-08-13 Fri>
@@ -143,28 +121,13 @@ They would probably be interested in the latest plunger stuff
   DEADLINE: <2021-08-16 Mon>
 * TODO Start on a new Rattler Spec ✓✓
   DEADLINE: <2021-08-16 Mon>
-* DONE [[https://mail.google.com/mail/u/0/#sent/KtbxLvHkTVhBMsWNjfxhQMfthWDbMscXFg][Talk to Kody about Pioneer]] Cellular
-  DEADLINE: <2021-08-05 Thu>
-* DONE [[https://mail.google.com/mail/u/0/#sent/QgrcJHsBvFcqdNgfNZBmjbdQMGktzvgnDDG][Look for memory leak at City of Ada Dashboard ]]
-  DEADLINE: <2021-07-30 Fri>
-
-* DONE Try and figure out how to get Iowa Type Theory on Spotify 
-  DEADLINE: <2021-07-30 Fri>
-* DONE Read through readme from Logan
-  DEADLINE: <2021-08-05 Thu>
-* DONE Talk a bit more with Michael about Triton ✓
-  DEADLINE: <2021-08-03 Tue>
 * TODO Follow up on Email about Compass Radio Project
   DEADLINE: <2021-08-16 Mon>
 * TODO Check on widget lord
   DEADLINE: <2021-08-24 Tue>
 
-* DONE Finish working through [[file:~/all/Projects/5162-goals-2021/goals-updated-aug-2021.org][end of 2021 projects.]]
-  DEADLINE: <2021-08-02 Mon>
 * TODO Look over OnPing pricing one more time.
   DEADLINE: ho<2021-08-02 Mon>
-* DONE Check with Shane on training schedule.
-  DEADLINE: <2021-08-02 Mon>
 * TODO Check on Documentation website
   DEADLINE: <2021-08-11 Wed>
 * TODO Time Travel Blog Post
@@ -185,8 +148,6 @@ They would probably be interested in the latest plunger stuff
   DEADLINE: <2021-08-10 Tue>
 * TODO Tachdb Design
   DEADLINE: <2021-08-16 Mon>
-* TODO Talk with Steven Jaco
-  DEADLINE: <2021-08-10 Tue>
 * TODO CFX Files on the Bella
   DEADLINE: <2021-08-10 Tue>
 * TODO Follow up with Nick on iWell
@@ -197,3 +158,13 @@ They would probably be interested in the latest plunger stuff
   DEADLINE: <2021-08-10 Tue>
 * TODO Follow up about report features
   DEADLINE: <2021-08-10 Tue>
+* TODO [[https://www.analog.com/media/en/technical-documentation/application-notes/EE-269.pdf][See if this Ethernet guide is any good]]
+  DEADLINE: <2021-08-10 Tue>
+* TODO Follow up on Redwolf setups and Hardware
+  DEADLINE: <2021-08-10 Tue>
+* TODO Follow up on Ratler NDA
+  DEADLINE: <2021-08-10 Tue>
+* TODO Write Terms for Steven Jacob
+  DEADLINE: <2021-08-10 Tue>
+
+
