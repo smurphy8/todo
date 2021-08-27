@@ -1,5 +1,5 @@
-* TODO [[https://onping.zendesk.com/hc/en-us][Pick 1 zendesk sheet]] ✓
-  DEADLINE: <2021-08-11 Wed>
+* TODO [[https://onping.zendesk.com/hc/en-us][Pick 1 zendesk sheet]] 
+  DEADLINE: <2021-08-24 Tue>
 
 * DONE Get rid of company names [[https://onping.zendesk.com/hc/en-us/articles/360018416752-Adding-a-New-Controllogix-Location][Control Logix]]
   DEADLINE: <2019-03-19 Tue>
