@@ -1,7 +1,6 @@
 * DONE Write a Post on Making Automation Easy
   DEADLINE: <2020-07-29 Wed>
-* TODO Write a Post on Making Code Safe
-  DEADLINE: <2021-09-04 Sat>
+
 * DONE Get someone to fix the company blog
   DEADLINE: <2020-06-29 Mon>
 

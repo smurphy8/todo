@@ -1,5 +1,1 @@
-* TODO Read through Atlee's design docs
-  DEADLINE: <2018-07-31 Tue>
-* TODO Check over some of the Project specs 
-  DEADLINE: <2018-10-31 Wed>
 

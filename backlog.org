@@ -9,9 +9,6 @@
 ** TODO Implement restore lumberjack to turn lumberjack into another
 ** TODO Store config names in non remote server so renaming can be done quickly 
 
-* Jordan wants the report sent on an email thread instead of individually [[https://mail.google.com/mail/u/0/#inbox/1653425408d3fbd4][(I already let him know you were looking in to this)]] :Michael:
-  DEADLINE: <2021-09-01 Wed>
-
 
 
 
@@ -55,7 +52,5 @@ g x = x x
 * TODO Add git dhall repo in onping
 * TODO  Add single-well remote spec
 
-* TODO Separate Control Logix, Micrologix, Compact Logix
-  DEADLINE: <2022-04-02 Sat>
 
 
