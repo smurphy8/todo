@@ -52,7 +52,5 @@ g x = x x
 * TODO Add git dhall repo in onping
 * TODO  Add single-well remote spec
 
-* TODO Separate Control Logix, Micrologix, Compact Logix
-  DEADLINE: <2022-04-02 Sat>
 
 

@@ -11,5 +11,3 @@
 + Att
 + Midfirst
 + Verizon
-* TODO Audit Accounts info 
-  DEADLINE: <2019-05-22 Wed>
