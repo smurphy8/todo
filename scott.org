@@ -112,14 +112,12 @@ updating customers about changes in OnPing.
   DEADLINE: <2022-06-30 Thu>
 * TODO Reconcile Bank stuff as well 
   DEADLINE: <2022-06-30 Thu>
-* TODO Get appliations for new credit card ✓✓✓✓✓
-  DEADLINE: <2022-06-30 Thu>
 * TODO Look at Sales Passthrough for numbers to pay Lynn Boyer and those guys ✓
   DEADLINE: <2022-07-06 Wed>
 * TODO Go through Emails 
   DEADLINE: <2022-07-06 Wed>
 * TODO Go through hubspot
-  DEADLINE: <2022-06-30 Thu>
+  DEADLINE: <2022-07-06 Wed>
 * TODO EOS status of payment for Magna Power.
   DEADLINE: <2022-06-30 Thu>
 * TODO Checking account needs to be emptied in Quickbooks
@@ -145,17 +143,6 @@ updating customers about changes in OnPing.
   DEADLINE: <2022-06-30 Thu>
 * TODO Review MQTT issue
   DEADLINE: <2022-07-02 Sat>
-* TODO Make Testing Discussion issue
-  DEADLINE: <2022-06-30 Thu>
-* TODO Respond to Blake email
-  DEADLINE: <2022-06-30 Thu>
-* TODO Check on Reconciliation 
-  DEADLINE: <2022-06-24 Fri>
-* TODO Jesse API stuff
-  DEADLINE: <2022-06-24 Fri>
-
-* TODO Review MQTT issue
-  DEADLINE: <2022-07-01 Fri>
 * TODO Check on Reconciliation 
   DEADLINE: <2022-07-01 Fri>
 * TODO Fathom Budget
@@ -164,7 +151,7 @@ updating customers about changes in OnPing.
   DEADLINE: <2022-07-01 Fri>
 https://onping.plowtech.net/v3/data-analysis?pid=448135
 * TODO Get Belyinda the stuff for Insurance and bonding capacity
-  DEADLINE: <2022-06-24 Fri>
+  DEADLINE: <2022-07-06 Wed>
 * TODO Import export for opc/ua
   DEADLINE: <2022-07-01 Fri>
 * TODO Performance improvement OPC/UA
@@ -176,28 +163,9 @@ https://onping.plowtech.net/v3/data-analysis?pid=448135
 * TODO Build Igntion Package in OnPing
   DEADLINE: <2022-07-01 Fri>
 * TODO Set meeting for owners Q2 end
-DEADLINE: <2022-06-24 Fri>
-* TODO Respond to Carlos Email
-DEADLINE: <2022-06-24 Fri>
-* TODO Respond to Mach Email 
-DEADLINE: <2022-06-24 Fri>
-* TODO Get new project in github for EOS
-DEADLINE: <2022-06-29 Wed>
-* TODO Test Prescinto Docker
-DEADLINE: <2022-06-29 Wed>
-* TODO Make 8 Modmon things
-DEADLINE: <2022-06-29 Wed>
+DEADLINE: <2022-07-06 Wed>
 * TODO TFTP Daemon - with Firmware
 DEADLINE: <2022-07-06 Wed>
-
-* TODO Test OPC-UA Driver
-DEADLINE: <2022-06-29 Wed>
-
-* TODO Talk to Patrick
-DEADLINE: <2022-06-29 Wed>
-
-* TODO Clean up Calendly
-DEADLINE: <2022-06-29 Wed>
 
 * TODO Figure out what to do about house in Texas
 DEADLINE: <2022-06-29 Wed>
@@ -213,3 +181,22 @@ DEADLINE: <2022-07-05 Tue>
 
 * TODO [[https://onping.zendesk.com/agent/tickets/3864][Fix MQTT Tags]]
 DEADLINE: <2022-07-02 Sat>
+* DONE Respond to Carlos Email
+DEADLINE: <2022-06-24 Fri>
+* DONE Respond to Mach Email 
+DEADLINE: <2022-06-24 Fri>
+* DONE Get new project in github for EOS
+DEADLINE: <2022-06-29 Wed>
+* DONE Test Prescinto Docker
+DEADLINE: <2022-06-29 Wed>
+* DONE Make 8 Modmon things
+DEADLINE: <2022-06-29 Wed>
+* DONE Test OPC-UA Driver
+DEADLINE: <2022-06-29 Wed>
+
+* DONE Talk to Patrick
+DEADLINE: <2022-06-29 Wed>
+
+* DONE Clean up Calendly
+DEADLINE: <2022-06-29 Wed>
+
