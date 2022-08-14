@@ -1,5 +1,5 @@
 * TODO Do a general project review and prioritization.
-  DEADLINE: <2022-07-06 Wed>
+  DEADLINE: <2022-08-11 Thu>
 ** Projects
 *** Team Allocation
 **** Alberto 
@@ -12,27 +12,23 @@
 **** Mirko 
 **** SamB 
 **** Shulhi 
-*** Backlog
 **** Shulhi
 **** Siddarth     
 *** Backlog
+
 **** Report fix to be able to run after crash
-**** Fix the packages thing so it has HMI 
-**** HMI Local, view what someone sees locally from the widget    
-**** Better Alarm Creation Page
 **** Lufkin Sam Downhole driver 
 **** Universal writes proper typing
 **** OPC-UA driver Tag Browser 
-**** QR Code
 **** Sparkplug B Full implementation
 **** Data Only Linegraph Export
 **** Line Graph on Local HMI 
 **** HMI Resync Fix
-**** 7945 Tailscale                                                   :James:
 **** Water - Elynx Project 
 **** First Class Schedules
 **** [[https://www.openchargealliance.org/protocols/ocpp-201/][OCCP ]]Open charge point protocol     
-**** 8500 protocol                                                  :Preston:
+**** Koyo Protocol
+**** 8500 protocol                                         
 **** 230 [[https://github.com/plow-technologies/all/issues/230][Schedule Wheel]]
 **** 5810 [copilot-code-dater] Current implementation and future plans
 **** 6416 [proposal] mostly-serverless stakeout with WebRTC
@@ -40,24 +36,17 @@
 **** 6840 Networked, in memory, and binary logging 
 **** 7934 RTU Manager Rewrite
 **** Probabilistic Inferno
-*** On Deck (Max
-**** Logan - 6207, 5730  OnPing Pricing
-     
+
+*** On Deck 
+**** Extract Logs Change - Waiting on modmon change
 *** In Work
-**** [8297] 2FA                                                :Shulhi:Logan:
-**** [6188, 7648, 5474] Totalflow                                    :Jeremy:
-
-**** 7584 Pilot Water Site Pro :Michael:
-**** 4906 Finish LAS :Alberto:
-**** 4281 Finish LJ Deploy  :Alberto:
-**** 6244 Inferno :SamB:
+**** 7584 Pilot Water Site Pro                                      :James:Michael:
+**** 4906 LAS Install Docker :Mirko:
+**** TODO Close this? Modmon change                                 :Michael:
+**** 4281 LJ Deploy Garbage Collection                              :Alberto:
+**** 6244 Inferno-History                                              :SamB:Siddarth:
 **** 7692 Tachdb Downhole Card Support :Daniel:
-**** Petro legacy appergy :Mirko:
-**** 7900 - Networks in OnPing  :LoganT:
-**** 1330 Bool support HMI :Shulhi:
-**** 8213 Ferguson CFX Driver :Preston:
-**** 7964 Flowcal CFX  :Bruno:    
-
+**** Logan - 6207, 5730  OnPing Pricing :Logan:
 
 ** Enable and Disable polling
 ** Sites go inactive insted of disappearing.
@@ -74,113 +63,104 @@
 
 * TODO [[https://github.com/plow-technologies/all/issues/5627][Too many deploys rolls 9999 over to 10000]]
 * TODO [[https://mail.google.com/mail/u/0/#inbox/QgrcJHrnrmgGXTfPKxdZhmbmKfdKZCWXlPb][Matt Brodine, Driftwood Deploy]]
-* TODO [[~/notes/books/advanced-probability/notes.org][Work on Probability Notes]] ✓✓✓✓
-  DEADLINE: <2022-06-30 Thu>
+* TODO [[~/notes/books/advanced-probability/notes.org][Work on Probability Notes]] ✓
+  DEADLINE: <2022-08-10 Wed>
 * TODO [[file:~/notes/professional-journal/year-2022/year-2022.org][Journal Entry]] 
-  DEADLINE: <2022-06-30 Thu>
+  DEADLINE: <2022-08-05 Fri>
 * TODO [[https://mail.google.com/mail/u/0/#inbox/QgrcJHrnrmgGXTfPKxdZhmbmKfdKZCWXlPb][Matt Brodine, Driftwood Deploy]]
-* TODO [[/home/scott/notes/books/advanced-probability/notes.org][Work on Probability Notes]]  ✓
-  DEADLINE: <2022-06-30 Thu>
-
 * TODO Look over OnPing pricing one more time.
   DEADLINE: ho<2021-08-02 Mon>
 * TODO Get Fred his tag counts
 * TODO Work on blog post about sensor quality scores ✓✓✓✓✓✓
-  DEADLINE: <2022-07-29 Fri>
+  DEADLINE: <2022-09-04 Sun>
 * TODO [[https://headwayapp.co/][Investigate Headway more carefully]]
-  DEADLINE: <2022-06-30 Thu>
+  DEADLINE: <2022-10-06 Thu>
 
 Headway is the software Shulhi recommended for 
 updating customers about changes in OnPing.
 
 * TODO [[https://mail.google.com/mail/u/1/#search/Garrett.king%40plowtech.net/FMfcgzGlkjWzCsBmQZGNPGnmtCxcSMhW][Blackfire stakeout]]
-
-* TODO Write a spec for high speed driver ✓✓✓✓✓✓✓✓
-  DEADLINE: <2022-07-14 Thu>
+* TODO Write a spec for high speed driver ✓✓✓✓✓✓✓✓✓
+  DEADLINE: <2022-09-01 Thu>
 * TODO [[https://mail.google.com/mail/u/1/#search/Garrett.king%40plowtech.net/FMfcgzGlkjWzCsBmQZGNPGnmtCxcSMhW][Blackfire stakeout]]
 * TODO Take a look at save and overwrite prompt on VP/CP (Jesse is worried that he will overwrite an existing script)
-
 * TODO HMI improvements on Indicator and HMI object sizing (The indicator object doesn't have a height configuration, only width)
-
 * TODO Engineering units on the side of Indicators (Jesse would like an engineering unit row on the HMI object configuration window on objects that it applies to)
-
 * TODO Sorting functions for parameter browsing (Jesse would like sorting for parameters on parameter browsing windows)
-
-* TODO Spec for first class schedules in OnPing ✓✓✓✓✓
-  DEADLINE: <2022-06-30 Thu>
-* TODO Review issues in OnPing ✓
-  DEADLINE: <2022-06-30 Thu>
+* TODO Spec for first class schedules in OnPing ✓✓✓✓✓✓
+  DEADLINE: <2023-08-04 Fri>
+* TODO Review issues in OnPing 
+  DEADLINE: <2022-08-11 Thu>
 * TODO Reconcile Bank stuff as well 
-  DEADLINE: <2022-06-30 Thu>
-* TODO Look at Sales Passthrough for numbers to pay Lynn Boyer and those guys ✓
-  DEADLINE: <2022-07-06 Wed>
+  DEADLINE: <2023-07-06 Thu>
+
 * TODO Go through Emails 
-  DEADLINE: <2022-07-06 Wed>
-* TODO Go through hubspot
-  DEADLINE: <2022-07-06 Wed>
-* TODO EOS status of payment for Magna Power.
+  DEADLINE: <2022-08-05 Fri>
+* TODO Go through hubspot 
+  DEADLINE: <2022-07-22 Fri>
+* DONE EOS status of payment for Magna Power.
   DEADLINE: <2022-06-30 Thu>
 * TODO Checking account needs to be emptied in Quickbooks
 * TODO Spec for first class schedules in OnPing ✓✓✓✓✓✓
   DEADLINE: <2022-08-23 Tue>
 * TODO Review issues in OnPing 
-  DEADLINE: <2022-07-23 Sat>
-* TODO Look at Sales Passthrough for numbers to pay Lynn Boyer and those guys ✓
-  DEADLINE: <2023-03-15 Wed>
-* TODO Say something nice to Brooke 
-  DEADLINE: <2022-07-06 Wed>
+  DEADLINE: <2022-08-05 Fri>
 
-* TODO Quota Path Setup and Review
-  DEADLINE: <2022-07-01 Fri>
+* TODO Say something nice to Brooke  
+  DEADLINE: <2022-08-05 Fri>
 
-* TODO LACT Ticketing 
+* TODO Quota Path Setup and Review ✓✓
+  DEADLINE: <2022-08-16 Tue>
+
+
+
+* DONE LACT Ticketing 
   DEADLINE: <2022-07-23 Sat>
   DEADLINE: <2022-06-12 Sun>
 * TODO Insurance on Truck missed in feb
-* TODO Foundation Energy Cell
+* DONE Foundation Energy Cell
   DEADLINE: <2022-06-30 Thu>
-* TODO Review Dex Issue
+* DONE Review Dex Issue
   DEADLINE: <2022-06-30 Thu>
-* TODO Review MQTT issue
-  DEADLINE: <2022-07-02 Sat>
+
 * TODO Check on Reconciliation 
-  DEADLINE: <2022-07-01 Fri>
+  DEADLINE: <2022-08-11 Thu>
 * TODO Fathom Budget
-  DEADLINE: <2022-07-01 Fri>
+  DEADLINE: <2022-08-11 Thu>
 * TODO Find the source of Control Parameter Stallouts
-  DEADLINE: <2022-07-01 Fri>
+  DEADLINE: <2022-09-01 Thu>
 https://onping.plowtech.net/v3/data-analysis?pid=448135
-* TODO Get Belyinda the stuff for Insurance and bonding capacity
-  DEADLINE: <2022-07-06 Wed>
-* TODO Import export for opc/ua
+* DONE Get Belyinda the stuff for Insurance and bonding capacity
+  DEADLINE: <2022-08-08 Mon>
+* DONE Import export for opc/ua
   DEADLINE: <2022-07-01 Fri>
-* TODO Performance improvement OPC/UA
+* DONE Performance improvement OPC/UA
   DEADLINE: <2022-07-01 Fri>
 * TODO Import Export improvement modbus 
-  DEADLINE: <2022-07-01 Fri>
-* TODO Look over EOS CAG Build
+  DEADLINE: <2022-08-06 Sat>
+* DONE Look over EOS CAG Build
   DEADLINE: <2022-07-01 Fri>
 * TODO Build Igntion Package in OnPing
-  DEADLINE: <2022-07-01 Fri>
-* TODO Set meeting for owners Q2 end
+  DEADLINE: <2022-08-05 Fri>
+* DONE Set meeting for owners Q2 end
 DEADLINE: <2022-07-06 Wed>
-* TODO TFTP Daemon - with Firmware
+* DONE TFTP Daemon - with Firmware
 DEADLINE: <2022-07-06 Wed>
 
-* TODO Figure out what to do about house in Texas
-DEADLINE: <2022-06-29 Wed>
+* DONE Figure out what to do about house in Texas
+DEADLINE: <2022-08-02 Tue>
 
-* TODO Get numbers over to DSI
+* DONE Get numbers over to DSI
 DEADLINE: <2022-07-05 Tue>
 
-* TODO Get Job Ad for Purchasing out
+* DONE Get Job Ad for Purchasing out
 DEADLINE: <2022-07-05 Tue>
 
 * TODO Look over quickbooks /fathom
-  DEADLINE: <2022-06-30 Thu>
+  DEADLINE: <2022-08-11 Thu>
 
 * TODO [[https://onping.zendesk.com/agent/tickets/3864][Fix MQTT Tags]]
-DEADLINE: <2022-07-02 Sat>
+DEADLINE: <2022-08-11 Thu>
 * DONE Respond to Carlos Email
 DEADLINE: <2022-06-24 Fri>
 * DONE Respond to Mach Email 
@@ -200,3 +180,68 @@ DEADLINE: <2022-06-29 Wed>
 * DONE Clean up Calendly
 DEADLINE: <2022-06-29 Wed>
 
+* TODO Fix wifi on laptop for LJ ✓
+DEADLINE: <2022-08-11 Thu>
+
+* TODO [[https://mail.google.com/mail/u/0/#inbox/FMfcgzGpGwhzgSgcCcCjWNbZPNnxCsnD][Toku Sensor]]
+DEADLINE: <2022-08-11 Thu>
+
+* TODO Look at report Johnnie Makes for CFX
+DEADLINE: <2022-08-05 Fri>
+
+* DONE Email Justin
+DEADLINE: <2022-07-12 Tue>
+
+* DONE Email Pau
+DEADLINE: <2022-07-14 Thu>
+
+* DONE Write rejection emails
+DEADLINE: <2022-07-12 Tue>
+
+* DONE Get with Chad and go through OK Fidelity
+DEADLINE: <2022-07-22 Fri>
+
+* TODO Check on Quickbooks Links in OK Fidelity before they go crazy 
+DEADLINE: <2022-08-09 Tue>
+
+* TODO Business goals to Mirko ✓
+DEADLINE: <2022-09-01 Thu>
+
+
+* TODO Midfirst Truck Loan -> OK Fidelity Truck Loan
+DEADLINE: <2022-08-07 Sun>
+
+* TODO Check June Insurance 
+DEADLINE: <2022-08-12 Fri>
+Only Juniors insurance showing up.
+* DONE Credit Card Credentials 
+DEADLINE: <2022-08-02 Tue>
+
+* DONE Bank Credentials 
+DEADLINE: <2022-08-02 Tue>
+
+* TODO Get Owner Credentials Set up
+DEADLINE: <2022-08-11 Thu>
+
+* DONE Get Pizza for OKC FP
+DEADLINE: <2022-08-02 Tue>
+
+* TODO Get HMI Local Video Plan
+DEADLINE: <2022-08-04 Thu>
+
+* TODO Get Mass Writes Video Plan
+DEADLINE: <2022-08-04 Thu>
+
+* TODO Ask Brent where the plowtech bot lives
+DEADLINE: <2022-08-05 Fri>
+
+* TODO Growth Meeting Topics
+DEADLINE: <2022-08-10 Wed>
++ Metrics
++ Targets 
++ Materials
++ Features
+
+* TODO need to add a "Prepayment OnPing" account for prepayment revenue
+DEADLINE: <2022-08-13 Sat>
+[[https://www.investopedia.com/terms/p/prepayment.asp][Info on prepayment]]
