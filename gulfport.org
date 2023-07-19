@@ -1,5 +1,0 @@
-
-* DONE Onping Removal                                               :Billing:
-  DEADLINE: <2018-11-15 Thu>
-
-

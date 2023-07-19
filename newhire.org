@@ -1,6 +1,0 @@
-* Things to know about Plow
-** Firm Calendar
-Any requests for time off need to be added to the firm calendar.  To do that, please email chad.edwards@plowtech.net (cc me)
-and request that time.
-
-** Overview Wiki

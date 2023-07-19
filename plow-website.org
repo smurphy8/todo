@@ -1,4 +1,0 @@
-* TODO Check over static links
-** DONE [[https://www.plowtech.net/product/panels/][panels page]]  [[https://docs.google.com/document/d/1FIU1qWwq7agPR5iMqrv_gpep9Zi8WxqrSr1jgSpELZg/edit?usp=sharing][changes]]:TYPO:
-   DEADLINE: <2018-07-19 Thu>
-

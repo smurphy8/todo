@@ -1,4 +1,0 @@
-* DONE [[https://mail.google.com/mail/u/0/#search/jordan/16543fb72e5d55e2][ Add Tank Sums for Jordan]]
-  DEADLINE: <2020-07-21 Tue>
-This is close with the new virtual parameters
-

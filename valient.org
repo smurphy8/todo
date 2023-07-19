@@ -1,2 +1,0 @@
-* DONE Single-well Manual Data at each site :Valiant:             :DataEntry:
-  DEADLINE: <2018-09-10 Mon>

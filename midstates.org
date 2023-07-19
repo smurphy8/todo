@@ -1,9 +1,0 @@
-* DONE Create NDA 
-  DEADLINE: <2018-07-18 Wed>
-
-* NDA Features
-
-** What we are sharing.
-** Who owns this code
-** Who can use this code
-** Who can share this code
