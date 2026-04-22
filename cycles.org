@@ -1,11 +1,175 @@
-* [[/Users/scott/notes/professional-journal/year-2023/year-2023.org][Journal Entries]]
-DEADLINE: <2023-07-19 Wed>
-* [[https://lucid.app/lucidchart/dc919919-c50d-43a6-8e46-13683d912660/edit?viewport_loc=-28%2C65%2C2206%2C1284%2CBHokw2pKlh~V&invitationId=inv_baa3dcfe-03b1-4713-94e0-85290d6473ac][Update Sales Cycle Guide]]
-DEADLINE: <2023-07-19 Wed>
-* [[https://lucid.app/lucidchart/dc919919-c50d-43a6-8e46-13683d912660/edit?viewport_loc=-28%2C65%2C2206%2C1284%2CBHokw2pKlh~V&invitationId=inv_baa3dcfe-03b1-4713-94e0-85290d6473ac][Update Thursday]]
-DEADLINE: <2023-07-20 Thu>
-* [[https://lucid.app/lucidchart/dc919919-c50d-43a6-8e46-13683d912660/edit?viewport_loc=-28%2C65%2C2206%2C1284%2CBHokw2pKlh~V&invitationId=inv_baa3dcfe-03b1-4713-94e0-85290d6473ac][Update Work Self]]
-DEADLINE: <2023-07-23 Sun>
-* Ask Brooke about her day, say "I love you"
-DEADLINE: <2023-07-19 Wed>
+* [[/Users/scott/notes/professional-journal/year-2026/year-2026.org][Journal Entries]] :Daily:
+SCHEDULED: <2026-04-22 Wed> DEADLINE: <2026-04-23 Thu>
 
+* TODO [[https://lucid.app/lucidchart/dc919919-c50d-43a6-8e46-13683d912660/edit?viewport_loc=-28%2C65%2C2206%2C1284%2CBHokw2pKlh~V&invitationId=inv_baa3dcfe-03b1-4713-94e0-85290d6473ac][Update Work Self]] and Journal about it.                        :Weekly:
+DEADLINE: <2026-04-27 Mon>
+
+* Ask Brooke about her day, say "I love you" :Daily:
+DEADLINE: <2026-04-23 Thu> SCHEDULED: <2026-04-22 Wed>
+:LOGBOOK:
+CLOCK: [2025-01-28 Tue 08:41]--[2025-01-28 Tue 08:41] =>  0:00
+:END:
+* TODO  ADO & Aha Work                                               :Weekly:
+DEADLINE: <2026-04-23 Thu>
++ Last work <2025-10-15 Wed>
+
+* Twillio, Cell Major Usage Check                                    :Weekly:
+DEADLINE: <2026-04-27 Mon>
++ last work <2025-10-13 Mon>
+
+* TODO Look at Starred Emails                                        :Weekly:
+SCHEDULED: <2026-04-22 Wed> DEADLINE: <2026-04-23 Thu>
+Last Reviewed 2025-09-16
+* Clean Desk :Monthly:
+DEADLINE: <2026-04-28 Tue>
+Last cleaned 2025-11-05
+* Clean up notes folder :Monthly:
+DEADLINE: <2026-04-28 Tue>
++ Last Cleaned <2025-10-06 Mon>
+
+* [[https://gamedev.city/][Check Game Dev(hacker news style site)]] :Weekly:
+DEADLINE: <2026-04-28 Tue>
+
++ Last Checked <2025-10-06 Mon>
+
+** Last Run <2025-10-27 Mon>
+*** New PE Firms
+📋 Complete Energy PE Firm List
+
+    Fulcrum Energy Capital Funds
+
+    One Equity Partners
+
+    Magnetar Capital
+
+    Vista Equity Partners Management, LLC (primarily tech, but keep for completeness)
+
+    IGP (Industrial Growth Partners)
+
+    Upwell (infrastructure focus, occasional oil & gas adjacency)
+
+    White Deer Energy
+
+    Warwick Investment Group
+
+    Warburg Pincus
+
+    Carlyle Group
+
+    Talara Capital Management
+
+    Sage Road Capital (sagerc.com)
+
+    Riverstone Holdings
+
+    Quantum Energy Partners
+
+    Post Oak Energy Capital
+
+    Pine Brook Partners
+
+    PetroCap LLC
+
+    Pearl Energy Investments
+
+    Old Ironsides Energy LLC
+
+    NGP Energy Capital Management (Natural Gas Partners)
+
+    Lime Rock Partners
+
+    Kayne Anderson Capital Advisors
+
+    First Reserve Corporation
+
+    First Infrastructure Capital (firstinfracap / FIC Partners)
+
+    Equity Group Investments (egizell.com)
+
+    Energy Trust Partners
+
+    EnCap Investments
+
+    Denham Capital
+
+    Crestview Partners
+
+    Coral Reef Capital
+
+    Carnelian Energy Capital Management
+
+    Bayou City Energy
+
+    ArcLight Capital Partners LLC
+
+Newly Added (2025):
+34. American Energy Fund (AEF) – Asset-backed accredited investor programs in Permian & North Texas oil/gas
+35. Ridgewood Energy – U.S. Gulf of Mexico deepwater oil & gas investments with low-carbon focus
+*** New Energy Startups
+#+begin_example markdown
+Blackjack Natural Resources Startup (July 17, 2025): Pearl Energy provided the foundational equity commitment to launch Blackjack Natural Resources, LLC, a new Oklahoma City-based E&P company
+
+South Wind Exploration & Production, an Oklahoma-focused E&P led by alumni of Flywheel Energy (which sold its Arkansas gas assets earlier this year)
+
+Terra Energy Partners II, a Denver-based company targeting natural gas development in the Piceance Basin (led by the former Terra Energy team)
+
+Espada Energy Partners, LLC, a newly formed Houston-based E&P company
+#+end_example
+** Last Run <2025-07-02 Wed>
+  
+Here is a list of private equity companies in the oil and gas space. 
+I am interested in any new funds, mergers acquisitions or startup companies they are funding in the last year. 
+
+Check their news sections and look for press releases. 
+
+Fulcrum Energy Capital Funds
+One Equity Partners
+Magnetar Capital
+Vista Equity Partners Management, LLC
+IGP
+Upwell
+White Deer
+Warwick Investment Group
+Warburg Pincus
+Carlyle Group
+Talara Capital Management
+sagerc.com
+Riverstone Holdings
+Quantum Energy Partners
+Post Oak Energy Capital
+Pine Brook Partners
+PetroCap LLC
+Pearl Energy Investments
+Old Ironsides Energy LLC
+NGP Energy Capital Management
+Lime Rock Partners
+Kayne Anderson Capital Advisors
+First Reserve Corporation
+firstinfracap
+egizell.com
+Energy Trust
+EnCap Investments
+Denham Capital
+Crestview Partners
+Coral Reef Capital
+Carnelian Energy Capital Management
+Bayou City Energy
+ArcLight Capital Partners LLC
+
+
+My goal here isn't to understand these PE companies as businesses.
+My goal is to reach out to potential new leads. When Oil Companies
+are bought or sold it represents incredible opportunities to market
+to those companies. But you need to know about them.
+
+* DONE Jeremy Push where you are!
+DEADLINE: <2025-08-06 Wed>
+
+
+* TODO Austin Birdwell Monthly Check-in :Monthly:
+DEADLINE: <2026-04-24 Fri>
+
+* TODO Clean Backpack                                             :Quarterly:
+DEADLINE: <2026-04-27 Mon>
++ Last clean <2025-10-07 Tue>
+  

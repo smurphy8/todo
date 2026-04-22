@@ -1,67 +1,9 @@
+* DONE Find a new way of storing passwords
+DEADLINE: <2026-03-24 Tue>
+* DONE Add Permissions for AMI cleanup
+SCHEDULED: <2026-01-12 Mon> DEADLINE: <2026-01-13 Tue>
 
-* Learning
-
-** TODO Play With [[https://huggingface.co/blog/llama2][Llama 2]]
-SCHEDULED: <2023-07-22 Sat> DEADLINE: <2023-07-23 Sun>
-
-** TODO What does spiking Neural Networks mean?
-DEADLINE: <2023-07-18 Tue>
-
-** TODO [[https://arxiv.org/abs/2305.07617][Paper on Discrete reasoning]]
-DEADLINE: <2023-07-18 Tue>
-We empirically show it is able to efficiently learn how to solve NP-hard
-reasoning problems from natural inputs as the symbolic, visual or
-many-solutions Sudoku problems as well as the energy optimization formulation of the protein design problem
-
-** TODO [[https://arxiv.org/abs/2307.07700][Answer Set Programming]]
-DEADLINE: <2023-07-18 Tue>
-NeurASP provides a simple and effective way to integrate sub-symbolic and symbolic computation. 
-** TODO  [[https://arxiv.org/abs/2303.05118][Slow Learning Paper]]
-DEADLINE: <2023-07-18 Tue>
-The goal of continual learning is to improve the performance of recognition models in
-learning sequentially arrived data. Although most existing works are established on
-the premise of learning from scratch, growing efforts have been devoted to
-incorporating the benefits of pre-training
-
-* Financials
-** TODO Get Tax Documents to Paxus
-SCHEDULED: <2023-07-19 Wed> DEADLINE: <2023-07-21 Fri>
-* Ops
-
-** TODO EOS - Veijas Get Quote turned around
-SCHEDULED: <2023-07-18 Tue> DEADLINE: <2023-07-18 Tue>
-
-** TODO Shop - get Justin into Hubspot
-DEADLINE: <2023-07-18 Tue>
-
-** TODO EOS - Follow up on Cors 2 file 
-DEADLINE: <2023-07-18 Tue>
-
-* Sales
-
-** TODO Review fallout for Toyota call
-DEADLINE: <2023-07-18 Tue>
-
-* Plow Content
-** TODO Article on FAT Testing
-DEADLINE: <2023-08-01 Tue>
-** TODO Article on starting your own automation business
-DEADLINE: <2023-07-25 Tue>
-** TODO Review of a PLC next
-DEADLINE: <2023-07-25 Tue>
-
-* OnPing Content
-
-* TODO Introducing Lumberjack Enterprise
-DEADLINE: <2023-10-18 Wed>
-
-* Personal
-** TODO Get Teeth Appointment Scheduled
-SCHEDULED: <2023-07-19 Wed> DEADLINE: <2023-07-20 Thu>
-* HR
-** TODO Sumarize Meeting with Justin 
-DEADLINE: <2023-07-18 Tue>
-** TODO Summarize Q2 Owners Meeting 
-DEADLINE: <2023-07-18 Tue>
-
+* DONE Christmas Shopping Brooke
+DEADLINE: <2026-01-06 Tue>
++ https://www.puritydayspaokc.com/contact
 

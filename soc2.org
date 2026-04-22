@@ -3,16 +3,22 @@
 #+TODO: TODO EVIDENCE | DONE
 
 * OnPing Evidence Requests
+
 ** OnPing Team Questions
-*** TODO For Item 37 - is this for OnPing or AWS 
-DEADLINE: <2025-08-14 Thu>
+*** DONE For Item 37 - is this for OnPing or AWS 
+DEADLINE: <2025-09-05 Fri>
+
 ** Pending Sample Selection
 *** TODO 36 - O: OnPing access approvals  :OnPing:Sample:App:
 DEADLINE: <2025-11-07 Fri>
   for sample of new production environment users selected  
 
+*** TODO 33 - O: OnPing laptop encryption  :OnPing:Sample:
+DEADLINE: <2025-11-07 Fri>
+  for sample of OnPing laptops  
+
 *** TODO 54 - O: Laptop Antivirus installed  :OnPing:Sample:Office:
-SCHEDULED: <2025-08-19 Tue> DEADLINE: <2025-11-07 Fri>
+DEADLINE: <2025-11-07 Fri>
   for sample of OnPing laptops selected  
 
 *** TODO 54 - O: Server antivirus installed  :OnPing:Sample:
@@ -24,26 +30,39 @@ DEADLINE: <2025-11-07 Fri>
   for sample of code changes selected  
 
 *** TODO 66AOPS - O: Server patch history  :OnPing:Sample:Office:
-SCHEDULED: <2025-08-12 Tue> DEADLINE: <2025-11-07 Fri>
+DEADLINE: <2025-11-07 Fri>
   for sample of production servers selected  
 
 *** TODO 67 - O: Laptop patch status/logs  :OnPing:Sample:Office:
-SCHEDULED: <2025-08-12 Tue> DEADLINE: <2025-11-07 Fri>
+DEADLINE: <2025-11-07 Fri>
   for sample of laptops selected  
 
 ** Open
+*** TODO 32 - O: OnPing external support page with system documents and internal knowledge base in Github  :OnPing:Inspection:
+DEADLINE: <2025-09-30 Tue>
+  Please provide documentation that system documentation is made available to both internal and external individuals.
+
+*** TODO 34 - O: OnPing AWS production and testing environment segregation  :OnPing:Inspection:
+DEADLINE: <2025-09-30 Tue>
+  Please provide evidence of segregation of testing and prod environments in AWS
+
+*** TODO 34, 76 - O: OnPing network diagram  :OnPing:Inspection:
+DEADLINE: <2025-09-30 Tue>
+  Including last review date  
+
 *** TODO 37 - O: Screenshots of example client admin user and example client normal user  :Michael:OnPing:Inspection:Question:
 DEADLINE: <2025-09-30 Tue>
   showing ability to add users is only available to the client admin user  
 **** TODO Item 37 - Not sure if this means AWS or OnPing. :Question:
+
 *** EVIDENCE 46 - O: OnPing application password length and complexity requirements :Michael:OnPing:Inspection:
 DEADLINE: <2025-09-30 Tue>
   Please provide evidence that the OnPing application requires length and complexity  
 
 *** TODO 47 - O: OnPing application lockout configuration requirements :Michael:OnPing:Inspection:App:
-SCHEDULED: <2025-08-19 Tue> DEADLINE: <2025-09-30 Tue>
+DEADLINE: <2025-09-30 Tue>
   Please provide evidence that lockout requirements are in place for the OnPing application  
- 
+
 *** EVIDENCE 48 - O: OnPing AWS MFA configuration  :Brent:OnPing:Inspection:Office:
 DEADLINE: <2025-09-30 Tue>
   Please provide  
@@ -63,23 +82,25 @@ DEADLINE: <2025-09-30 Tue>
 **** Anyone with the following
 + github write access to all repo can schedule a release.
 + jenkins access to force a release.
-  
+
 *** TODO 65LOPPS - O: Screenshot showing where infrastructure and configuration changes are logged and tracked  :OnPing:Inspection:
 DEADLINE: <2025-09-30 Tue>
 ****  Please provide  
-+ Cloud Trail
-+ Plow Configs Repo Log
++ Cloud Trail  
++ Plow Configs Repo Log  
 + plow-bundle-create log    
+
 *** TODO 78 - O: OnPing AWS database encryption at rest  :OnPing:Inspection:
 DEADLINE: <2025-09-30 Tue>
   Please provide  
-**** TODO Postgres
-**** TODO MySQL
-**** TODO Tach
-**** TODO MongoDB
+**** TODO Postgres  
+**** TODO MySQL  
+**** TODO Tach  
+**** TODO MongoDB  
+
 ** Pending Period-End
 *** TODO Population - O: List of OnPing laptops  :Justin:OnPing:Population:Office:
-SCHEDULED: <2025-08-26 Tue> DEADLINE: <2025-10-17 Fri>
+DEADLINE: <2025-10-17 Fri>
   Please provide the list of all OnPing laptops that are currently in use  
 
 *** TODO Population - O: List of OnPing production application code change requests :Michael:OnPing:Population:Process:
