@@ -1,0 +1,32 @@
+* TODO Permissions
+* TODO Frontend Topics
+** TODO Input box review
+** TODO Headless UI 
+** TODO Prefer Small components
+* DONE PR review
+** General Guidelines for Reviewer
++ Has the developer left notes for you to look at? 
++ Link to ADO
++ Look for files and other artifacts that don't belong
++ Look for libraries that seem to be new to our code base.
++ Check list of PR items
++ UI Screenshots  
+  
+* TODO Test Best Practices
+** Alberto Notes
+    It is authorable, readable and editable by a larger number of people
+    LLMs are better at writing python
+    Reduces build time since they're not compiled
+    Execution time is unaffected, mostly because we don't have tight loops in integration tests
+    type safety is moot since it is not code that will run in production. It is implicitly tested when tests run so it never rots. If we absolutely need type-safety, we have mypy.
+    It is much quicker to iterate when developing
+    Python is not a new addition to our code base. The nixosTest integration script is already written in python. In fact, the test that motivated this discussion was extracted to a file from the mandatory python nixosTest script.  Should we re-implement nixosTest in Haskell for consistency? Why not address first the places where we use Python in production?
+
+ 
+
+* DONE Shulhi Review of Rescript conference
+DEADLINE: <2024-06-06 Thu>
+* DONE Atlee Design Review Drivers
+DEADLINE: <2024-06-21 Fri>
+* DONE Purge Flag for packaging LAS
+DEADLINE: <2024-05-23 Thu>

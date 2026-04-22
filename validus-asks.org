@@ -1,0 +1,454 @@
+* Meetings
+** <2025-02-25 Tue> Notes from meeting
+The main items I need to accomplish
+
++ An alarm type that will only alarm when a well isn't shut in.
+  we would tie it into the ESD.
++ Set up next meeting so we keep the flow going. 
+
+* Field Screen Notes
+** Actions
+*** DONE Get Tank Heights
+SCHEDULED: <2024-05-08 Wed> DEADLINE: <2024-05-09 Thu>
+*** DONE Locate Buyback Tags
+DEADLINE: <2024-05-06 Mon>
+*** DONE Ask for gas lift screen
+*** DONE Ask for rod pump screen
+*** DONE Review Rod Pump Screen
+DEADLINE: <2025-10-06 Mon>
+*** DONE Update David
+DEADLINE: <2024-09-15 Sun>
++ Have Spirit Password now
+*** TODO Need to ask about coating value
+
+** Tags Readoff
+*** Main
+Send ESD
+Separator Pressure
+Est. Oil Rate
+Est. H2O Rate
+*** Water Meter
+
+** Tags
+Tubing
+Casing
+Well Status
+Gas meter ID
+
+*** Gas Check Meter
+Meter ID
+Flow Rate
+Vol Gas TD
+Vol Gas YD
+SP
+DP
+Temp
+
+*** Gas Lift Meter
+Meter ID
+Flow Rate
+Vol Gas TDY
+Vol Gas YD
+SP DP
+Temp
+
+*** Water Pump
+Run Status
+Water ESD
+Start SP
+Deadband SP
+Water ESD
+Normal
+
+Reset Permissive
+Description
+Buyback Meter Volume Totalizer
+Buyback Meter Volume Totalizer
+Check Meter Contract Hour
+Check Meter Differential Pressure
+Check Meter Flow Rate
+Check Meter Static Pressure
+Clear List
+12/7/2021 10:31:51 to 12/14/2021 10:31:51
+MCFD
+1,000 г
+500
+When AlL
+8 Wed
+9 Thu 10 Fri 11 Sat 12 Sun 13 Mon 14 Tue
+Dec 2021
+Reset Trend
+Compton 2-2-35XH Check Meter Flow Rate
+24 7D 30D
+Field Admin
+CygNet Admins
+Well Detail
+Well
+Foreman
+‹All Foreman>
+Buyback Meter
+Meter ID
+Flow Rate
+Vol Gas TDY
+Vol Gas YD
+SP
+DP
+Temp
+Water Meter
+Flow Rate
+Vol Today
+Vol Yest Pressure
+Route
+‹All Route>
+Compton 2-2-35XH W +
+Unreliable
+Warning
+Alarm
+Frozen
+Production Tanks
+Coating Val
+Combustor
+Comb. Temp Comb. Status
+BB21564701
+.0 MCF
+.6 MCF
+12.6 MCF
+48.1 psia
+0 inH20
+61.8 F
+0 ВЫ
+70.6 ВЫ
+0 ВЫ
+73.7 psig
+8.2
+194.00 F
+Pilot On
+HI LVL
+Normal
+Normal
+TOP
+WATER
+TEMP
+LACT Skid
+Flow Rate
+High BS&W API Gravity
+Water Prod 1
+10.77 At
+8.14 At
+62 F
+Oil Prod 1
+7.66 t
+50 At
+61 F
+Tank Summary
+0.0 ВРН
+Normal
+47.25
+Est Oil YD 19.2 bbl
+Oil Cap
+803 bbl
+Oil Inv
+256.3 bbl
+Oil % Full
+31.9
+H2O Cap
+803 bbl
+H2O Inv
+360.3 bbl
+Oil Meter
+H20 % Full
+44.9
+NSV OIl TDY NSV Oil YD
+0 Bb
+0 ВЫ
+
+* Shop Lumberjacks
+** Actions
+*** DONE Get switch and LJ IP 
+DEADLINE: <2024-05-13 Mon>
+* DONE Plunger Apps in ROC - Ask Andrew
+DEADLINE: <2024-05-07 Tue>
+*** DONE Make sure we have packing list for LJ 
+DEADLINE: <2024-05-16 Thu>
+
+*** DONE Find out about spacers
+DEADLINE: <2024-05-16 Thu>
+
+*** DONE Find out about wire
+DEADLINE: <2024-05-09 Thu>
+
+*** DONE Waiting on spacers
+DEADLINE: <2024-05-09 Thu>
+
+*** DONE Waiting on Beldin
+DEADLINE: <2024-05-07 Tue>
+
+*** TODO Find out about password on radio
+*** TODO Passsword on HMI
+*** TODO Password on Spirit
+*** TODO Passwords on any network gear
+*** TODO Come up with way of letting Field know what locations are done. 
+** A done Lumberjack
+*** Physical Completion (Out of Shop)
+**** Modem
++ Will have an active sim.
++ Will have a custom password  
+
+**** Switch
++ Standard LJ Dropin program
+
+**** Lumberjack
++ up to date programs (including ROC)
+  
+**** Din Rail 
++ Tagged with Location Name
+ 
+* DONE Need User Name and Passwords for the flow X Spirit
+DEADLINE: <2024-05-21 Tue> SCHEDULED: <2024-05-20 Mon>
+
+* <2024-06-10 Mon> Meeting
+** TODO Reports for Andrea 
+** DONE Spirit Work (PCB Express)
+DEADLINE: <2024-07-23 Tue>
+** TODO IP Addresses
+** TODO No Automation Sites list
+** TODO Ridenhour "Flow Computer On Site no Radio"
+Send an email out to see what they have found.
+** TODO Downhole Card - which site has it
+** TODO Standardize Spirit name
+* DONE Ask Andrew on SWD
+DEADLINE: <2024-06-15 Sat>
+* DONE PCS Box (Comms)
+DEADLINE: <2024-07-09 Tue>
+* DONE Databricks Grid stuff
+DEADLINE: <2024-11-10 Sun> SCHEDULED: <2024-11-09 Sat>
+* DONE Log Tables From Data Table
+DEADLINE: <2025-07-14 Mon>
+:LOGBOOK:
+CLOCK: [2025-01-08 Wed 10:42]--[2025-01-08 Wed 11:08] =>  0:26
+:END:
+
+* DONE Road Map on Log Tables
+DEADLINE: <2025-10-06 Mon>
+
+* DONE Alarm Callout Tracking
+DEADLINE: <2026-01-06 Tue>
+:LOGBOOK:
+CLOCK: [2025-02-28 Fri 11:20]--[2025-02-28 Fri 12:20] =>  1:00
+:END:
+
+* DONE Validus HMI - Formatting Plunger
+DEADLINE: <2026-04-13 Mon>
+
+* DONE Plunger Maint Report 
+DEADLINE: <2026-04-13 Mon>
+Needs to add fields.
+
+Reporting:
+no text box - plunger correlation
+
+* DONE Plunger Firmware 
+DEADLINE: <2026-01-06 Tue>
+
+* DONE Plunger Contingency Box. 
+DEADLINE: <2026-01-06 Tue>
+
+* TODO LACT Automated Reporting
+DEADLINE: <2026-04-29 Wed>
+
+* DONE Pricing Work 
+DEADLINE: <2025-08-16 Sat>
+**  pricing for scout
+** Multi year
+** Saving with
+** Current Savings
+* Plunger Project
+** Display and Pricing
++ The Sophia is the site we need to look at.
+** TODO Template Sites
+** Example Inspection Form
+#+begin_example json
+{
+  "topic": "pak/production/template_submission/1a14197d-c0d0-469a-94e9-b72061ca7cde",
+  "message": {
+    "assigned_to": null,
+    "associated_item_id": "9aa31683-bde3-4e56-b32f-c362dad849d8",
+    "associated_item_name": "SANDROCK 1H-36-25",
+    "attachments": [
+      {
+        "key": "citizen_events/sandrock-1h-36-25-comment_20250815015704.jpg",
+        "mime": "image/png",
+        "size": 262718,
+        "title": "citizen_events/sandrock-1h-36-25-comment_20250815015704.jpg",
+        "url": "https://s3.amazonaws.com/scout-workers-upload-production/citizen_events/sandrock-1h-36-25-comment_20250815015704.jpg"
+      }
+    ],
+    "created_at": "2025-08-15T18:58:30.206+00:00",
+    "created_by": "63835fd4-2b0a-4dff-8d65-7ef024f72b21",
+    "deleted": false,
+    "edited_at": null,
+    "effective_date": "2025-08-15T18:54:52.564+00:00",
+    "id": "2e65d4b5-3033-46ba-9f6d-bcfee638a9ac",
+    "inventory_id": null,
+    "location": null,
+    "number": null,
+    "organization_id": "00ed0897-0fa7-4187-a0da-00b6537f591d",
+    "seq": 506059,
+    "service_type": 0,
+    "source_type_code": 1,
+    "stop_id": "0f7ceb1c-01a0-4c9a-b160-9660faf3e739",
+    "stop_name": "SANDROCK 1H-36-25",
+    "submission_date": "2025-08-15T18:58:28.537+00:00",
+    "template_definition_id": "1a14197d-c0d0-469a-94e9-b72061ca7cde",
+    "template_sub_type_code": 2,
+    "template_sub_type_id": "abc69afc-2f0a-4521-9b57-63336110f28a",
+    "template_type_code": 1,
+    "template_type_id": "39ea33bc-983f-44cc-8cc7-1e515202de98",
+    "title": null,
+    "tz": "America/Chicago",
+    "updated_at": "2025-08-15T18:58:30.206+00:00",
+    "values": [
+      {
+        "data_type": 2,
+        "display_type": 8,
+        "invalid_data": false,
+        "measure": {
+          "display": "Sleeve 18\"",
+          "value": 6
+        },
+        "template_field_type_code": 1500
+      },
+      {
+        "data_type": 2,
+        "display_type": 8,
+        "invalid_data": false,
+        "measure": {
+          "display": "2 7/8",
+          "value": 3
+        },
+        "template_field_type_code": 10072
+      },
+      {
+        "data_type": 3,
+        "display_type": 9,
+        "invalid_data": false,
+        "measure": {
+          "display": "Aug 15 2025, 13:54",
+          "value": "2025-08-15T13:54:00.0000-05:00"
+        },
+        "template_field_type_code": 1502
+      },
+      {
+        "data_type": 6,
+        "display_type": 17,
+        "invalid_data": false,
+        "measure": {
+          "display": "6245",
+          "value": 6245
+        },
+        "template_field_type_code": 1503
+      },
+      {
+        "data_type": 4,
+        "display_type": 10,
+        "invalid_data": false,
+        "measure": {
+          "display": "Yes",
+          "value": 1
+        },
+        "template_field_type_code": 1509
+      },
+      {
+        "data_type": 2,
+        "display_type": 8,
+        "invalid_data": false,
+        "measure": {
+          "display": "Sleeve 18\"",
+          "value": 6
+        },
+        "template_field_type_code": 1510
+      },
+      {
+        "data_type": 2,
+        "display_type": 8,
+        "invalid_data": false,
+        "measure": {
+          "display": "2 7/8",
+          "value": 3
+        },
+        "template_field_type_code": 10074
+      },
+      {
+        "data_type": 4,
+        "display_type": 10,
+        "invalid_data": false,
+        "measure": {
+          "display": "Yes",
+          "value": 1
+        },
+        "template_field_type_code": 1512
+      },
+      {
+        "data_type": 4,
+        "display_type": 10,
+        "invalid_data": false,
+        "measure": {
+          "display": "Yes",
+          "value": 1
+        },
+        "template_field_type_code": 1513
+      },
+      {
+        "data_type": 4,
+        "display_type": 10,
+        "invalid_data": false,
+        "measure": {
+          "display": "Yes",
+          "value": 1
+        },
+        "template_field_type_code": 1514
+      },
+      {
+        "data_type": 4,
+        "display_type": 10,
+        "invalid_data": false,
+        "measure": {
+          "display": "Yes",
+          "value": 1
+        },
+        "template_field_type_code": 1517
+      }
+    ],
+    "version": 1,
+    "workflow_state_code": 1
+  }
+}
+#+end_example
+** DONE Clean Up Scout Form
+DEADLINE: <2025-10-21 Tue>
++ Remove Ball
++ Remove redundant checks like reset plunger counter  
+** DONE Plunger Inspection 
+DEADLINE: <2025-10-21 Tue>
+*** Scout Fields
++ Plunger Type - "template_field_type_code": 1500
+select(.'associated_item_id' == {.'associated_item_id'})|.values[]|select(.'template_field_type_code' == 1500)| .measure.display
++ Plunger Size - "template_field_type_code": 10074
+select(.'associated_item_id' == {.'associated_item_id'})|.values[]|select(.'template_field_type_code' == 10072)| .measure.display
++ Original Install Date - "template_field_type_code": 1502
+select(.'associated_item_id' == {.'associated_item_id'})|.values[]|select(.'template_field_type_code' == 1502)| .measure.display
++ Plunger REplaced - "template_field_type_code": 1509
+select(.'associated_item_id' == {.'associated_item_id'})|.values[]|select(.'template_field_type_code' == 1509)| .measure.display
++ Replacement Type - "template_field_type_code": 1510
+select(.'associated_item_id' == {.'associated_item_id'})|.values[]|select(.'template_field_type_code' == 1510)| .measure.display
+
+
+*** OnPing Fields
+These are the fields that will be recorded in OnPing and correlated with the time of the inspection. 
+**** Metrics Tracked by OnPing from Original Install to Inspection Time.
+***** Total Run Counter
+The number of Runs from "Original Install Time to present"
+***** Totals Miles
+Figure out methodology for calculating miles based on install date. 
+* DONE Cell Usage OnPing
+DEADLINE: <2025-10-29 Wed>

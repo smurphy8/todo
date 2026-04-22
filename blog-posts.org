@@ -1,0 +1,110 @@
+
+* Marketing/Case Study
+** TODO Auxilliary SCADA to help fill gaps
+DEADLINE: <2026-04-29 Wed>
+
+** TODO Log Tables Feature Launch Video
+DEADLINE: <2026-04-29 Wed>
+** TODO Select edits for PDF that Paul put together. 
+** TODO OnPing Overview Blog Post
+The goal of this post will be to provide an overview of OnPing from the point
+of view of a production engineer interested in using it.
+I don't know if it will end up being a standalone piece or the center of content around other
+pieces.  
+
+** Case Study SWD
+
+** TODO Using OnPing to do SKID Automation
+** TODO BLog Post Based on Validus [[file:~/Documents/customers/validus/pak-production-and-onping/PakEnergy_Production_Validus.pptx][slides]]
+
+** Power Monitoring 
+** Introducing Lumberjack Enterprise
+DEADLINE: <2026-04-29 Wed>
+** Approaches to Telemetry with OnPing
+
+** TODO Blog Post: Brownfield Upgrade projects
+
+** TODO [[https://www.reddit.com/r/PLC/comments/183udz4/process_change_and_documentation_methods/][Article about Process change]]
+
+** TODO Blog post on better panel drawings [[https://www.reddit.com/r/PLC/comments/18nc98l/does_anybody_have_any_tips_for_creating_better/][Making better panel drawings]]
+** TODO [[https://www.reddit.com/r/PLC/comments/18njxnk/advantec_adam_controllers/][Adam Module walkthrough]]
+** TODO Block vs Bytes and Capacity
+https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fcjd9xlqqco7c1.jpeg%3Fwidth%3D3024%26format%3Dpjpg%26auto%3Dwebp%26s%3D24f37feb9a27f0690c48631b267a902698946220
+
+* Support
+** Lumberjack What it is
+
+** TODO Guide: How to use data analysis
+
+* DONE Plow: What it takes to successfully Bring wells Online for New SCADA
+DEADLINE: <2024-07-01 Mon>
+* DONE Article on FAT Testing
+* DONE [[https://docs.google.com/document/d/1-Q205SlDQjQxnDN794iaC6XIQE8bJhfGoxmu64-RmP8/edit?usp=sharing][Article on starting your own automation business]]
+DEADLINE: <2024-04-09 Tue> SCHEDULED: <2024-04-08 Mon>
+* DONE Getting Started Learning to program a PLC
+* DONE [[https://www.reddit.com/r/PLC/comments/17dnr3v/watchdog_plc_to_plc_comm/][Creating a watchdog for PLC to PLC comms]]
+DEADLINE: <2024-05-23 Thu>
+* DONE [[https://www.reddit.com/r/PLC/comments/17diws4/safety_plc/][what is a safety PLC?]]
+
+* [[https://www.reddit.com/r/SCADA/comments/1e70gxy/total_hour_and_working_hour_calculation_for_the/][Working Hours Calculations]]
+* DONE inferno control parameters!
+SCHEDULED: <2024-12-13 Fri> DEADLINE: <2024-12-14 Sat>
+
+** TODO ESG Oil and Gas Article ideas
++ ESG Oil and Gas requires a flexible IOT approach
++ Why is ESG 
+** TODO Configure an ML Parameter: Instruction blurb
+** TODO Control Parameter video
+* DONE The Digital Oilfields USA 2025 Exhibition & Conference:
+SCHEDULED: <2025-02-28 Fri> DEADLINE: <2025-03-01 Sat>
++ Production as Code - The necessity of information accessibility
++ When to spend - a heuristics based guide to Oilfield Automation and Equipment selection 
+* TODO [[https://www.reddit.com/r/PLC/comments/1i0s6az/setting_up_comms_between_controllogix_1756l73/][Micro 870 comms]]
+* TODO Rewrite this post [[https://onping.net/docs/creating-a-new-virtual-parameter/][Creating a vp]]
+
+
+* DONE Digital Oilfields Post review
+DEADLINE: <2025-03-25 Tue>
+:LOGBOOK:
+CLOCK: [2025-03-24 Mon 11:43]--[2025-03-24 Mon 12:08] =>  0:25
+:END:
+
+* DONE Review Kristies BLog Stuff
+SCHEDULED: <2025-03-28 Fri> DEADLINE: <2025-03-29 Sat>
+:LOGBOOK:
+CLOCK: [2025-03-28 Fri 10:19]--[2025-03-28 Fri 10:34] =>  0:15
+:END:
+
+
+** TODO Data Tables Technical / Power user Doc
+DEADLINE: <2026-04-29 Wed>
+** TODO Data Tables Feature Overview Doc
+DEADLINE: <2026-04-29 Wed>
+** TODO Data Tables Press Release
+DEADLINE: <2026-04-29 Wed>
+:LOGBOOK:
+CLOCK: [2025-04-02 Wed 10:30]--[2025-04-02 Wed 11:34] =>  1:04
+:END:
+** TODO Data Tables Identify Starter How Tos
+DEADLINE: <2026-04-29 Wed>
+** TODO Data Tables User Guide for each system
+DEADLINE: <2026-04-29 Wed>
+** TODO Data Tables Feature Launch Video
+DEADLINE: <2026-04-29 Wed>
+** TODO Data Tables Sales Enablement packet
+DEADLINE: <2026-04-29 Wed>
+** TODO Log Tables Technical / Power user Doc
+DEADLINE: <2026-04-29 Wed>
+** TODO Log Tables Feature Overview Doc
+DEADLINE: <2026-04-29 Wed>
+** TODO Log Tables Press Release
+DEADLINE: <2026-04-29 Wed>
+** TODO Log Tables Identify Starter How Tos
+DEADLINE: <2026-04-29 Wed>
+** TODO Log Tables User Guide for each system
+DEADLINE: <2026-04-29 Wed>
+
+* TODO Log Tables Sales Enablement packet
+DEADLINE: <2026-04-29 Wed>
+* TODO [[https://lucid.app/lucidchart/5e9d5a1c-bb1a-46a6-8f5c-b6f6d2cdf4ce/edit?viewport_loc=-11%2C-11%2C1963%2C1149%2C0_0&invitationId=inv_cec7a726-5fb5-4544-a812-09a3646e786e][Parameter Family Diagram thing]]
+DEADLINE: <2026-04-29 Wed>

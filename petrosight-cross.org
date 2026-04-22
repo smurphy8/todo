@@ -1,0 +1,12 @@
+#+TODO: Todo Initial Folloup | MeetingSet NoResponse 
+#+OPTIONS: toc:nil        no default TOC at all
+#+OPTIONS: num:nil
+* [[https://wpak-my.sharepoint.com/:x:/r/personal/dan_dodot_pakenergy_com/_layouts/15/Doc.aspx?sourcedoc=%7B6360E599-9939-4394-854F-74278AAFF9B1%7D&file=Production%20customer%20contacts%20-%20Petrosight.xlsx&fromShare=true&action=default&mobileredirect=true][Spreadsheet]]
+* MeetingSet TODO Cross Sell Work Petrosight
+DEADLINE: <2025-05-08 Thu>
+
+* MeetingSet DONE Add Customers I want to reach out to
+DEADLINE: <2025-05-08 Thu>
+:LOGBOOK:
+CLOCK: [2025-01-21 Tue 15:56]--[2025-01-21 Tue 16:56] =>  1:00
+:END:

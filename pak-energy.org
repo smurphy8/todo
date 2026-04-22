@@ -1,0 +1,173 @@
+* DONE ARR by Customer (2021 – YTD 2023, ideally monthly or quarterly), with relevant segmentation appended to the data as available:
+SCHEDULED: <2023-10-04 Wed> DEADLINE: <2023-10-05 Thu>
+        Customer type (e.g., O&G, renewables, municipal water and wastewater, milling, etc.)
+        Product type (e.g., software, hardware)
+        Sales channel (e.g., direct sale, channel partner, etc.) 
+
+https://www.dropbox.com/scl/fo/dxe8ytsd0fam9kiytaxk9/h?rlkey=llbie771hasynklorwwuins5k&dl=0
+* DONE Detail on revenue model / pricing for software and hardware offerings
+SCHEDULED: <2023-10-05 Thu> DEADLINE: <2023-10-06 Fri>
+Plow Technologies has several revenue streams related to OnPing and then a couple that are not very related.
+
+** OnPing Recurring Revenue 
+Almost all revenue in OnPing is recurring. 
+
+*** OnPing Data Ingestion
+
+*** OnPing Cellular Internet Services
+
+*** OnPing Application Hosting
+
+*** OnPing Platform Services
+
+** OnPing Non-recurring Revenue
+
+
+* TODO Annual historical financials P&L 2021 – 2023 YTD (ideally monthly or quarterly, if available)
+* TODO Monthly P&L for 2023 YTD - Include revenue split by recurring and non-recurring revenue 
+
+* DONE List of historical churned customers with reason for churn and who the customer was lost to
+[[file:~/Documents/legal/pak-packet-docs/OnPingCustomers.xlsx][CustomerInfoAndChurn]]
+
+* DONE Employee census (blinded ok) with titles, hire date, fully baked employer costs (e.g., salary, max bonus, benefits)
+
+** Org chart, if available 
+*** Names
+Kendall	Burnside
+Matt	Burnside
+Chad	Edwards
+Justin	Forari
+Preston	Gray
+Atlee	Hickerson
+Alicia	Horton
+Megan	Werner
+Trey	Lavender
+Marc	Paradez
+Johnnie	Payne
+Jeremy	Peterson
+Brent	Phillips
+Michael	Sewell
+Matt	Smith
+Ian	Stuart
+Logan	Tibbetts
+Chris	White
+Patrick	Williams
+rj	henderson
+Mack	Lawrence
+Jason	Locke
+Andrew	Manor
+Greg	Morgan
+Ben	Simon
+Seth	Whited
+Kenny	Willis
+Shane	Gover
+Scott	Murphy
+Tobi	Winters
+Junior	Yanez
+James	Haver
+Daniel	Casanueva
+shulhi	Sapli
+bruno	Cadorette
+rory	hayford
+siddharth	krishna
+alberto 	valverde
+*** Graph  
+#+BEGIN_SRC dot :file onping-org-chart.png
+    digraph G {
+    graph [nodesep=1, ranksep=1, label="Plow Technologies Org Chart"]
+    rankdir=LR;
+    labelloc = "t";
+    node [shape=box, style=filled, color=lightblue];
+    scott [label="Scott Murphy\nPlow Managing Member\nOnPing Product Manager"];
+    tobi [ label="Tobi Winters\nPlow Partner\Plow Field Sales"];      
+    junior [label="Junior Yanez\nPlow Partner\nPlow Quality Control"];
+    shane [label="Shane Gover\nPlow Partner\nPlow Automation Manager"];
+
+    // OnPing Success Team      
+    kendall [label="Kendall Burnside\nOnPing Customer Success Manager"];
+    trey [label="Trey Lavender\nOnPing Customer Success Representative"];
+    matt [label="Matt Smith\nOnPing Customer Success Representative"];
+    alicia [label="Alicia Horton\nOnPing Customer Success Representative"];
+    johnnie [label="Johnnie Payne\nOnPing Customer Success Representative"];          
+    kendall -> {trey, matt, alicia, johnnie};
+
+    // accounts
+    chad [label="Chad Edwards\nPlow HR and Finance"];       
+    marc [label="Marc Paradez\nPlow Accounts Receivable"];
+    justin [label="Justin Forari\n Purchasing and Inventory"];     
+    chad -> {marc, justin};
+
+
+    // Plow Sales Team
+    megan [label="Megan Werner\n OnPing Sales Manager"];
+    atlee [label="Atlee Hickerson\nOnPing UI Design and Marketing"];
+
+    // Ops Team
+    chris [label="Chris White\nPlow Operations Assistant"];
+
+
+    scott -> {developers, kendall, chad, megan, atlee, chris, andrew, mattB};
+    // Field 
+    andrew [label="Andrew Manor\nPlow Field Service Manager"];
+    mack [label="Mack Lawrence\nPlow Field Service Technician"];
+    jason [label="Jason Locke\nPlow Field Service Technician"];
+    seth [label="Seth Whited\nPlow Field Service Technician"];
+    ben [label="Ben Simon\nPlow Field Service Technician"];
+    kenny [label="Kenny Willis\nPlow Field Service Technician"];
+    rj [label="RJ Henderson\nPlow Field Service Technician"];
+    andrew -> {mack, jason, seth, ben, kenny, rj};
+
+    // Shop 
+    mattB [label="Matt Burnside\nPlow Shop Manager"];
+    patrick [label="Patrick Williams\nPlow Shop Technician"];
+    ian [label="Ian Stuart\nPlow Shop Technician"];
+
+    mattB -> {patrick, ian};
+
+
+    // Developers
+
+
+
+
+  // Preston Gray
+  preston [label="Preston Gray\nOnPing Developer"];        
+  // Jeremy Peterson
+  jeremy [label="Jeremy Peterson\nOnPing Developer"];
+  // Brent Phillips
+  brent [label="Brent Phillips\nOnPing Devops"];
+  // Michael Sewell
+  michael [label="Michael Sewell\nOnPing Developer"]; 
+  // Logan Tibbetts
+  logan [label="Logan Tibbetts\nOnPing Developer"];
+  // James Haver
+  james [label="James Haver\nOnPing Developer"];
+  // Daniel Casanueva
+  daniel [label="Daniel Casanueva\nOnPing Developer"];
+  // shulhi Sapli
+  shulhi [label="Shulhi Sapli\nOnPing Developer"];
+  // bruno Cadorette
+  bruno [label="Bruno Cadorette\nOnPing Developer"];
+  // rory hayford
+  rory [label="Rory Hayford\nOnPing Developer"];
+  // siddharth krishna
+  sid [label="Siddharth Krishna\nOnPing Developer"];
+  // alberto  valverde
+  alberto [label="Alberto Valverde\nOnPing Developer"];
+     
+  developers -> {preston, jeremy, brent, michael, logan, james, daniel, shulhi, bruno, rory, sid, alberto};
+
+
+    }
+#+END_SRC
+
+          #+RESULTS:
+          [[file:catastrophe-simple.png]]
+
+* DONE Current view of the sales pipeline
+* DONE 2024 Budget
+* TODO Follow-up session on product
+
+* TODO Any off-the-shelf sales and marketing collateral on the product, if available 
+
+

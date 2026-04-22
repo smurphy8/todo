@@ -1,0 +1,143 @@
+
+* DONE Get Spec for Michael on Rabbit MQ system
+DEADLINE: <2026-04-07 Tue>
+
+
+* DONE Get Spec for Alberto on MCP first draft
+DEADLINE: <2026-04-07 Tue>
+
+* DONE Get Bug made for line graph
+DEADLINE: <2026-03-23 Mon>
+
+* TODO [[https://discord.com/channels/795673953443381259/795684077461831690/1443138344191131691][Document permissions changes]]
+DEADLINE: <2026-05-06 Wed>
+
+
+* Check on making new Cellular for personal
+DEADLINE: <2026-04-28 Tue>
+Supposed to be unlocked on the 23rd of November 2025.
+* Blackbeard
+M&S - 160k /yr
+Plus 900k up front
+800 Meter Packs
+32 REpository Meter Packs/ Repository
+* Array
+take
+drop
+filter
+zipWith
+* Text
+toUpper
+toLower
+
+* Time
+timeToDouble
+*Tensor
+roll
+
+
+* DONE [[https://www.scadacore.com/tools/aga-calculators/aga-gas-flow-calculator/][SCADA Core AGA3]]
+DEADLINE: <2026-04-07 Tue>
+
+** Site Info
+https://onping.plowtech.net/v3/location/info?locationId=22866
+Denali Gas Meter for Diversified
+
+/Users/scott/Documents/customers/diversified/denali/denali_aga3_info.org
+
+* DONE Review North Branch bill
+DEADLINE: <2026-02-06 Fri>
+* DONE Check on Citizen Energy Ventures bill
+DEADLINE: <2026-03-24 Tue>
+* DONE [[https://dev.azure.com/PakEnergy/OnPing/_workitems/edit/34741#18589245][Audit Group]]
+DEADLINE: <2026-03-21 Sat>
+* DONE Get info on LJ plunger to Cole
+DEADLINE: <2026-03-21 Sat>
+* TODO [[https://wolfepak.freshdesk.com/a/tickets/277274][Freshdesk well pilot ticket]]
+DEADLINE: <2026-04-28 Tue>
+
+* TODO Tailored Chemical Case Study
+DEADLINE: <2026-04-28 Tue>
+* TODO [[file:///Users/scott/Downloads/Application%20architecture_2.0.pdf][Read Garretts Process control stuff]]
+DEADLINE: <2026-04-28 Tue>
+* DONE Review Cygnet Document
+DEADLINE: <2026-03-31 Tue>
+
+* TODO Wifi Outage WRC Check on status
+DEADLINE: <2026-05-21 Thu>
+
+* TODO Make ADR PR OnPing CA
+DEADLINE: <2026-04-30 Thu>
+
+* DONE Black Mountain 
+DEADLINE: <2026-02-06 Fri>
+
+* DONE Percent Timer
+DEADLINE: <2026-04-23 Thu>
+* DONE The FBxConnectTM configuration toolset
+DEADLINE: <2026-03-21 Sat>
+
+* TODO Emails from show
+* DONE Follow up with Ergon
+DEADLINE: <2026-01-13 Tue>
+* TODO Marketing material for Log Table Event System
+DEADLINE: <2026-04-30 Thu>
+* TODO Marketing Material Pak Production Driver
+DEADLINE: <2026-04-30 Thu>
+* TODO Compass Plunger work
+DEADLINE: <2026-04-28 Tue>
+
+* TODO Camino Plunger Project follow up
+DEADLINE: <2026-04-28 Tue>
+
+* TODO Competitor Overview - Iron IQ
+DEADLINE: <2026-04-28 Tue>
+500k for 1000 Wells
+
+* TODO [[https://docs.google.com/presentation/d/1wRRxVg_L3Whm87gPVz9ZfcJ_uRZyyB4JDPSYAYoP7yM/edit#slide=id.g3287074102d_0_5][Work on pricing improvements release]]
+DEADLINE: <2026-04-28 Tue>
+
+
+* TODO LAS Improvements
+DEADLINE: <2026-04-28 Tue>
++ # of Packages 
++ Progress bar
++ Cancel 
++ Load
+
+
+* TODO Audit Table 50GB issue
+DEADLINE: <2026-04-28 Tue>
+
+* TODO Why can't I output True or False with inferno?
+DEADLINE: <2026-04-28 Tue>
+* TODO Have James Work on Testing Dashboard
+DEADLINE: <2026-04-28 Tue>
+
+* DONE OT/SCADA security testing intake questions
+DEADLINE: <2026-03-31 Tue>
+* DONE Respond to Codee Gee on Inferno for Dummies
+DEADLINE: <2026-04-05 Sun>
+* DONE Email Ryan and Crew at Camino about ML plunger before our meeting. 
+DEADLINE: <2026-03-25 Wed>
+* TODO Come up with performance metric for the plunger system to measure against current baseline. 
+DEADLINE: <2026-04-28 Tue>
+* TODO Work on Freds incremental plunger algo 
+DEADLINE: <2026-04-28 Tue>
+* TODO Aha Features review
+DEADLINE: <2026-04-23 Thu> SCHEDULED: <2026-04-22 Wed>
+* DONE Hugging Face Sharing
+DEADLINE: <2026-04-07 Tue>
+* DONE Foundation Energy Plunger Quote
+DEADLINE: <2026-04-07 Tue>
+* TODO Finish Spec for Alarm word local
+DEADLINE: <2026-04-23 Thu> SCHEDULED: <2026-04-22 Wed>
+* TODO Respond to Luke about cyber
+SCHEDULED: <2026-04-22 Wed> DEADLINE: <2026-04-23 Thu>
+** Migration of laptop
+*** TODO Notes Cleanup                                            :Migration:
+DEADLINE: <2026-04-29 Wed>
+Make sure all my notes are copied over
+*** TODO todo cleanup :Migration:
+DEADLINE: <2026-04-22 Wed>
+Make sure all the TODOs are copied over 

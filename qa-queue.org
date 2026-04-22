@@ -1,0 +1,2 @@
+* DONE [[https://dev.azure.com/PakEnergy/OnPing/_boards/board/t/OnPing%20Team/Stories?System.AreaPath=Run%20the%20Business&workitem=25595][Custom Table pid selection bug]]
+DEADLINE: <2025-08-20 Wed>

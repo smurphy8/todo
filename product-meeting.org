@@ -1,0 +1,130 @@
+* Individual Work
+** DONE Total Flow Modernize - CFX explanation
+DEADLINE: <2025-08-28 Thu>
+:LOGBOOK:
+CLOCK: [2025-01-27 Mon 14:30]--[2025-01-27 Mon 15:00] =>  0:30
+:END:
+
+** DONE DoNotDeploy.json review instructions
+SCHEDULED: <2025-01-28 Tue> DEADLINE: <2025-01-29 Wed>
+
+** TODO Think about Altium model stuff and how we could do something like it. 
+
+** DONE Work on LJ restore spec
+DEADLINE: <2025-02-21 Fri>
+* Design Review
+** <2025-01-24 Fri> Design Work 
+:LOGBOOK:
+CLOCK: [2025-01-24 Fri 13:02]--[2025-01-24 Fri 14:00] =>  0:58
+:END:
+Today we worked through more of the inferno pricing.
+We established the need for companies in inferno ml we also questioned whether we need groups.
+
+The next item is to wire frame the group cascades. 
+
+** DONE <2025-01-23 Thu> Inferno ML Walkthrough
+DEADLINE: <2025-03-16 Sun>
+:LOGBOOK:
+CLOCK: [2025-01-28 Tue 15:02]--[2025-01-28 Tue 16:08] =>  1:06
+CLOCK: [2025-01-28 Tue 10:29]--[2025-01-28 Tue 10:55] =>  0:26
+:END:
+*** TODO Bad routing for a script
+When I am making an ML parameter and ask it to create a new script.
+When I am done, it has lost where it came from.
+*** TODO Hitting "Edit Script" on an existing inferno ML parameter should bring the assigned parameters with it.
+*** TODO Script Editor still shows pricing
+*** TODO I think maybe test isn't reloading the script to update changes.
+In the script editor. 
+*** TODO  The system keeps adding the "model" as an output.
+*** TODO it also makes it where you can't remove an output without zooming out.
+the model version list is backwards. The newest is at the bottom. 
+
+* Actions
+*** TODO Mock Up Uniqueness for Data Table 
+*** TODO Present Spec starter to Mirko
+*** TODO Mock up linking screen for data table / log table
+*** TODO Decide where linking screen lives
+
+*** DONE Historical Labeling 
+DEADLINE: <2025-04-18 Fri>
+*** DONE Start Inferno ML Training stuff
+DEADLINE: <2025-04-18 Fri>
+*** DONE Start Inferno ML Training stuff
+DEADLINE: <2025-04-18 Fri>
+*** DONE Overall Pricing System
+DEADLINE: <2025-04-18 Fri>
+*** DONE Historical Labeling 
+DEADLINE: <2025-04-18 Fri>
+* Meeting
+** Meeting <2025-04-16 Wed>
+We got BUlk Data management on the board in aha.
+We are close to a final Q2 list. Still need one more go over.
+*** DONE Finalize Q2 Board
+DEADLINE: <2025-04-18 Fri>
+*** DONE Finalize Bulk Management for Q2
+DEADLINE: <2025-04-14 Mon>
+** Meeting <2025-04-14 Mon>
+
+Went over inferno ML and Bulk Data management PHase II.
+Next time we need to actually finalize Q2 Board.
+
+
+*** DONE Finalize Historical Data Processing for Q2
+DEADLINE: <2025-04-18 Fri>
+** Meeting <2025-03-31 Mon>
+We had to cut the meeting short today but talked about a few important items.
+We went back through the status of Release Phase 1.
+** Meeting <2025-03-27 Thu>
+** Meeting <2025-03-05 Wed>
+*** DONE Figure out where the integration info should live
+SCHEDULED: <2025-03-10 Mon> DEADLINE: <2025-03-13 Thu>
+*** DONE Add "add an integration to data table"
+SCHEDULED: <2025-03-10 Mon> DEADLINE: <2025-03-13 Thu>
+** Meeting <2025-03-04 Tue> 
+Walkthrough of all latest Log Table Changes
+
+** Meeting <2025-02-26 Wed>
+More meeting needed to continue to spec out the Scout and OnPing integration.
+
+*** DONE Pak Production - List out various tasks and workflows
+DEADLINE: <2025-04-18 Fri>
++ Scout Integration Workflow (current)
++ Scout Realtime Workflow (Setpoints in scout)
++ Scout Ticket workflow 
++ Scout Relationship Workflow (data tables) 
++ Scout Network Workflow (allocation)
+*** DONE Need to describe lookups for scout integrations
+DEADLINE: <2025-03-16 Sun>
+Right now I don't think you can take a scout integration and PID and efficiently
+figure out what stop it has. We need to fix this. 
+** Meeting <2025-02-24 Mon>
+We spec'd the new log table link stuff:
+https://docs.google.com/presentation/d/1oDgLT0LGt0KOTecobVLThW9tuUgUof68UHQTMmhQUA8/edit#slide=id.g331e0204296_0_3
+
+Actions from this meeting.
+
+*** DONE Scout Integration first class (next meeting)
+DEADLINE: <2025-02-27 Thu> SCHEDULED: <2025-02-26 Wed>
+
+** Meeting <2025-01-31 Fri>
+This meeting caught us up on ML pricing. Atlee thinks he is good and will have it done today.
+This will get us ready for the meeting Monday.
+A reminder that we need to start thinking about training
+
+*** DONE Get inferno ML beta project started. 
+DEADLINE: <2025-03-16 Sun>
+
+
+** Meeting <2025-01-06 Mon>
+:LOGBOOK:
+CLOCK: [2025-01-31 Fri 13:00]--[2025-01-31 Fri 14:00] =>  1:00
+:END:
+
+Mostly a QA Review.
+Next time we will review Historical Batch functions and prepare full product movement there.
+
+** TODO ML Pricing
+** DONE Spec Pak Production Integration
+DEADLINE: <2025-03-28 Fri>
+** DONE Spec Pak Transport Integration
+DEADLINE: <2025-04-18 Fri>

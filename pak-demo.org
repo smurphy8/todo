@@ -1,0 +1,4 @@
+* DONE Make Locations
+DEADLINE: <2025-10-24 Fri>
+* DONE Make Datatable
+DEADLINE: <2026-04-22 Wed>

@@ -1,0 +1,8 @@
+* DONE [[https://www.figma.com/file/Qi3RVP5sLNVD6le6TVs3Jx/Inferno_CP_Walkthroughs?type=design&node-id=0%3A1&mode=design&t=VYsw7kahjMzRdVuc-1][Read Control Parameter Walkthrough]]
+DEADLINE: <2024-07-09 Tue>
+
+* TODO Load fast vs Load completely 
+
+* DONE Write Support Doc Explaining how Categories for scripts work
+DEADLINE: <2024-04-26 Fri>
+https://github.com/plow-technologies/all/issues/12172

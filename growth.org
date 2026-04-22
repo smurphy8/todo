@@ -1,0 +1,44 @@
+* <2026-04-08 Wed> Targets
+
+* Sales Review
+** DONE [[https://app.hubspot.com/playlists/5007223/playlist/389476780371?page=1][Call List Review]]
+DEADLINE: <2025-03-04 Tue>
+* Design Review Notes
+
+** Cycle Design
+
+** <2025-01-22 Wed> Design/Wireframe
+We went over how to build out minor improvements.
+We also discussed the mass pricing system.
+Lastly, we added more spec for the bulk pricing improvements. 
+** <2025-01-17 Fri> Design Review
+:LOGBOOK:
+CLOCK: [2025-01-17 Fri 09:01]--[2025-01-17 Fri 10:11] =>  1:10
+:END:
+
+We did a nice review of the inferno-ml parameters.
+*** DONE Atlee:  [[https://fathom.video/calls/215095885][Parameter Review Turned into issues]]
+SCHEDULED: <2025-01-22 Wed> DEADLINE: <2025-01-23 Thu>
+** <2025-01-08 Wed> Design Review
+Today we reviewed the OnPing Pricing refresh that we are planning on doing.
+* Release Review Notes
+* TODO [[https://docs.google.com/document/d/1y6SDZO8n76Pt8apHDPbFy2-6dQbdYFWWw3XhEf8w4Dg/edit?usp=sharing][Lumberjack Warranty]]
+** DONE Reflections on PBIOS & FUZE - Emissions
+DEADLINE: <2023-12-11 Mon>
+https://www.earthview.io/
+Need to get with Brent and Matt and build out a walkthrough video with helpful info
+* TODO New Customers Nov, New Deals Nov, YTD
+* TODO UL 6200 - Microgrid controllers (50k)
+* TODO UL 1741 - Inverters (Grid Connected) (30k) - Field Evaluation 
+
+* TODO Goals for 2024
+** Metrics
+** Targets
+** Materials
+** Features
+*** OnGoing Work 
++ Inferno-ML
++ Inferno-Control-Parameters
++ Data Tables  
++ Data Table As Input
+

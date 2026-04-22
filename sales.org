@@ -1,0 +1,62 @@
+* DONE Meeting on Competitors and Sales motions
+DEADLINE: <2023-09-01 Fri>
+Competitors:
+** Cloud Hosted Competitors
+*** DONE Elynx - 60.00 month data usage ~ 35.00 month (basic)
+*** DONE Site Pro - 700 ~ 1000 / month 
+*** DONE ZD SCADA - ~35.00 / month per device ( 15 min polling) 
+*** DONE Tank Logix ? 
+*** DONE Zedi ? 150.00 (maybe)? 
+*** Crimson
+*** High Tide
+** On Prem Competitors 
+*** Cygnet
+*** Igntion 
+*** XSpoc
+*** Clear Scada 
+*** Wonderware 
+*** Aviva
+*** VT SCADA 
+
+* Customer Types 
+Different types of customers (Oil):
+** TODO Vital - Large E&P 
+** TODO Citizen - Private E&P (medium)
+** DONE Double Eagle - Private E&P Small
+** TODO Ovintiv - Large E&P 
+** TODO 4020 - SWD 
+** TODO Sienna 
+
+*  Events that cause sales motions
+** DONE Spills
+Currently looking at a company called Scout Energy.
+Just had a spill. 
+A few examples:
++ S&J - E&P
++ Eagle Exploration - E&P 
++ Kybenco - Salt Water Disposal
+** DONE sales,
+** DONE software failures,
+** DONE price increases,
+** DONE personnel leaving
+** DONE Regulatory Compliance
+
+* DONE Credit Card for Navigator
+DEADLINE: <2023-08-30 Wed>
+
+* DONE Read "Strategy for Prospecting New Business"
+SCHEDULED: <2023-09-07 Thu> DEADLINE: <2023-09-07 Thu>
+
+* DONE HMI writes video
+SCHEDULED: <2023-09-29 Fri> DEADLINE: <2023-10-01 Sun>
+
+* DONE Get Valids Pricing info for Dan
+SCHEDULED: <2025-03-31 Mon> DEADLINE: <2025-04-01 Tue>
+:LOGBOOK:
+CLOCK: [2025-03-31 Mon 11:05]--[2025-03-31 Mon 12:00] =>  0:55
+:END:
+
+
++ Validus MRR and price model
++ Citizen MRR and price model
++ Proposed 89E MRR and price model (use the $162k you built)

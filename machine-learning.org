@@ -1,0 +1,39 @@
+
+* DONE Forecast Work 
+DEADLINE: <2026-04-13 Mon>
+
+
+* DONE Listen To CuddleFish podcast (Data Skeptic)
+DEADLINE: <2023-10-16 Mon>
+
+* DONE Work on an inferno fine-tune 
+DEADLINE: <2026-04-13 Mon>
+* DONE [[https://arxiv.org/abs/2310.13121][Interesting looking thing on understanding addition]]
+DEADLINE: <2024-04-27 Sat>
+
+* DONE [[https://towardsdatascience.com/new-deepmind-work-unveils-supreme-prompt-seeds-for-language-models-e95fb7f4903c][Computationally optimized prompts]]
+SCHEDULED: <2024-01-08 Mon> DEADLINE: <2024-01-09 Tue>
+
+* DONE [[https://towardsdatascience.com/putting-your-forecasting-model-to-the-test-a-guide-to-backtesting-24567d377fb5][Quick Guide to Backtesting]]
+DEADLINE: <2024-03-04 Mon> SCHEDULED: <2024-03-01 Fri>
+
+* DONE Work on Chronos Forecast trace
+DEADLINE: <2025-06-25 Wed>
+* DONE inferno-ml doc work
+DEADLINE: <2026-04-13 Mon>
+
+* DONE Inferno ML - Test 
+DEADLINE: <2026-03-21 Sat>
+:LOGBOOK:
+CLOCK: [2025-03-29 Sat 16:06]--[2025-03-29 Sat 17:27] =>  1:21
+CLOCK: [2025-03-29 Sat 13:31]--[2025-03-29 Sat 13:33] =>  0:02
+CLOCK: [2025-01-22 Wed 11:04]--[2025-01-22 Wed 11:29] =>  0:25
+CLOCK: [2025-01-21 Tue 10:06]--[2025-01-21 Tue 10:50] =>  0:44
+CLOCK: [2025-01-21 Tue 09:56]--[2025-01-21 Tue 10:02] =>  0:06
+:END:
+
+* DONE Inferno ML Warning Script
+DEADLINE: <2026-04-13 Mon>
+:LOGBOOK:
+CLOCK: [2025-04-07 Mon 08:12]--[2025-04-07 Mon 08:23] =>  0:11
+:END:
