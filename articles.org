@@ -1,5 +1,5 @@
-* TODO Arxiv Review - Have you looked at what you arleady have!!
-DEADLINE: <2026-04-23 Thu>
+* Arxiv Review - Have you looked at what you arleady have!!
+DEADLINE: <2026-05-05 Tue>
 
 * DONE [[https://www.inc.com/jeff-haden/elon-musks-algorithm-a-5-step-process-to-dramatically-improve-nearly-everything-is-both-simple-brilliant.html][5 Step Elon Algo]]
 DEADLINE: <2025-10-24 Fri>
@@ -10,11 +10,11 @@ DEADLINE: <2025-10-24 Fri>
 DEADLINE: <2025-10-24 Fri>
 
 * TODO [[https://entropicthoughts.com/debugging-nixpkgs-package-build][Debugging Nix pkg builds]]
-DEADLINE: <2026-04-29 Wed>
+DEADLINE: <2026-05-05 Tue>
 * DONE [[https://towardsdatascience.com/temporal-difference-learning-and-the-importance-of-exploration-an-illustrated-guide/][BLog on RL methodologies]]
 DEADLINE: <2025-11-13 Thu>
-* TODO [[https://magazine.sebastianraschka.com/p/llm-evaluation-4-approaches][Build a reasoning model from scratch]]
-DEADLINE: <2026-04-23 Thu>
+* [[https://magazine.sebastianraschka.com/p/llm-evaluation-4-approaches][Build a reasoning model from scratch]]
+DEADLINE: <2026-05-06 Wed>
 This blog post is something I really need to read. It goes over a lot of evaluation methods.
 * DONE [[https://towardsdatascience.com/prompt-engineering-for-time-series-analysis-with-large-language-models/][Prompt Engineering for Time series analysis]]
 DEADLINE: <2025-10-29 Wed>

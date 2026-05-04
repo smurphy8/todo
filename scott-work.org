@@ -14,7 +14,7 @@ DEADLINE: <2026-05-06 Wed>
 
 
 * Check on making new Cellular for personal
-DEADLINE: <2026-04-28 Tue>
+DEADLINE: <2026-05-11 Mon>
 Supposed to be unlocked on the 23rd of November 2025.
 * Blackbeard
 M&S - 160k /yr
@@ -54,12 +54,12 @@ DEADLINE: <2026-03-21 Sat>
 * DONE Get info on LJ plunger to Cole
 DEADLINE: <2026-03-21 Sat>
 * TODO [[https://wolfepak.freshdesk.com/a/tickets/277274][Freshdesk well pilot ticket]]
-DEADLINE: <2026-04-28 Tue>
+DEADLINE: <2026-05-14 Thu>
 
 * TODO Tailored Chemical Case Study
-DEADLINE: <2026-04-28 Tue>
+DEADLINE: <2026-05-05 Tue>
 * TODO [[file:///Users/scott/Downloads/Application%20architecture_2.0.pdf][Read Garretts Process control stuff]]
-DEADLINE: <2026-04-28 Tue>
+DEADLINE: <2026-05-08 Fri>
 * DONE Review Cygnet Document
 DEADLINE: <2026-03-31 Tue>
 
@@ -67,7 +67,7 @@ DEADLINE: <2026-03-31 Tue>
 DEADLINE: <2026-05-21 Thu>
 
 * TODO Make ADR PR OnPing CA
-DEADLINE: <2026-04-30 Thu>
+DEADLINE: <2026-05-08 Fri>
 
 * DONE Black Mountain 
 DEADLINE: <2026-02-06 Fri>
@@ -81,25 +81,25 @@ DEADLINE: <2026-03-21 Sat>
 * DONE Follow up with Ergon
 DEADLINE: <2026-01-13 Tue>
 * TODO Marketing material for Log Table Event System
-DEADLINE: <2026-04-30 Thu>
+DEADLINE: <2026-05-08 Fri>
 * TODO Marketing Material Pak Production Driver
-DEADLINE: <2026-04-30 Thu>
+DEADLINE: <2026-05-08 Fri>
 * TODO Compass Plunger work
-DEADLINE: <2026-04-28 Tue>
+DEADLINE: <2026-05-05 Tue>
 
 * TODO Camino Plunger Project follow up
-DEADLINE: <2026-04-28 Tue>
+SCHEDULED: <2026-05-04 Mon> DEADLINE: <2026-05-05 Tue>
 
-* TODO Competitor Overview - Iron IQ
-DEADLINE: <2026-04-28 Tue>
+* DONE Competitor Overview - Iron IQ
+DEADLINE: <2026-05-02 Sat>
 500k for 1000 Wells
 
 * TODO [[https://docs.google.com/presentation/d/1wRRxVg_L3Whm87gPVz9ZfcJ_uRZyyB4JDPSYAYoP7yM/edit#slide=id.g3287074102d_0_5][Work on pricing improvements release]]
-DEADLINE: <2026-04-28 Tue>
+DEADLINE: <2026-05-08 Fri>
 
 
 * TODO LAS Improvements
-DEADLINE: <2026-04-28 Tue>
+DEADLINE: <2026-05-08 Fri>
 + # of Packages 
 + Progress bar
 + Cancel 
@@ -107,12 +107,12 @@ DEADLINE: <2026-04-28 Tue>
 
 
 * TODO Audit Table 50GB issue
-DEADLINE: <2026-04-28 Tue>
+DEADLINE: <2026-05-08 Fri>
 
 * TODO Why can't I output True or False with inferno?
-DEADLINE: <2026-04-28 Tue>
-* TODO Have James Work on Testing Dashboard
-DEADLINE: <2026-04-28 Tue>
+DEADLINE: <2026-05-08 Fri>
+* DONE Have James Work on Testing Dashboard
+DEADLINE: <2026-04-30 Thu>
 
 * DONE OT/SCADA security testing intake questions
 DEADLINE: <2026-03-31 Tue>
@@ -120,24 +120,24 @@ DEADLINE: <2026-03-31 Tue>
 DEADLINE: <2026-04-05 Sun>
 * DONE Email Ryan and Crew at Camino about ML plunger before our meeting. 
 DEADLINE: <2026-03-25 Wed>
-* TODO Come up with performance metric for the plunger system to measure against current baseline. 
-DEADLINE: <2026-04-28 Tue>
-* TODO Work on Freds incremental plunger algo 
-DEADLINE: <2026-04-28 Tue>
-* TODO Aha Features review
-DEADLINE: <2026-04-23 Thu> SCHEDULED: <2026-04-22 Wed>
+* DONE Come up with performance metric for the plunger system to measure against current baseline. 
+DEADLINE: <2026-04-30 Thu>
+* DONE Work on Freds incremental plunger algo 
+DEADLINE: <2026-04-30 Thu>
+
 * DONE Hugging Face Sharing
 DEADLINE: <2026-04-07 Tue>
 * DONE Foundation Energy Plunger Quote
 DEADLINE: <2026-04-07 Tue>
-* TODO Finish Spec for Alarm word local
-DEADLINE: <2026-04-23 Thu> SCHEDULED: <2026-04-22 Wed>
-* TODO Respond to Luke about cyber
-SCHEDULED: <2026-04-22 Wed> DEADLINE: <2026-04-23 Thu>
+* DONE Finish Spec for Alarm word local
+DEADLINE: <2026-04-23 Thu>
+* DONE Respond to Luke about cyber
+DEADLINE: <2026-04-23 Thu>
 ** Migration of laptop
 *** TODO Notes Cleanup                                            :Migration:
-DEADLINE: <2026-04-29 Wed>
+DEADLINE: <2026-08-19 Wed>
+
 Make sure all my notes are copied over
 *** TODO todo cleanup :Migration:
-DEADLINE: <2026-04-22 Wed>
+DEADLINE: <2026-08-19 Wed>
 Make sure all the TODOs are copied over 
