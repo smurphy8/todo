@@ -1,6 +1,6 @@
 
 * TODO Get Mothers day present for Brooke
-DEADLINE: <2026-05-06 Wed>
+SCHEDULED: <2026-05-07 Thu> DEADLINE: <2026-05-08 Fri>
 
 
 * DONE Find a new way of storing passwords
