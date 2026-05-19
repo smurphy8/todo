@@ -12,5 +12,5 @@ DEADLINE: <2026-03-23 Mon>
 * TODO [[https://discord.com/channels/795673953443381259/795684077461831690/1443138344191131691][Document permissions changes]]
 DEADLINE: 
 
-* TODO Work on ISHM presentation
-DEADLINE: <2026-05-08 Fri> SCHEDULED: <2026-05-07 Thu>
+* DONE Work on ISHM presentation
+DEADLINE: <2026-05-08 Fri>

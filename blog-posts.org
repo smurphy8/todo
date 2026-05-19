@@ -1,10 +1,10 @@
 
 * Marketing/Case Study
 ** TODO Auxilliary SCADA to help fill gaps
-DEADLINE: <2026-05-08 Fri>
+DEADLINE: <2026-05-22 Fri>
 
 ** TODO Log Tables Feature Launch Video
-DEADLINE: <2026-05-08 Fri>
+DEADLINE: <2026-05-22 Fri>
 ** TODO Select edits for PDF that Paul put together. 
 ** TODO OnPing Overview Blog Post
 The goal of this post will be to provide an overview of OnPing from the point
@@ -19,7 +19,7 @@ pieces.
 
 ** Power Monitoring 
 ** Introducing Lumberjack Enterprise
-DEADLINE: <2026-05-08 Fri>
+DEADLINE: <2026-05-22 Fri>
 ** Approaches to Telemetry with OnPing
 
 ** TODO Blog Post: Brownfield Upgrade projects
@@ -77,34 +77,34 @@ CLOCK: [2025-03-28 Fri 10:19]--[2025-03-28 Fri 10:34] =>  0:15
 
 
 ** TODO Data Tables Technical / Power user Doc
-DEADLINE: <2026-05-08 Fri>
+DEADLINE: <2026-05-22 Fri>
 ** TODO Data Tables Feature Overview Doc
-DEADLINE: <2026-05-08 Fri>
+DEADLINE: <2026-05-22 Fri>
 ** TODO Data Tables Press Release
-DEADLINE: <2026-05-08 Fri>
+DEADLINE: <2026-05-22 Fri>
 :LOGBOOK:
 CLOCK: [2025-04-02 Wed 10:30]--[2025-04-02 Wed 11:34] =>  1:04
 :END:
 ** TODO Data Tables Identify Starter How Tos
-DEADLINE: <2026-05-08 Fri>
+DEADLINE: <2026-05-22 Fri>
 ** TODO Data Tables User Guide for each system
-DEADLINE: <2026-05-08 Fri>
+DEADLINE: <2026-05-22 Fri>
 ** TODO Data Tables Feature Launch Video
-DEADLINE: <2026-05-08 Fri>
+DEADLINE: <2026-05-22 Fri>
 ** TODO Data Tables Sales Enablement packet
-DEADLINE: <2026-05-08 Fri>
+DEADLINE: <2026-05-22 Fri>
 ** TODO Log Tables Technical / Power user Doc
-DEADLINE: <2026-05-08 Fri>
+DEADLINE: <2026-05-22 Fri>
 ** TODO Log Tables Feature Overview Doc
-DEADLINE: <2026-05-08 Fri>
+DEADLINE: <2026-05-22 Fri>
 ** TODO Log Tables Press Release
-DEADLINE: <2026-05-08 Fri>
+DEADLINE: <2026-05-22 Fri>
 ** TODO Log Tables Identify Starter How Tos
-DEADLINE: <2026-05-08 Fri>
+DEADLINE: <2026-05-22 Fri>
 ** TODO Log Tables User Guide for each system
-DEADLINE: <2026-05-08 Fri>
+DEADLINE: <2026-05-22 Fri>
 
 * TODO Log Tables Sales Enablement packet
-DEADLINE: <2026-05-08 Fri>
+DEADLINE: <2026-05-22 Fri>
 * TODO [[https://lucid.app/lucidchart/5e9d5a1c-bb1a-46a6-8f5c-b6f6d2cdf4ce/edit?viewport_loc=-11%2C-11%2C1963%2C1149%2C0_0&invitationId=inv_cec7a726-5fb5-4544-a812-09a3646e786e][Parameter Family Diagram thing]]
-DEADLINE: <2026-05-08 Fri>
+DEADLINE: <2026-05-22 Fri>
