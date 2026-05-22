@@ -32,7 +32,7 @@ DEADLINE: <2026-05-20 Wed>
 
 ** Last Run <2025-10-27 Mon>
 *** New PE Firms
-📋 Complete Energy PE Firm List
+📋 Complete Energy PE Firm List 
 
     Fulcrum Energy Capital Funds
 
