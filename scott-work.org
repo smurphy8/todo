@@ -1,4 +1,31 @@
 
+
+* TODO Sync Skills between laptops
+DEADLINE: <2026-05-22 Fri>
+
+
+* TODO Finish Diversified Totalizers
+SCHEDULED: <2026-05-21 Thu> DEADLINE: <2026-05-22 Fri>
+
+* DONE Add Skill for mass import file creation
+DEADLINE: <2026-05-20 Wed>
+
+* DONE Finish skill tooling using nix on pak laptop
+DEADLINE: <2026-05-20 Wed> SCHEDULED: <2026-05-19 Tue>
+
+* DONE Repair Freds script
+DEADLINE: <2026-05-19 Tue>
+
+* TODO Add Stats to Plunger at Compass
+SCHEDULED: <2026-05-21 Thu> DEADLINE: <2026-05-22 Fri>
+
+* DONE Set up kickoff meeting. 
+DEADLINE: <2026-05-19 Tue>
+
+* TODO Finish Town of Kiefer
+SCHEDULED: <2026-05-21 Thu> DEADLINE: <2026-05-22 Fri>
+
+
 * DONE Get Spec for Michael on Rabbit MQ system
 DEADLINE: <2026-04-07 Tue>
 

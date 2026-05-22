@@ -5,26 +5,26 @@ SCHEDULED: <2026-05-19 Tue> DEADLINE: <2026-05-20 Wed>
 DEADLINE: <2026-05-22 Fri>
 
 * Ask Brooke about her day, say "I love you" :Daily:
-SCHEDULED: <2026-05-19 Tue> DEADLINE: <2026-05-20 Wed>
+DEADLINE: <2026-05-22 Fri>
 :LOGBOOK:
 CLOCK: [2025-01-28 Tue 08:41]--[2025-01-28 Tue 08:41] =>  0:00
 :END:
 * TODO  ADO & Aha Work                                               :Weekly:
-SCHEDULED: <2026-05-19 Tue> DEADLINE: <2026-05-20 Wed>
+SCHEDULED: <2026-05-21 Thu> DEADLINE: <2026-05-22 Fri>
 + Last work <2025-10-15 Wed>
 
 * Twillio, Cell Major Usage Check                                    :Weekly:
-DEADLINE: <2026-05-20 Wed>
+DEADLINE: <2026-05-27 Wed>
 + last work <2025-10-13 Mon>
 
 * TODO Look at Starred Emails                                        :Weekly:
-DEADLINE: <2026-05-20 Wed>
+DEADLINE: <2026-05-27 Wed>
 Last Reviewed 2025-09-16
 * Clean Desk :Monthly:
-DEADLINE: <2026-05-20 Wed>
+DEADLINE: <2026-05-27 Wed>
 Last cleaned 2025-11-05
 * Clean up notes folder :Monthly:
-DEADLINE: <2026-05-20 Wed>
+DEADLINE: <2026-05-27 Wed>
 + Last Cleaned <2025-10-06 Mon>
 
 
@@ -168,6 +168,6 @@ DEADLINE: <2025-08-06 Wed>
 DEADLINE: <2026-04-24 Fri>
 
 * TODO Clean Backpack                                             :Quarterly:
-DEADLINE: <2026-05-20 Wed>
+DEADLINE: <2026-05-27 Wed>
 + Last clean <2025-10-07 Tue>
   
