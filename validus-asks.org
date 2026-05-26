@@ -254,7 +254,7 @@ DEADLINE: <2026-01-06 Tue>
 DEADLINE: <2026-01-06 Tue>
 
 * TODO LACT Automated Reporting
-DEADLINE: <2026-05-25 Mon>
+DEADLINE: <2026-06-01 Mon>
 
 * DONE Pricing Work 
 DEADLINE: <2025-08-16 Sat>

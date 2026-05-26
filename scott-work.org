@@ -1,11 +1,11 @@
 
 
 * TODO Sync Skills between laptops
-DEADLINE: <2026-05-22 Fri>
+DEADLINE: <2026-06-01 Mon>
 
 
 * TODO Finish Diversified Totalizers
-DEADLINE: <2026-05-22 Fri>
+DEADLINE: <2026-06-01 Mon>
 
 * DONE Add Skill for mass import file creation
 DEADLINE: <2026-05-20 Wed>
@@ -17,13 +17,13 @@ DEADLINE: <2026-05-20 Wed> SCHEDULED: <2026-05-19 Tue>
 DEADLINE: <2026-05-19 Tue>
 
 * TODO Add Stats to Plunger at Compass
-DEADLINE: <2026-05-22 Fri>
+DEADLINE: <2026-06-01 Mon>
 
 * DONE Set up kickoff meeting. 
 DEADLINE: <2026-05-19 Tue>
 
 * TODO Finish Town of Kiefer
-DEADLINE: <2026-05-22 Fri>
+DEADLINE: <2026-06-01 Mon>
 
 
 * DONE Get Spec for Michael on Rabbit MQ system
