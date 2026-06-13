@@ -1,16 +1,16 @@
 * DONE Upload OnPing Comm Loss
 DEADLINE: <2024-01-10 Wed>
 * TODO Introducing Data Tables
-DEADLINE: <2026-05-27 Wed>
+DEADLINE: <2026-06-15 Mon>
 * TODO How to use data analysis
-DEADLINE: <2026-05-27 Wed>
+DEADLINE: <2026-06-15 Mon>
 * DONE Intro to Control Parameters
 DEADLINE: <2025-10-29 Wed>
 * TODO Alarms
-DEADLINE: <2026-05-27 Wed>
+DEADLINE: <2026-06-15 Mon>
 * TODO Call Orders
-DEADLINE: <2026-05-27 Wed>
+DEADLINE: <2026-06-15 Mon>
 * DONE Write a what is OnPing Animation video 
 DEADLINE: <2026-02-12 Thu>
-* TODO Downhole Card Time Travel
-DEADLINE: <2026-05-27 Wed>
+* DONE Downhole Card Time Travel
+DEADLINE: <2026-05-29 Fri>

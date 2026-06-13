@@ -1,11 +1,11 @@
 
 
-* TODO Sync Skills between laptops
-DEADLINE: <2026-05-27 Wed>
+* DONE Sync Skills between laptops
+DEADLINE: <2026-05-28 Thu>
 
 
 * TODO Finish Diversified Totalizers
-DEADLINE: <2026-05-27 Wed> SCHEDULED: <2026-05-22 Fri>
+DEADLINE: <2026-06-03 Wed>
 
 * DONE Add Skill for mass import file creation
 DEADLINE: <2026-05-20 Wed>
@@ -17,13 +17,13 @@ DEADLINE: <2026-05-20 Wed> SCHEDULED: <2026-05-19 Tue>
 DEADLINE: <2026-05-19 Tue>
 
 * TODO Add Stats to Plunger at Compass
-DEADLINE: <2026-05-27 Wed>
+DEADLINE: <2026-06-03 Wed>
 
 * DONE Set up kickoff meeting. 
 DEADLINE: <2026-05-19 Tue>
 
-* TODO Finish Town of Kiefer
-DEADLINE: <2026-05-27 Wed> SCHEDULED: <2026-05-22 Fri>
+* DONE Finish Town of Kiefer
+DEADLINE: <2026-05-28 Thu>
 
 
 * DONE Get Spec for Michael on Rabbit MQ system
@@ -41,3 +41,60 @@ DEADLINE:
 
 * DONE Work on ISHM presentation
 DEADLINE: <2026-05-08 Fri>
+
+* TODO Work on Lumberjack Security Doc
+DEADLINE: <2026-06-03 Wed>
+
+Maritime Port Cyber Policy
+#+begin_quote
+33 CFR Part 101, Subpart F establishes the mandatory baseline cybersecurity standards for
+U.S.-flagged vessels, Outer Continental Shelf (OCS) facilities, and maritime facilities regulated
+under the Maritime Transportation Security Act (MTSA). It mandates strict requirements for incident
+reporting, system protections, and personnel oversight to secure the Marine Transportation System
+(MTS).
+
+Core mandates outlined in Subpart F (33 CFR 101.600 - 615) encompass:
+
+Cybersecurity Plans: Affected owners and operators must develop and maintain documented
+Cybersecurity Plans and Cyber Incident Response Plans.
+
+Data Security Measures: These plans require secure capturing and storage of digital logs, alongside
+effective encryption to maintain the confidentiality and integrity of critical IT and Operational
+Technology (OT) traffic.
+
+Designated Personnel: Entities must designate a Cybersecurity Officer (CySO) charged with
+implementing the security plans, organizing annual audits, and overseeing cybersecurity training.
+
+Incident Reporting: Operators must immediately report "reportable cyber incidents" (events that
+significantly disrupt business operations, lead to unauthorized access, or cause a transportation
+security incident) to the National Response Center (NRC).
+#+end_quote
+
+* TODO Work on PLC version of Kiosk Form. 
+DEADLINE: <2026-06-03 Wed>
+
+* DONE work on hours for ergon 
+DEADLINE: <2026-06-02 Tue>
+
+* TODO Work on Camino plan
+DEADLINE: <2026-06-03 Wed>
+
+* DONE Work on Plateau
+DEADLINE: <2026-06-02 Tue>
+
+* TODO Check on seth lawsuit
+DEADLINE: <2026-06-03 Wed>
+
+* TODO Work on getting pid templates first draft for Validus
+DEADLINE: <2026-06-04 Thu>
+
+* TODO Respond to email from Jamie about planning
+DEADLINE: <2026-06-03 Wed>
+SCADA / OnPing Plan
+Thanks Scott.  How soon can we have a good plan laid out to review by site with the team? 
+Additionally, the terminal team has shared their desire to physically see a demonstration
+at a site and let users at the terminal / truck drivers operate the system end to end. 
+Is this something we could do?  
+
+* TODO [[https://docs.google.com/document/d/1q9X3pU73QmjkTYg5_q9Vq2Ud_iuWydyKs54M515zSus/edit?tab=t.0][Demand Letter]]
+DEADLINE: <2026-06-05 Fri>
