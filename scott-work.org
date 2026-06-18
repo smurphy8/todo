@@ -5,7 +5,7 @@ DEADLINE: <2026-05-28 Thu>
 
 
 * TODO Finish Diversified Totalizers
-DEADLINE: <2026-06-03 Wed>
+DEADLINE: <2026-06-23 Tue>
 
 * DONE Add Skill for mass import file creation
 DEADLINE: <2026-05-20 Wed>
@@ -17,7 +17,7 @@ DEADLINE: <2026-05-20 Wed> SCHEDULED: <2026-05-19 Tue>
 DEADLINE: <2026-05-19 Tue>
 
 * TODO Add Stats to Plunger at Compass
-DEADLINE: <2026-06-03 Wed>
+DEADLINE: <2026-06-23 Tue>
 
 * DONE Set up kickoff meeting. 
 DEADLINE: <2026-05-19 Tue>
@@ -43,7 +43,7 @@ DEADLINE:
 DEADLINE: <2026-05-08 Fri>
 
 * TODO Work on Lumberjack Security Doc
-DEADLINE: <2026-06-03 Wed>
+DEADLINE: <2026-06-23 Tue>
 
 Maritime Port Cyber Policy
 #+begin_quote
@@ -71,30 +71,40 @@ security incident) to the National Response Center (NRC).
 #+end_quote
 
 * TODO Work on PLC version of Kiosk Form. 
-DEADLINE: <2026-06-03 Wed>
+DEADLINE: <2026-06-23 Tue>
 
 * DONE work on hours for ergon 
 DEADLINE: <2026-06-02 Tue>
 
 * TODO Work on Camino plan
-DEADLINE: <2026-06-03 Wed>
+DEADLINE: <2026-06-23 Tue>
 
 * DONE Work on Plateau
 DEADLINE: <2026-06-02 Tue>
 
 * TODO Check on seth lawsuit
-DEADLINE: <2026-06-03 Wed>
+DEADLINE: <2026-06-23 Tue>
 
 * TODO Work on getting pid templates first draft for Validus
-DEADLINE: <2026-06-04 Thu>
+DEADLINE: <2026-06-23 Tue>
 
 * TODO Respond to email from Jamie about planning
-DEADLINE: <2026-06-03 Wed>
+DEADLINE: <2026-06-23 Tue>
 SCADA / OnPing Plan
 Thanks Scott.  How soon can we have a good plan laid out to review by site with the team? 
 Additionally, the terminal team has shared their desire to physically see a demonstration
 at a site and let users at the terminal / truck drivers operate the system end to end. 
 Is this something we could do?  
 
-* TODO [[https://docs.google.com/document/d/1q9X3pU73QmjkTYg5_q9Vq2Ud_iuWydyKs54M515zSus/edit?tab=t.0][Demand Letter]]
-DEADLINE: <2026-06-05 Fri>
+* DONE [[https://docs.google.com/document/d/1q9X3pU73QmjkTYg5_q9Vq2Ud_iuWydyKs54M515zSus/edit?tab=t.0][Demand Letter]]
+DEADLINE: <2026-06-23 Tue>
+
+* DONE Get Rabbit MQ status update.
+DEADLINE: <2026-06-23 Tue>
+
+* TODO Hey Scott - that MQTT pipeline sending the dynacard 
+DEADLINE: <2026-06-23 Tue>
+Hey Scott - that MQTT pipeline for sending the dynacard to the LJ should be in place. Not sure that Jaime or Tyler let you know. It’s on the Knoss unit and should be running now. 
+
+* TODO [[https://www.rahuljuliato.com/posts/emacs-31-around-the-corner][Emacs 31 replace non builtins]]
+DEADLINE: <2026-07-18 Sat>

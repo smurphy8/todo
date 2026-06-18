@@ -1,0 +1,18 @@
+* DONE - Nerc SIP , CSET
+DEADLINE: <2025-01-01 Wed>
+* DONE ISA/IEC 62443 Product Certifcation
+DEADLINE: <2025-01-06 Mon>
+https://21577316.fs1.hubspotusercontent-na1.net/hubfs/21577316/ISASecure_ICSA-Cert-flyer.pdf
+* DONE AI Emissions Detection
+DEADLINE: <2025-01-06 Mon>
+* TODO  Follow up with EOS LJS
+** Project EOS LJs: Duke 1
+** Project EOS LJs: Valley Childrens Hospital 1
+** Project EOS LJs: Carsen EOS 1
+** Project EOS LJs: ENEL Pilot Project 1
+** Project EOS LJs: Charge Bliss - Permission to turn on (PTO)
+* TODO Questions
++ Asset?
++ Nominal Cash Flow
++ Trucks
++ Insurance      

@@ -1,14 +1,14 @@
 * TODO Alarm Permissions
-DEADLINE: <2026-06-15 Mon>
+DEADLINE: <2026-06-23 Tue>
 * TODO Alarm Log Usage
-DEADLINE: <2026-06-15 Mon>
+DEADLINE: <2026-06-23 Tue>
 * TODO Alarm Callout Logic
-DEADLINE: <2026-06-15 Mon>
+DEADLINE: <2026-06-23 Tue>
 * TODO Alarm Table
-DEADLINE: <2026-06-15 Mon>
+DEADLINE: <2026-06-23 Tue>
 * TODO Pinging a device
-DEADLINE: <2026-06-15 Mon>
+DEADLINE: <2026-06-23 Tue>
 * TODO Using a Data Table
-DEADLINE: <2026-06-15 Mon>
+DEADLINE: <2026-06-23 Tue>
 * TODO Using a filter
-DEADLINE: <2026-06-15 Mon>
+DEADLINE: <2026-06-23 Tue>
