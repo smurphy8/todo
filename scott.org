@@ -12,3 +12,8 @@ SCHEDULED: <2026-01-12 Mon> DEADLINE: <2026-01-13 Tue>
 DEADLINE: <2026-01-06 Tue>
 + https://www.puritydayspaokc.com/contact
 
+* TODO Anniversary Present for Brooke
+DEADLINE: <2026-06-29 Mon>
+
+* TODO Check on discord email change 
+DEADLINE: <2026-07-07 Tue>

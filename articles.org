@@ -1,5 +1,5 @@
 * Arxiv Review - Have you looked at what you arleady have!!
-DEADLINE: <2026-06-19 Fri>
+DEADLINE: <2026-06-23 Tue>
 
 * DONE [[https://www.inc.com/jeff-haden/elon-musks-algorithm-a-5-step-process-to-dramatically-improve-nearly-everything-is-both-simple-brilliant.html][5 Step Elon Algo]]
 DEADLINE: <2025-10-24 Fri>

@@ -1,31 +1,31 @@
 
 * [[~/notes/professional-journal/year-2026/year-2026.org][Journal Entries]]:Daily:
-DEADLINE: <2026-06-19 Fri>
+DEADLINE: <2026-06-23 Tue>
 
-* TODO [[https://lucid.app/lucidchart/dc919919-c50d-43a6-8e46-13683d912660/edit?viewport_loc=-28%2C65%2C2206%2C1284%2CBHokw2pKlh~V&invitationId=inv_baa3dcfe-03b1-4713-94e0-85290d6473ac][Update Work Self]] and Journal about it. :Weekly:
-DEADLINE: <2026-06-19 Fri>
+* [[https://lucid.app/lucidchart/dc919919-c50d-43a6-8e46-13683d912660/edit?viewport_loc=-28%2C65%2C2206%2C1284%2CBHokw2pKlh~V&invitationId=inv_baa3dcfe-03b1-4713-94e0-85290d6473ac][Update Work Self]] and Journal about it. :Weekly:
+DEADLINE: <2026-06-23 Tue>
 
 * Ask Brooke about her day, say "I love you" :Daily:
-DEADLINE: <2026-06-19 Fri>
+DEADLINE: <2026-06-23 Tue>
 :LOGBOOK:
 CLOCK: [2025-01-28 Tue 08:41]--[2025-01-28 Tue 08:41] =>  0:00
 :END:
 * ADO & Aha Work                                                     :Weekly:
-DEADLINE: <2026-06-19 Fri>
+DEADLINE: <2026-06-23 Tue>
 + Last work <2025-10-15 Wed>
 
 * Twillio, Cell Major Usage Check                                    :Weekly:
-DEADLINE: <2026-06-19 Fri>
+DEADLINE: <2026-06-23 Tue>
 + last work <2025-10-13 Mon>
 
 * TODO Look at Starred Emails                                        :Weekly:
-DEADLINE: <2026-06-19 Fri>
+DEADLINE: <2026-06-26 Fri>
 Last Reviewed 2025-09-16
 * Clean Desk :Monthly:
-DEADLINE: <2026-06-19 Fri>
+DEADLINE: <2026-06-26 Fri>
 Last cleaned 2025-11-05
 * Clean up notes folder :Monthly:
-DEADLINE: <2026-06-19 Fri>
+DEADLINE: <2026-06-26 Fri>
 + Last Cleaned <2025-10-06 Mon>
 
 
@@ -169,6 +169,6 @@ DEADLINE: <2025-08-06 Wed>
 DEADLINE: <2026-04-24 Fri>
 
 * TODO Clean Backpack                                             :Quarterly:
-DEADLINE: <2026-06-19 Fri>
+DEADLINE: <2026-06-26 Fri>
 + Last clean <2025-10-07 Tue>
   

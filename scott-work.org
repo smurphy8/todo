@@ -5,7 +5,7 @@ DEADLINE: <2026-05-28 Thu>
 
 
 * TODO Finish Diversified Totalizers
-DEADLINE: <2026-06-23 Tue>
+DEADLINE: <2026-06-29 Mon>
 
 * DONE Add Skill for mass import file creation
 DEADLINE: <2026-05-20 Wed>
@@ -17,7 +17,7 @@ DEADLINE: <2026-05-20 Wed> SCHEDULED: <2026-05-19 Tue>
 DEADLINE: <2026-05-19 Tue>
 
 * TODO Add Stats to Plunger at Compass
-DEADLINE: <2026-06-23 Tue>
+DEADLINE: <2026-06-29 Mon>
 
 * DONE Set up kickoff meeting. 
 DEADLINE: <2026-05-19 Tue>
@@ -42,7 +42,7 @@ DEADLINE:
 * DONE Work on ISHM presentation
 DEADLINE: <2026-05-08 Fri>
 
-* TODO Work on Lumberjack Security Doc
+* DONE Work on Lumberjack Security Doc
 DEADLINE: <2026-06-23 Tue>
 
 Maritime Port Cyber Policy
@@ -71,24 +71,24 @@ security incident) to the National Response Center (NRC).
 #+end_quote
 
 * TODO Work on PLC version of Kiosk Form. 
-DEADLINE: <2026-06-23 Tue>
+DEADLINE: <2026-06-23 Tue> SCHEDULED: <2026-06-22 Mon>
 
 * DONE work on hours for ergon 
 DEADLINE: <2026-06-02 Tue>
 
-* TODO Work on Camino plan
+* DONE Work on Camino plan
 DEADLINE: <2026-06-23 Tue>
 
 * DONE Work on Plateau
 DEADLINE: <2026-06-02 Tue>
 
 * TODO Check on seth lawsuit
+DEADLINE: <2026-06-29 Mon>
+
+* DONE Work on getting pid templates first draft for Validus
 DEADLINE: <2026-06-23 Tue>
 
-* TODO Work on getting pid templates first draft for Validus
-DEADLINE: <2026-06-23 Tue>
-
-* TODO Respond to email from Jamie about planning
+* DONE Respond to email from Jamie about planning
 DEADLINE: <2026-06-23 Tue>
 SCADA / OnPing Plan
 Thanks Scott.  How soon can we have a good plan laid out to review by site with the team? 
@@ -108,3 +108,9 @@ Hey Scott - that MQTT pipeline for sending the dynacard to the LJ should be in p
 
 * TODO [[https://www.rahuljuliato.com/posts/emacs-31-around-the-corner][Emacs 31 replace non builtins]]
 DEADLINE: <2026-07-18 Sat>
+
+* TODO Get Validus ML parameters made in OnPing
+DEADLINE: <2026-06-23 Tue>
+
+* TODO Retrain Well Models
+DEADLINE: <2026-06-23 Tue>
