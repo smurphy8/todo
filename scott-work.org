@@ -4,8 +4,8 @@
 DEADLINE: <2026-05-28 Thu>
 
 
-* TODO Finish Diversified Totalizers
-DEADLINE: <2026-06-29 Mon>
+* DONE Finish Diversified Totalizers
+DEADLINE: <2026-07-07 Tue>
 
 * DONE Add Skill for mass import file creation
 DEADLINE: <2026-05-20 Wed>
@@ -17,7 +17,7 @@ DEADLINE: <2026-05-20 Wed> SCHEDULED: <2026-05-19 Tue>
 DEADLINE: <2026-05-19 Tue>
 
 * TODO Add Stats to Plunger at Compass
-DEADLINE: <2026-06-29 Mon>
+SCHEDULED: <2026-07-09 Thu> DEADLINE: <2026-07-10 Fri>
 
 * DONE Set up kickoff meeting. 
 DEADLINE: <2026-05-19 Tue>
@@ -43,7 +43,7 @@ DEADLINE:
 DEADLINE: <2026-05-08 Fri>
 
 * DONE Work on Lumberjack Security Doc
-DEADLINE: <2026-06-23 Tue>
+DEADLINE: <2026-06-24 Wed>
 
 Maritime Port Cyber Policy
 #+begin_quote
@@ -70,8 +70,8 @@ significantly disrupt business operations, lead to unauthorized access, or cause
 security incident) to the National Response Center (NRC).
 #+end_quote
 
-* TODO Work on PLC version of Kiosk Form. 
-DEADLINE: <2026-06-23 Tue> SCHEDULED: <2026-06-22 Mon>
+* DONE Work on PLC version of Kiosk Form. 
+DEADLINE: <2026-07-07 Tue>
 
 * DONE work on hours for ergon 
 DEADLINE: <2026-06-02 Tue>
@@ -83,7 +83,7 @@ DEADLINE: <2026-06-23 Tue>
 DEADLINE: <2026-06-02 Tue>
 
 * TODO Check on seth lawsuit
-DEADLINE: <2026-06-29 Mon>
+DEADLINE: <2026-07-10 Fri>
 
 * DONE Work on getting pid templates first draft for Validus
 DEADLINE: <2026-06-23 Tue>
@@ -103,14 +103,32 @@ DEADLINE: <2026-06-23 Tue>
 DEADLINE: <2026-06-23 Tue>
 
 * TODO Hey Scott - that MQTT pipeline sending the dynacard 
-DEADLINE: <2026-06-23 Tue>
+DEADLINE: <2026-07-12 Sun>
 Hey Scott - that MQTT pipeline for sending the dynacard to the LJ should be in place. Not sure that Jaime or Tyler let you know. It’s on the Knoss unit and should be running now. 
 
 * TODO [[https://www.rahuljuliato.com/posts/emacs-31-around-the-corner][Emacs 31 replace non builtins]]
 DEADLINE: <2026-07-18 Sat>
 
-* TODO Get Validus ML parameters made in OnPing
-DEADLINE: <2026-06-23 Tue>
+* DONE Get Validus ML parameters made in OnPing
+DEADLINE: <2026-07-07 Tue>
 
 * TODO Retrain Well Models
-DEADLINE: <2026-06-23 Tue>
+DEADLINE: <2026-07-10 Fri>
+
+* DONE Four Point - Hayden Pierce 
+DEADLINE: <2026-07-07 Tue>
+
+* TODO [[https://outlook.cloud.microsoft/mail/inbox/id/AAQkADE5M2ZjODFmLWNmZjItNDQ0My04NTg2LWFlYjU5YmQxYzQzOAAQABOHj%2Bl9mFdPm%2FSrqWq4QOs%3D][Freedom Energy Pricing with new wells]]
+SCHEDULED: <2026-07-09 Thu> DEADLINE: <2026-07-10 Fri>
+
+* TODO Adjust Dallas pricing to 780.60
+DEADLINE: <2026-07-10 Fri> SCHEDULED: <2026-07-09 Thu>
+
+* TODO [[https://outlook.cloud.microsoft/mail/inbox/id/AAQkADE5M2ZjODFmLWNmZjItNDQ0My04NTg2LWFlYjU5YmQxYzQzOAAQANfvJsSjJuJKiedDqfh7g%2B8%3D][Ergon Lane Sign]]
+SCHEDULED: <2026-07-09 Thu> DEADLINE: <2026-07-10 Fri>
+
+* TODO Rabbit MQ Feature and Doc gen
+DEADLINE: <2026-07-11 Sat>
+
+* TODO Counts on Davis Bros LJ
+SCHEDULED: <2026-07-09 Thu> DEADLINE: <2026-07-10 Fri>
