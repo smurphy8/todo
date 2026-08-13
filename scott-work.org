@@ -16,8 +16,8 @@ DEADLINE: <2026-05-20 Wed> SCHEDULED: <2026-05-19 Tue>
 * DONE Repair Freds script
 DEADLINE: <2026-05-19 Tue>
 
-* TODO Add Stats to Plunger at Compass
-DEADLINE: <2026-07-24 Fri>
+* DONE Add Stats to Plunger at Compass
+DEADLINE: <2026-08-04 Tue>
 
 * DONE Set up kickoff meeting. 
 DEADLINE: <2026-05-19 Tue>
@@ -83,7 +83,7 @@ DEADLINE: <2026-06-23 Tue>
 DEADLINE: <2026-06-02 Tue>
 
 * TODO Check on seth lawsuit
-DEADLINE: <2026-07-24 Fri>
+DEADLINE: <2026-08-19 Wed>
 
 * DONE Work on getting pid templates first draft for Validus
 DEADLINE: <2026-06-23 Tue>
@@ -103,35 +103,60 @@ DEADLINE: <2026-06-23 Tue>
 DEADLINE: <2026-06-23 Tue>
 
 * TODO Hey Scott - that MQTT pipeline sending the dynacard 
-DEADLINE: <2026-07-24 Fri>
+DEADLINE: <2026-08-14 Fri>
 Hey Scott - that MQTT pipeline for sending the dynacard to the LJ should be in place. Not sure that Jaime or Tyler let you know. It’s on the Knoss unit and should be running now. 
 
 * TODO [[https://www.rahuljuliato.com/posts/emacs-31-around-the-corner][Emacs 31 replace non builtins]]
-DEADLINE: <2026-07-24 Fri>
+DEADLINE: <2026-08-14 Fri>
 
 * DONE Get Validus ML parameters made in OnPing
 DEADLINE: <2026-07-07 Tue>
 
 * TODO Retrain Well Models
-DEADLINE: <2026-07-24 Fri>
+SCHEDULED: <2026-08-12 Wed> DEADLINE: <2026-08-13 Thu>
 
 * DONE Four Point - Hayden Pierce 
 DEADLINE: <2026-07-07 Tue>
 
 * TODO [[https://outlook.cloud.microsoft/mail/inbox/id/AAQkADE5M2ZjODFmLWNmZjItNDQ0My04NTg2LWFlYjU5YmQxYzQzOAAQABOHj%2Bl9mFdPm%2FSrqWq4QOs%3D][Freedom Energy Pricing with new wells]]
-DEADLINE: <2026-07-24 Fri>
+DEADLINE: <2026-08-13 Thu>
 
-* TODO Adjust Dallas pricing to 780.60
-DEADLINE: <2026-07-24 Fri>
+* DONE Adjust Dallas pricing to 780.60
+DEADLINE: <2026-07-25 Sat>
 
 * TODO [[https://outlook.cloud.microsoft/mail/inbox/id/AAQkADE5M2ZjODFmLWNmZjItNDQ0My04NTg2LWFlYjU5YmQxYzQzOAAQANfvJsSjJuJKiedDqfh7g%2B8%3D][Ergon Lane Sign]]
-DEADLINE: <2026-07-24 Fri>
+SCHEDULED: <2026-08-12 Wed> DEADLINE: <2026-08-13 Thu>
 
 * TODO Rabbit MQ Feature and Doc gen
-DEADLINE: <2026-07-24 Fri>
+DEADLINE: <2026-08-13 Thu>
 
 * TODO Counts on Davis Bros LJ
-DEADLINE: <2026-07-24 Fri>
+DEADLINE: <2026-08-13 Thu>
 
 * TODO Work on Holdout pricing
-DEADLINE: <2026-07-24 Fri> SCHEDULED: <2026-07-23 Thu>
+DEADLINE: <2026-08-13 Thu>
+
+* TODO [[https://outlook.cloud.microsoft/mail/inbox/id/AAQkADE5M2ZjODFmLWNmZjItNDQ0My04NTg2LWFlYjU5YmQxYzQzOAAQANOFxKcKcxNAsobv8XFsEfc%3D][Chase Fix]]
+SCHEDULED: <2026-08-12 Wed> DEADLINE: <2026-08-13 Thu>
+
+* DONE Worth noting the LLM reported [APPLIED] Behavior STABLE, 100% arrivals
+DEADLINE: <2026-08-12 Wed>
+Afterflow stick problem.
+
+on a tick where both action dims sat floored on +82σ input. arrivalSuccessRate = 1.0 keeps arrival-based checks quiet, so nothing in the current gate stack catches this
+  class of failure.
+
+* TODO Set up Open Router
+DEADLINE: <2026-08-15 Sat>
+
+* TODO Budget CCL
+DEADLINE: <2026-08-13 Thu>
+
+* TODO Budget Firefly Systems
+SCHEDULED: <2026-08-12 Wed> DEADLINE: <2026-08-13 Thu>
+
+* TODO Work on LoRa for firefly
+DEADLINE: <2026-08-13 Thu>
+
+* TODO Add features for Mirko
+SCHEDULED: <2026-08-12 Wed> DEADLINE: <2026-08-13 Thu>
