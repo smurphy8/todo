@@ -83,7 +83,7 @@ DEADLINE: <2026-06-23 Tue>
 DEADLINE: <2026-06-02 Tue>
 
 * TODO Check on seth lawsuit
-DEADLINE: <2026-08-24 Mon>
+DEADLINE: <2026-08-29 Sat>
 
 * DONE Work on getting pid templates first draft for Validus
 DEADLINE: <2026-06-23 Tue>
@@ -113,25 +113,25 @@ DEADLINE: <2026-08-28 Fri>
 DEADLINE: <2026-07-07 Tue>
 
 * TODO Retrain Well Models
-DEADLINE: <2026-08-25 Tue>
+SCHEDULED: <2026-08-28 Fri> DEADLINE: <2026-08-29 Sat>
 
 * DONE Four Point - Hayden Pierce 
 DEADLINE: <2026-07-07 Tue>
 
 * TODO [[https://outlook.cloud.microsoft/mail/inbox/id/AAQkADE5M2ZjODFmLWNmZjItNDQ0My04NTg2LWFlYjU5YmQxYzQzOAAQABOHj%2Bl9mFdPm%2FSrqWq4QOs%3D][Freedom Energy Pricing with new wells]]
-DEADLINE: <2026-08-25 Tue>
+DEADLINE: <2026-08-29 Sat>
 
 * DONE Adjust Dallas pricing to 780.60
 DEADLINE: <2026-07-25 Sat>
 
 * TODO [[https://outlook.cloud.microsoft/mail/inbox/id/AAQkADE5M2ZjODFmLWNmZjItNDQ0My04NTg2LWFlYjU5YmQxYzQzOAAQANfvJsSjJuJKiedDqfh7g%2B8%3D][Ergon Lane Sign]]
-DEADLINE: <2026-08-25 Tue>
+DEADLINE: <2026-08-29 Sat>
 
 * TODO Rabbit MQ Feature and Doc gen
-DEADLINE: <2026-08-25 Tue>
+DEADLINE: <2026-08-27 Thu>
 
 * TODO Counts on Davis Bros LJ
-DEADLINE: <2026-08-25 Tue>
+DEADLINE: <2026-08-27 Thu>
 
 * DONE Work on Holdout pricing
 DEADLINE: <2026-08-22 Sat>
@@ -146,20 +146,20 @@ Afterflow stick problem.
 on a tick where both action dims sat floored on +82σ input. arrivalSuccessRate = 1.0 keeps arrival-based checks quiet, so nothing in the current gate stack catches this
   class of failure.
 
-* TODO Set up Open Router
+* DONE Set up Open Router
 DEADLINE: <2026-08-25 Tue>
 
-* TODO Budget CCL
+* DONE Budget CCL
 DEADLINE: <2026-08-25 Tue>
 
-* TODO Budget Firefly Systems
+* DONE Budget Firefly Systems
 DEADLINE: <2026-08-25 Tue>
 
 * TODO Work on LoRa for firefly
-DEADLINE: <2026-08-25 Tue>
+DEADLINE: <2026-08-29 Sat>
 
-* TODO Add features for Mirko
-DEADLINE: <2026-08-25 Tue>
+* DONE Add features for Mirko
+DEADLINE: <2026-08-26 Wed>
 
 * DONE Look for Juniors instructions
 DEADLINE: <2026-08-22 Sat>
@@ -173,11 +173,32 @@ SCHEDULED: <2026-08-21 Fri> DEADLINE: <2026-08-21 Fri>
 * DONE Read Agenda from Derek
 SCHEDULED: <2026-08-21 Fri> DEADLINE: <2026-08-22 Sat>
 
-* TODO EIN CCL
+* DONE EIN CCL
+DEADLINE: <2026-08-26 Wed>
+
+* DONE EIN Firefly
+DEADLINE: <2026-08-26 Wed>
+
+* DONE Talk with Tyler about percentage. 
 DEADLINE: <2026-08-24 Mon>
 
-* TODO EIN Firefly
-DEADLINE: <2026-08-24 Mon>
+* DONE Get Rory the inferno ML inference issue list
+DEADLINE: <2026-08-26 Wed>
 
-* TODO Talk with Tyler about percentage. 
-DEADLINE: <2026-08-24 Mon>
+* DONE Firefly Get Bank Account
+DEADLINE: <2026-08-26 Wed>
+
+* DONE CCL Get Bank Account
+DEADLINE: <2026-08-26 Wed>
+
+* TODO CCL Register Domain
+SCHEDULED: <2026-08-28 Fri> DEADLINE: <2026-08-29 Sat>
+
+* TODO Finish test hardening for plunger_opt
+DEADLINE: <2026-08-26 Wed>
+
+* TODO Look at Barkley and Seth emails.
+DEADLINE: <2026-08-28 Fri>
+
+* TODO Nathan Validus: Fall Velocity
+DEADLINE: <2026-09-01 Tue>
