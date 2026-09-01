@@ -127,11 +127,11 @@ DEADLINE: <2026-07-25 Sat>
 * TODO [[https://outlook.cloud.microsoft/mail/inbox/id/AAQkADE5M2ZjODFmLWNmZjItNDQ0My04NTg2LWFlYjU5YmQxYzQzOAAQANfvJsSjJuJKiedDqfh7g%2B8%3D][Ergon Lane Sign]]
 DEADLINE: <2026-09-07 Mon>
 
-* TODO Rabbit MQ Feature and Doc gen
-DEADLINE: <2026-09-01 Tue>
+* TODO Rabbit MQ Feature and Doc gen                                     :1d:
+DEADLINE: <2026-09-02 Wed>
 
 * TODO Counts on Davis Bros LJ
-DEADLINE: <2026-09-01 Tue>
+DEADLINE: <2026-09-02 Wed>
 
 * DONE Work on Holdout pricing
 DEADLINE: <2026-08-22 Sat>
@@ -191,14 +191,41 @@ DEADLINE: <2026-08-26 Wed>
 * DONE CCL Get Bank Account
 DEADLINE: <2026-08-26 Wed>
 
-* TODO CCL Register Domain
+* DONE CCL Register Domain
 DEADLINE: <2026-09-01 Tue>
 
-* TODO Finish test hardening for plunger_opt
+* DONE Finish test hardening for plunger_opt
 DEADLINE: <2026-09-01 Tue>
 
 * TODO Look at Barkley and Seth emails.
 DEADLINE: <2026-09-07 Mon>
 
 * TODO Nathan Validus: Fall Velocity
-DEADLINE: <2026-09-01 Tue>
+SCHEDULED: <2026-09-01 Tue> DEADLINE: <2026-09-02 Wed>
+
+* TODO Vehicles Year, Make, VIN, Value , garaging address :COOKIE:
+SCHEDULED: <2026-09-01 Tue> DEADLINE: <2026-09-02 Wed>
+
+* TODO Drivers: copies of license for all operators :COOKIE:
+SCHEDULED: <2026-09-01 Tue> DEADLINE: <2026-09-02 Wed>
+
+* TODO Coverage: What coverage are you requiring for the vehicle :COOKIE:
+SCHEDULED: <2026-09-01 Tue> DEADLINE: <2026-09-02 Wed>
+
+* TODO Name and mailing address for the named insured(company) :COOKIE:
+SCHEDULED: <2026-09-01 Tue> DEADLINE: <2026-09-02 Wed>
+
+* TODO Copy of Corporation Certificate showing ownership with both parties in one Corporation
+SCHEDULED: <2026-09-01 Tue> DEADLINE: <2026-09-02 Wed>
+
+* TODO W4 for both parties (new company requirement)
+SCHEDULED: <2026-09-01 Tue> DEADLINE: <2026-09-02 Wed>
+
+* TODO Signature pages for Group Documents :FIREFLY:
+SCHEDULED: <2026-09-01 Tue> DEADLINE: <2026-09-02 Wed>
+
+* TODO Application from partner (showing other coverage) and your application with all information :FIREFLY::COOKIE:
+SCHEDULED: <2026-09-01 Tue> DEADLINE: <2026-09-02 Wed>
+
+* TODO Schedule call to gather information for group paperwork :FIREFLY:
+SCHEDULED: <2026-09-01 Tue> DEADLINE: <2026-09-02 Wed>
