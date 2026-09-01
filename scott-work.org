@@ -197,10 +197,10 @@ DEADLINE: <2026-09-01 Tue>
 * DONE Finish test hardening for plunger_opt
 DEADLINE: <2026-09-01 Tue>
 
-* TODO Look at Barkley and Seth emails.
+* DONE Look at Barkley and Seth emails. :OnPing:
 DEADLINE: <2026-09-07 Mon>
 
-* TODO Nathan Validus: Fall Velocity
+* TODO Nathan Validus: Fall Velocity :OnPing:
 SCHEDULED: <2026-09-01 Tue> DEADLINE: <2026-09-02 Wed>
 
 * TODO Vehicles Year, Make, VIN, Value , garaging address :COOKIE:
@@ -215,7 +215,7 @@ SCHEDULED: <2026-09-01 Tue> DEADLINE: <2026-09-02 Wed>
 * TODO Name and mailing address for the named insured(company) :COOKIE:
 SCHEDULED: <2026-09-01 Tue> DEADLINE: <2026-09-02 Wed>
 
-* TODO Copy of Corporation Certificate showing ownership with both parties in one Corporation
+* TODO Copy of Corporation Certificate showing ownership with both parties in one Corporation :COOKIE:FIREFLY:
 SCHEDULED: <2026-09-01 Tue> DEADLINE: <2026-09-02 Wed>
 
 * TODO W4 for both parties (new company requirement)
@@ -229,3 +229,6 @@ SCHEDULED: <2026-09-01 Tue> DEADLINE: <2026-09-02 Wed>
 
 * TODO Schedule call to gather information for group paperwork :FIREFLY:
 SCHEDULED: <2026-09-01 Tue> DEADLINE: <2026-09-02 Wed>
+
+* TODO Add AI Status to wells :OnPing:
+DEADLINE: <2026-09-02 Wed>
