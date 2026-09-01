@@ -6,7 +6,7 @@ SCHEDULED: <2026-09-01 Tue> DEADLINE: <2026-09-02 Wed>
 SCHEDULED: <2026-09-01 Tue> DEADLINE: <2026-09-02 Wed>
 
 * Ask Brooke about her day, say "I love you" :Daily:
-SCHEDULED: <2026-09-01 Tue> DEADLINE: <2026-09-02 Wed>
+DEADLINE: <2026-09-02 Wed>
 :LOGBOOK:
 CLOCK: [2025-01-28 Tue 08:41]--[2025-01-28 Tue 08:41] =>  0:00
 :END:
