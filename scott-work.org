@@ -83,7 +83,7 @@ DEADLINE: <2026-06-23 Tue>
 DEADLINE: <2026-06-02 Tue>
 
 * TODO Check on seth lawsuit
-DEADLINE: <2026-08-29 Sat>
+DEADLINE: <2026-09-07 Mon>
 
 * DONE Work on getting pid templates first draft for Validus
 DEADLINE: <2026-06-23 Tue>
@@ -107,31 +107,31 @@ DEADLINE: <2026-09-04 Fri>
 Hey Scott - that MQTT pipeline for sending the dynacard to the LJ should be in place. Not sure that Jaime or Tyler let you know. It’s on the Knoss unit and should be running now. 
 
 * TODO [[https://www.rahuljuliato.com/posts/emacs-31-around-the-corner][Emacs 31 replace non builtins]]
-DEADLINE: <2026-08-28 Fri>
+DEADLINE: <2026-09-07 Mon>
 
 * DONE Get Validus ML parameters made in OnPing
 DEADLINE: <2026-07-07 Tue>
 
 * TODO Retrain Well Models
-SCHEDULED: <2026-08-28 Fri> DEADLINE: <2026-08-29 Sat>
+DEADLINE: <2026-09-07 Mon>
 
 * DONE Four Point - Hayden Pierce 
 DEADLINE: <2026-07-07 Tue>
 
 * TODO [[https://outlook.cloud.microsoft/mail/inbox/id/AAQkADE5M2ZjODFmLWNmZjItNDQ0My04NTg2LWFlYjU5YmQxYzQzOAAQABOHj%2Bl9mFdPm%2FSrqWq4QOs%3D][Freedom Energy Pricing with new wells]]
-DEADLINE: <2026-08-29 Sat>
+DEADLINE: <2026-09-07 Mon>
 
 * DONE Adjust Dallas pricing to 780.60
 DEADLINE: <2026-07-25 Sat>
 
 * TODO [[https://outlook.cloud.microsoft/mail/inbox/id/AAQkADE5M2ZjODFmLWNmZjItNDQ0My04NTg2LWFlYjU5YmQxYzQzOAAQANfvJsSjJuJKiedDqfh7g%2B8%3D][Ergon Lane Sign]]
-DEADLINE: <2026-08-29 Sat>
+DEADLINE: <2026-09-07 Mon>
 
 * TODO Rabbit MQ Feature and Doc gen
-DEADLINE: <2026-08-27 Thu>
+DEADLINE: <2026-09-01 Tue>
 
 * TODO Counts on Davis Bros LJ
-DEADLINE: <2026-08-27 Thu>
+DEADLINE: <2026-09-01 Tue>
 
 * DONE Work on Holdout pricing
 DEADLINE: <2026-08-22 Sat>
@@ -156,7 +156,7 @@ DEADLINE: <2026-08-25 Tue>
 DEADLINE: <2026-08-25 Tue>
 
 * TODO Work on LoRa for firefly
-DEADLINE: <2026-08-29 Sat>
+DEADLINE: <2026-09-07 Mon>
 
 * DONE Add features for Mirko
 DEADLINE: <2026-08-26 Wed>
@@ -192,13 +192,13 @@ DEADLINE: <2026-08-26 Wed>
 DEADLINE: <2026-08-26 Wed>
 
 * TODO CCL Register Domain
-SCHEDULED: <2026-08-28 Fri> DEADLINE: <2026-08-29 Sat>
+DEADLINE: <2026-09-01 Tue>
 
 * TODO Finish test hardening for plunger_opt
-DEADLINE: <2026-08-26 Wed>
+DEADLINE: <2026-09-01 Tue>
 
 * TODO Look at Barkley and Seth emails.
-DEADLINE: <2026-08-28 Fri>
+DEADLINE: <2026-09-07 Mon>
 
 * TODO Nathan Validus: Fall Velocity
 DEADLINE: <2026-09-01 Tue>

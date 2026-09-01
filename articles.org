@@ -1,12 +1,12 @@
 * Arxiv Review - Have you looked at what you arleady have!!
-DEADLINE: <2026-08-26 Wed>
+DEADLINE: <2026-09-01 Tue>
 
 * DONE [[https://www.inc.com/jeff-haden/elon-musks-algorithm-a-5-step-process-to-dramatically-improve-nearly-everything-is-both-simple-brilliant.html][5 Step Elon Algo]]
 DEADLINE: <2025-10-24 Fri>
 * DONE [[https://sachachua.com/blog/2025/01/editing-videos-with-emacs-and-subed-record-el/][Emacs Video Editing]]
 DEADLINE: <2025-10-24 Fri>
 * TODO Find out about the P programming lanugage
-DEADLINE: <2026-08-26 Wed>
+DEADLINE: <2026-09-01 Tue>
 * DONE [[https://qwenlm.github.io/blog/qwen3-coder/][qwen coder]]
 DEADLINE: <2025-10-24 Fri>
 
@@ -18,4 +18,4 @@ This blog post is something I really need to read. It goes over a lot of evaluat
 * DONE [[https://towardsdatascience.com/prompt-engineering-for-time-series-analysis-with-large-language-models/][Prompt Engineering for Time series analysis]]
 DEADLINE: <2025-10-29 Wed>
 * TODO [[https://lilianweng.github.io/posts/2026-07-04-harness/][Harness Engineering]]
-DEADLINE: <2026-08-26 Wed>
+DEADLINE: <2026-09-01 Tue>
