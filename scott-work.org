@@ -83,7 +83,7 @@ DEADLINE: <2026-06-23 Tue>
 DEADLINE: <2026-06-02 Tue>
 
 * TODO Check on seth lawsuit
-DEADLINE: <2026-09-07 Mon>
+DEADLINE: <2026-09-16 Wed>
 
 * DONE Work on getting pid templates first draft for Validus
 DEADLINE: <2026-06-23 Tue>
@@ -103,41 +103,41 @@ DEADLINE: <2026-06-23 Tue>
 DEADLINE: <2026-06-23 Tue>
 
 * TODO Hey Scott - that MQTT pipeline sending the dynacard 
-DEADLINE: <2026-09-04 Fri>
+DEADLINE: <2026-09-12 Sat>
 Hey Scott - that MQTT pipeline for sending the dynacard to the LJ should be in place. Not sure that Jaime or Tyler let you know. It’s on the Knoss unit and should be running now. 
 
 * TODO [[https://www.rahuljuliato.com/posts/emacs-31-around-the-corner][Emacs 31 replace non builtins]]
-DEADLINE: <2026-09-07 Mon>
+DEADLINE: <2027-03-09 Tue>
 
 * DONE Get Validus ML parameters made in OnPing
 DEADLINE: <2026-07-07 Tue>
 
 * TODO Retrain Well Models
-DEADLINE: <2026-09-07 Mon>
+DEADLINE: <2026-09-12 Sat>
 
 * DONE Four Point - Hayden Pierce 
 DEADLINE: <2026-07-07 Tue>
 
 * TODO [[https://outlook.cloud.microsoft/mail/inbox/id/AAQkADE5M2ZjODFmLWNmZjItNDQ0My04NTg2LWFlYjU5YmQxYzQzOAAQABOHj%2Bl9mFdPm%2FSrqWq4QOs%3D][Freedom Energy Pricing with new wells]]
-DEADLINE: <2026-09-07 Mon>
+DEADLINE: <2026-09-12 Sat>
 
 * DONE Adjust Dallas pricing to 780.60
 DEADLINE: <2026-07-25 Sat>
 
 * TODO [[https://outlook.cloud.microsoft/mail/inbox/id/AAQkADE5M2ZjODFmLWNmZjItNDQ0My04NTg2LWFlYjU5YmQxYzQzOAAQANfvJsSjJuJKiedDqfh7g%2B8%3D][Ergon Lane Sign]]
-DEADLINE: <2026-09-07 Mon>
+DEADLINE: <2026-09-12 Sat>
 
 * TODO Rabbit MQ Feature and Doc gen                                     :1d:
-DEADLINE: <2026-09-02 Wed>
+DEADLINE: <2026-09-12 Sat>
 
 * TODO Counts on Davis Bros LJ
-DEADLINE: <2026-09-02 Wed>
+DEADLINE: <2026-09-12 Sat>
 
 * DONE Work on Holdout pricing
 DEADLINE: <2026-08-22 Sat>
 
 * TODO [[https://outlook.cloud.microsoft/mail/inbox/id/AAQkADE5M2ZjODFmLWNmZjItNDQ0My04NTg2LWFlYjU5YmQxYzQzOAAQANOFxKcKcxNAsobv8XFsEfc%3D][Chase Fix]]
-DEADLINE: <2026-09-04 Fri>
+DEADLINE: <2026-09-12 Sat>
 
 * DONE Worth noting the LLM reported [APPLIED] Behavior STABLE, 100% arrivals
 DEADLINE: <2026-08-12 Wed>
@@ -156,7 +156,7 @@ DEADLINE: <2026-08-25 Tue>
 DEADLINE: <2026-08-25 Tue>
 
 * TODO Work on LoRa for firefly
-DEADLINE: <2026-09-07 Mon>
+DEADLINE: <2026-09-12 Sat>
 
 * DONE Add features for Mirko
 DEADLINE: <2026-08-26 Wed>
@@ -201,34 +201,64 @@ DEADLINE: <2026-09-01 Tue>
 DEADLINE: <2026-09-07 Mon>
 
 * TODO Nathan Validus: Fall Velocity :OnPing:
-SCHEDULED: <2026-09-01 Tue> DEADLINE: <2026-09-02 Wed>
+DEADLINE: <2026-09-12 Sat>
 
 * TODO Vehicles Year, Make, VIN, Value , garaging address :COOKIE:
-SCHEDULED: <2026-09-01 Tue> DEADLINE: <2026-09-02 Wed>
+DEADLINE: <2026-09-12 Sat>
 
 * TODO Drivers: copies of license for all operators :COOKIE:
-SCHEDULED: <2026-09-01 Tue> DEADLINE: <2026-09-02 Wed>
+DEADLINE: <2026-09-12 Sat>
 
 * TODO Coverage: What coverage are you requiring for the vehicle :COOKIE:
-SCHEDULED: <2026-09-01 Tue> DEADLINE: <2026-09-02 Wed>
+DEADLINE: <2026-09-12 Sat>
 
 * TODO Name and mailing address for the named insured(company) :COOKIE:
-SCHEDULED: <2026-09-01 Tue> DEADLINE: <2026-09-02 Wed>
+DEADLINE: <2026-09-12 Sat>
 
 * TODO Copy of Corporation Certificate showing ownership with both parties in one Corporation :COOKIE:FIREFLY:
-SCHEDULED: <2026-09-01 Tue> DEADLINE: <2026-09-02 Wed>
+DEADLINE: <2026-09-12 Sat>
 
-* TODO W4 for both parties (new company requirement)
-SCHEDULED: <2026-09-01 Tue> DEADLINE: <2026-09-02 Wed>
+* DONE W4 for both parties (new company requirement)
+DEADLINE: <2026-09-10 Thu>
 
 * TODO Signature pages for Group Documents :FIREFLY:
-SCHEDULED: <2026-09-01 Tue> DEADLINE: <2026-09-02 Wed>
+DEADLINE: <2026-09-12 Sat>
 
 * TODO Application from partner (showing other coverage) and your application with all information :FIREFLY::COOKIE:
-SCHEDULED: <2026-09-01 Tue> DEADLINE: <2026-09-02 Wed>
+DEADLINE: <2026-09-12 Sat>
 
 * TODO Schedule call to gather information for group paperwork :FIREFLY:
-SCHEDULED: <2026-09-01 Tue> DEADLINE: <2026-09-02 Wed>
+DEADLINE: <2026-09-12 Sat>
 
 * TODO Add AI Status to wells :OnPing:
-DEADLINE: <2026-09-02 Wed>
+DEADLINE: <2026-09-12 Sat>
+
+* TODO Contact Kayla about Pilot Agreement :COOKIE:
+SCHEDULED: <2026-09-11 Fri> DEADLINE: <2026-09-14 Mon>
+
+* TODO Get Ramp API Set up :COOKIE:FIREFLY:
+DEADLINE: <2026-09-12 Sat>
+
+* TODO Read full firefly email chain and alibaba chain :FIREFLY:
+SCHEDULED: <2026-09-09 Wed> DEADLINE: <2026-09-12 Sat>
+
+* TODO Set up Accounts in Ledger                                    :FIREFLY:COOKIE:
+SCHEDULED: <2026-09-11 Fri> DEADLINE: <2026-09-12 Sat>
+
+* TODO Begin AWS setup for CCL :COOKIE:
+DEADLINE: <2026-09-14 Mon>
+
+* TODO Pay BCBS 
+SCHEDULED: <2026-09-11 Fri> DEADLINE: <2026-09-12 Sat>
+
+* TODO Get Car Insurance 
+SCHEDULED: <2026-09-11 Fri> DEADLINE: <2026-09-12 Sat>
+
+* TODO Sign checks :PLOW:
+SCHEDULED: <2026-09-11 Fri> DEADLINE: <2026-09-12 Sat>
+
+* TODO Redo Google SAML :FIREFLY:
+SCHEDULED: <2026-09-11 Fri> DEADLINE: <2026-09-11 Fri>
+
+* TODO Review Draft
+DEADLINE: <2026-09-11 Fri>

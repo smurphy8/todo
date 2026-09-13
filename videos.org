@@ -2,12 +2,12 @@
 DEADLINE: <2024-01-10 Wed>
 * TODO Introducing Data Tables
 * TODO How to use data analysis
-DEADLINE: <2026-09-02 Wed>
+DEADLINE: <2026-09-18 Fri>
 * DONE Intro to Control Parameters
 DEADLINE: <2026-08-31 Mon>
 * TODO Alarms
 * TODO Call Orders
-DEADLINE: <2026-09-02 Wed>
+DEADLINE: <2026-09-18 Fri>
 * DONE Write a what is OnPing Animation video 
 DEADLINE: <2026-08-31 Mon>
 * DONE Downhole Card Time Travel
