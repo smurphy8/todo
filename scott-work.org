@@ -262,3 +262,16 @@ SCHEDULED: <2026-09-11 Fri> DEADLINE: <2026-09-11 Fri>
 
 * TODO Review Draft
 DEADLINE: <2026-09-11 Fri>
+
+* <2026-10-12 Mon> Meeting with Dave
+** Meeting notes
+*** Success Criteria
+- Actuals vs Trend Line
+- Downtime Reduction (line pressure events for example)
+- Time to optimized post downtime or plunger change
+- Time pro's and con's
+** Follow-up tasks
+*** TODO Data dump with daily gas production for pilot wells (Dave to send)
+*** TODO Take a stab at gas model that we can stack hands on
+*** TODO Take a stab at casing pressure
+*** TODO Next list of 100 wells (Dave to send)
